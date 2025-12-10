@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add @import call for Typekit fonts
+//
 // =============================================================================
 // Fonts.scss
 // -----------------------------------------------------------------------------
@@ -7,6 +11,9 @@ $assets-dir: "/_assets/" !default;
 @function font($file) {
   @return url($assets-dir + 'fonts/' + $file);
 }
+
+@import url("https://use.typekit.net/dlp6kgq.css");
+
 ////
 // IBM Plex Sans Condensed
 // https://github.com/IBM/plex
