@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Add section name (based on directory) above article title
+// Add elements for PDF footers, with last names for contributors
+//
 import { html } from '#lib/common-tags/index.js'
 import path from 'node:path'
 
@@ -10,8 +15,10 @@ import checkFormat from '../../_plugins/collections/filters/output.js'
  */
 export default function (eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
+  const titleCase = eleventyConfig.getFilter('titleCase')
 
   const { labelDivider } = eleventyConfig.globalData.config.pageTitle
   const { imageDir } = eleventyConfig.globalData.config.figures
@@ -42,12 +49,21 @@ export default function (eleventyConfig) {
     return (config.pagePDF.output === true && frontmatterSetting !== false) || frontmatterSetting === true
   }
 
+  const {
+    pub_date: pubDate,
+    series_issue_number: issueNumber,
+    title: pubTitle
+  } = eleventyConfig.globalData.publication
+
   return function (params) {
     const {
       byline_format: bylineFormat,
+      contributor,
+      filePathStem,
       image,
       label,
       pageContributors,
+      short_title: shortTitle,
       subtitle,
       title,
       outputs,
@@ -84,6 +100,9 @@ export default function (eleventyConfig) {
       : ''
 
     let downloadLink = ''
+    const paths = filePathStem ? filePathStem.match(/[^\/]+/g) : ''
+    const section = paths.length - 2
+    const sectionName = paths.length > 1 ? titleCase(paths[section].replaceAll('-', ' ')) : ''
 
     if (checkPagePDF(pdfConfig, outputs, pagePDFOutput)) {
       const text = pdfConfig.pagePDF.accessLinks.find((al) => al.header === true).label
@@ -95,15 +114,24 @@ export default function (eleventyConfig) {
       `
     }
 
+    const sectionElement = sectionName ? `<span class="section-name" data-outputs-exclude="epub,pdf">${sectionName}</span>` : ''
+
+    const lastNames = contributor && contributor.length == 1 ? `${contributor[0].last_name}`
+      : contributor && contributor.length == 2 ? `${contributor[0].last_name} and ${contributor[1].last_name}`
+      : ''
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
           <h1 class="quire-page__header__title" id="${slugify(title)}">
+            ${sectionElement}
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
           ${contributorsElement}
           ${downloadLink}
+          <span class="pdf-footers__title">${lastNames} / ${markdownify(shortTitle || title)}</span>
+          <span class="pdf-footers__issue">${pubTitle}, No. ${issueNumber} (${pubDate.getFullYear()})</span>
         </div>
       </section>
       ${imageElement}

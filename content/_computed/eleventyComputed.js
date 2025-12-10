@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Changed pagination so next/prev pages can be overridden on individual pages
+// and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
+//
 /* eslint-disable camelcase */
 import chalkFactory from '#lib/chalk/index.js'
 
@@ -89,6 +94,7 @@ export default {
         image: data.image,
         label: data.label,
         layout: data.layout,
+        linked_page: data.linked_page,
         object: data.object,
         order: data.order,
         page_pdf_output: data.page_pdf_output,
@@ -117,7 +123,7 @@ export default {
   /**
    * Classes applied to <main> page element
    */
-  classes: ({ collections, classes = [], page }) => {
+  classes: ({ collections, classes=[], page }) => {
     const computedClasses = []
     // Add computed frontmatter and page-one classes
     const pageIndex = collections.allSorted.findIndex(({ outputPath }) => outputPath === page.outputPath)
@@ -133,16 +139,10 @@ export default {
     // add custom classes from page frontmatter
     return computedClasses.concat(filteredClasses)
   },
-  pageContributors: ({ collections, contributor, contributor_as_it_appears, page }) => {
-    if (!contributor) return []
-
+  pageContributors: ({ contributor, contributor_as_it_appears }) => {
+    if (!contributor) return
     if (contributor_as_it_appears) return contributor_as_it_appears
-
-    if (!collections.all) {
-      return contributor
-    }
-
-    return contributor.map((c) => addPages(c, collections, page?.url))
+    return (Array.isArray(contributor)) ? contributor : [contributor]
   },
   /**
    * Compute a 'pageData' property that includes the page and collection page data
@@ -192,13 +192,28 @@ export default {
     if (!page || !collections.navigation.length) return {}
     const currentPageIndex = collections.navigation
       .findIndex(({ url }) => url === page.url)
+
     if (currentPageIndex === -1) return {}
+
+    // Check if the page has an override for the its next/prev nav partners
+    let previousPage = collections.navigation[currentPageIndex - 1]
+    if ( collections.navigation[currentPageIndex].data.previousPage || collections.navigation[currentPageIndex].data.previousPage==="" ) {
+      const previousPageUrl = collections.navigation[currentPageIndex].data.previousPage
+      previousPage = collections.navigation.find(({ url }) => url === previousPageUrl) 
+    }
+
+    let nextPage = collections.navigation[currentPageIndex + 1]
+    if ( collections.navigation[currentPageIndex].data.nextPage || collections.navigation[currentPageIndex].data.nextPage==="" ) {
+      const nextPageUrl = collections.navigation[currentPageIndex].data.nextPage
+      nextPage = collections.navigation.find(({ url }) => url === nextPageUrl) 
+    }
+
     return {
       currentPage: collections.navigation[currentPageIndex],
       currentPageIndex,
       percentProgress: 100 * (currentPageIndex + 1) / collections.navigation.length,
-      nextPage: collections.navigation[currentPageIndex + 1],
-      previousPage: collections.navigation[currentPageIndex - 1]
+      nextPage,
+      previousPage
     }
   },
   /**
@@ -211,7 +226,7 @@ export default {
     const parentSegment = segments.slice(1, segments.length - 2).join('/')
     return parent || parentSegment
   },
-  parentPage: ({ collections, parent }) => {
+  parentPage:({ collections, parent }) => {
     return collections.all.find((item) => parent && item.data.key === parent)
   },
   /**
@@ -219,26 +234,40 @@ export default {
    */
   publicationContributors: ({ collections, config, page, publication }) => {
     if (!collections.all) return
-    if (!publication.contributor) return []
+    let publicationContributors = Array.isArray(publication.contributor)
+      ? publication.contributor
+      : []
+    publicationContributors = publicationContributors.filter((item) => item)
+    if (!publicationContributors.length) return
 
-    // NB: filter empty items (unresolved promises?) from publication.contributor
-    let contributors = publication.contributor.filter(Boolean)
-    const inPubData = (contrib) => !!contributors.find((c) => c.id === contrib.id || (!contrib.id && contrib.first_name === c.first_name && contrib.last_name === c.last_name))
+    /**
+     * Add `pages` properties to contributor with limited `page` model
+     */
+    const addPages = (contributor) => {
+      const { id } = contributor
+      contributor.pages = collections.all.flatMap(
+        (page) => {
+          const { data, url } = page
+          const { contributor, label, subtitle, title } = data
+          if (!contributor) return []
+          const includePage = Array.isArray(contributor)
+            ? contributor.find((item) => item.id === id)
+            : contributor.id === id
+          return includePage ? {
+            label,
+            subtitle,
+            title,
+            url
+          } : []
+        }
+      )
+      return contributor
+    }
+    const pageContributors = collections.all.flatMap(({ data }) => data.pageContributors || [])
 
-    // Add unique'd contributors that are present in page headmatter only
-    const headmatterOnly = new Map()
-    collections.allSorted.flatMap((page) => {
-      return (page.data.contributor ?? []).filter((c) => !inPubData(c))
-    }).forEach((contributor) => {
-      const { id, first_name, last_name } = contributor
-      const key = id ?? `${first_name} ${last_name}`
-
-      headmatterOnly.set(key, contributor)
-    })
-
-    contributors = contributors.concat(Array.from(headmatterOnly.values()))
-      .map((c) => addPages(c, collections))
-
-    return contributors
+    const uniqueContributors = publicationContributors.concat(pageContributors)
+      .filter((value, index, array) => array.findIndex((item) => item.id === value.id) === index)
+      .map(addPages)
+    return uniqueContributors
   }
 }
