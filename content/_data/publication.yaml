@@ -11,33 +11,61 @@
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 url: 'https://main--grj-21.netlify.app'
 
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Getty Research Journal
+subtitle:
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "The *Getty Research Journal* presents peer-reviewed articles on the visual arts of all cultures, regions, and time periods. Topics often relate to Getty collections, initiatives, and broad research interests. The journal welcomes a diversity of perspectives and methodological approaches, and seeks to include work that expands narratives on global culture."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2026-09-21 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: journal-periodical # book | journal-periodical | other
+
+series_issue_number: 21
+
+series_editors:
+  - Doris Chon, *Executive Editor*
+  - Lauren Gendler, *Managing Editor*
+
+series_advisory_committee: "Maristella Casciato, Jens Daehner, Leonard Folgarait, Susan Elizabeth Gagliardi, Stavroula Golfomitsou, Mazie Harris, Kristin Juarez, Alpesh Kantilal Patel, and Emily Pugh"
+
+project_team:
+  - Lauren Gendler, *Manuscript Editor*
+  - Ariel Waitkuweit, *Editorial Assistant*
+  - Jenny Park, *Production*
+  - Jon Grizzle, *Cover design*
+  - Greg Albers, *Digital Manager*
+  - Erin Cecele Dunigan and Alba Menéndez Pereda, *Digital Assistants*
 
 identifier:
+  doi: https://doi.org/10.59491/XXXXXX
   isbn:
+  isbn_html: 979-8-88712-056-0
+  isbn_pdf: 979-8-88712-055-3
+  isbn_epub: 979-8-88712-054-6
+  isbn_paperback: 979-8-88712-053-9
+  issn: 1944-8740
+  e_issn: 2329-1249
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Research Institute
     location: Los Angeles
     url:
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,26 +74,28 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+  - id: dchon
+    first_name: Doris
+    last_name: Chon
+    title: Editor
+    affiliation: Getty Research Journal
+  - id: lgendler
+    first_name: Lauren
+    last_name: Gendler
+    title: Managing Editor
+    affiliation: Getty Research Journal
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2026 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution‑NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -73,27 +103,39 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (## MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /_assets/downloads/output.pdf
+    url: /_assets/downloads/getty-research-journal-21.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (## MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /_assets/downloads/output.epub
-  - type: footer-link
-    name: About
-    link_relation: about
-    url: /about/
+    url: /_assets/downloads/getty-research-journal-21.epub
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
+  - type: masthead
+    name: All Issues
+    url: https://www.getty.edu/publications/getty-research-journal/
+  - type: masthead
+    name: Submissions
+    url: https://grj.scholasticahq.com/for-authors
+  - type: masthead
+    name: New Issue Alerts
+    url: https://newsletters.getty.edu/h/t/499F6E66BD8D4883
+  
+  
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -101,23 +143,33 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: keywords
-    name: photography, black-and-white, great despression
+    name: Criticism & Theory
+    identifer: ART009000ART
+  - type: bisac
+    name: ART / Annuals
+    identifier: ART054000
+  - type: bisac
+    name: ART / Collections, Catalogs, Exhibitions / Permanent Collections
+    identifier: ART006020
+  - type: keyword
+    name: ""
 
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
-revision_history:
-  - date:
-    summary:
 
-repository_url:
+revision_history:
+  - date: September 21, 2026
+    summary:
+      - First edition
+
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/grj-21](https://github.com/thegetty/grj-21), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/grj-21
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: cover-promo.jpg
