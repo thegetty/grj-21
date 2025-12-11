@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Added caption and class parameters that can be fed in from shortcode
+// And simplified HTML markup to remove rows
+//
 import { oneLine } from '#lib/common-tags/index.js'
 import chalkFactory from '#lib/chalk/index.js'
 import figure from './figure.js'
@@ -12,8 +17,9 @@ const logger = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 export default function (eleventyConfig, { page }) {
-  return async function (columns, ids = []) {
+  return async function (columns, ids = [], caption, classes) {
     columns = parseInt(columns)
+    const figureCaption = eleventyConfig.getFilter('figureCaption')
 
     /**
      * Parse the ids arg for figure identifiers
@@ -32,21 +38,19 @@ export default function (eleventyConfig, { page }) {
     //   logger.warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
     // }
 
-    const classes = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
-    const rows = Math.ceil(ids.length / columns)
-    const figureTags = []
-    for (let i = 0; i < rows; ++i) {
-      const startIndex = i * columns
-      let row = ''
-      for (const id of ids.slice(startIndex, columns + startIndex)) {
-        row += await figure(eleventyConfig, { page }).bind(this)(id, classes)
-      }
-      figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
+    let figureTags = []
+    for (let i=0; i < ids.length; i++) {
+      figureTags += await figure(eleventyConfig, { page }).bind(this)(ids[i])
     }
 
+    const captionElement = caption ? figureCaption({ caption }) : ''
+
+    const customClasses = classes ? classes : ''
+
     return oneLine`
-      <figure class="q-figure q-figure--group">
-        ${figureTags.join('\n')}
+      <figure class="q-figure q-figure--group quire-grid--${columns} ${customClasses}">
+        ${figureTags}
+        ${captionElement}
       </figure>
     `
   }

@@ -1,4 +1,7 @@
 ---
+## CUTOMIZED FILE
+## Add journal issue info and publisher, remove contributor
+##
 classes:
  - quire-cover
 description: Quire publication cover page
@@ -20,22 +23,9 @@ layout: base.11ty.js
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
         {{ publication.title | markdownify }}
-        {% if publication.subtitle %}
-          <span class="visually-hidden">: </span>
-          <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
-        {% endif %}
       </h1>
-      {% if publication.reading_line %}
-        <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
-      {% endif %}
-      <div class="contributor">
-        <span class="visually-hidden">Contributors: </span>
-        {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
-        {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
-        {% endif %}
-      </div>
+      <p class="issue-info">Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }}</p>
+      <p class="publisher">Published by the {{ publication.publisher[0].name }}</p>
     </div>
   </div>
 </section>

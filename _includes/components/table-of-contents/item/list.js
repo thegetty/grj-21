@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, line 69
+// Don't link to section landing pages marked as `linked_page: false`
+//
 /* eslint-disable camelcase */
 
 import { html, oneLine } from '#lib/common-tags/index.js'
@@ -33,7 +38,7 @@ export default function (eleventyConfig) {
       abstract,
       contributor: pageContributors,
       label,
-      layout,
+      linked_page: linkedPage,
       short_title,
       subtitle,
       summary,
@@ -44,7 +49,7 @@ export default function (eleventyConfig) {
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = !!layout
+    const isPage = linkedPage == false ? false : true
 
     const pageContributorsElement = pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
@@ -65,12 +70,12 @@ export default function (eleventyConfig) {
         ? `<div class="abstract-text">${removeHTML(markdownify(abstract))}</div>`
         : ''
 
-    let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
+    let mainElement = `${pageTitleElement}${isPage && !children ? arrowIcon : ''}`
 
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
     } else {
-      classes.push('no-landing')
+      mainElement = `<span class="no-landing">${mainElement}</span>`
     }
 
     return html`

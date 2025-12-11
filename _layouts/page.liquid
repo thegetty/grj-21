@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Add page tools and copyright handling
+##
 classes:
   - quire-page
 layout: base.11ty.js
@@ -17,9 +20,15 @@ description: Single page default template
   outputs=outputs
 %}
 {% if content %}
+{% include 'page-tools' %}
 <section class="section quire-page__content">
   <div class="container">
     <div class="content">
+      {% if copyright %}
+      <section class="quire-page__content page-tools__copyright" data-outputs-exclude="html">
+      {{ copyright | markdownify }}
+      </section>
+      {% endif %}
       {{ content }}
       {% bibliography citations outputs page_pdf_output %}
     </div>

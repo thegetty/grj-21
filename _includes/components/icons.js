@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Replace default `fullscreen-icon` with a 600 weight version to match caption styles
+//
 import { html } from '#lib/common-tags/index.js'
 
 /**
@@ -52,8 +56,8 @@ export default function (eleventyConfig) {
           <path
             d="M38.5 25H27V14c0-.553-.448-1-1-1s-1 .447-1 1v11H13.5c-.552 0-1 .447-1 1s.448 1 1 1H25v12c0 .553.448 1 1 1s1-.447 1-1V27h11.5c.552 0 1-.447 1-1s-.448-1-1-1z" />
         </symbol>
-        <symbol id="fullscreen-icon" viewBox="0 0 24 24">
-          <path d="M0 0h24v24H0z" fill="none"/><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+        <symbol id="fullscreen-icon" viewBox="0 -960 960 960">
+          <path d="M170.521-170.521v-226.48h98.001v128.479h128.479v98.001h-226.48Zm0-392.478v-226.48h226.48v98.001H268.522v128.479h-98.001Zm392.478 392.478v-98.001h128.479v-128.479h98.001v226.48h-226.48Zm128.479-392.478v-128.479H562.999v-98.001h226.48v226.48h-98.001Z"/>
         </symbol>
         <symbol id="add-circle-icon" viewBox="0 0 20 20">
           <path d="M9.25 14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25H6v1.5h3.25Zm.75 4q-1.646 0-3.104-.625-1.458-.625-2.552-1.719t-1.719-2.552Q2 11.646 2 10q0-1.667.625-3.115.625-1.447 1.719-2.541Q5.438 3.25 6.896 2.625T10 2q1.667 0 3.115.625 1.447.625 2.541 1.719 1.094 1.094 1.719 2.541Q18 8.333 18 10q0 1.646-.625 3.104-.625 1.458-1.719 2.552t-2.541 1.719Q11.667 18 10 18Zm0-1.5q2.708 0 4.604-1.896T16.5 10q0-2.708-1.896-4.604T10 3.5q-2.708 0-4.604 1.896T3.5 10q0 2.708 1.896 4.604T10 16.5Zm0-6.5Z"/>
