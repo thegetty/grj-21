@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://main--grj-21.netlify.app'
+url: 'https://first-pages--grj-21.netlify.app'
 
 # -----------------------------------------------------------------------------
 # Title & Description
@@ -26,14 +26,14 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2026-09-21 # YYYY-MM-DD
+pub_date: 2026-09-01 # YYYY-MM-DD
 language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
 series_issue_number: 21
 
 series_editors:
-  - Doris Chon, *Executive Editor*
+  - Doris Chon, *Editor*
   - Lauren Gendler, *Managing Editor*
 
 series_advisory_committee: "Maristella Casciato, Jens Daehner, Leonard Folgarait, Susan Elizabeth Gagliardi, Stavroula Golfomitsou, Mazie Harris, Kristin Juarez, Alpesh Kantilal Patel, and Emily Pugh"
