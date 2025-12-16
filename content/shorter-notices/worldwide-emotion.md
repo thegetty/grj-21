@@ -8,5 +8,7 @@ copyright:
 abstract: 
 peer_review: 
 doi: 
+nextPage: "/shorter-notices/becoming-simone-forti/"
+previousPage: "/primed-to-see/"
 page_pdf_output: true
 ---
