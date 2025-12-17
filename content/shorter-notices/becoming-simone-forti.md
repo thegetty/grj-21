@@ -8,7 +8,7 @@ copyright:
 abstract: 
 peer_review: 
 doi: 
-nextPage: "/conversation/this-show-is-so-metal/
+nextPage: "/conversation/this-show-is-so-metal/"
 previousPage: "/shorter-notices/worldwide-emotion/"
 page_pdf_output: true
 ---

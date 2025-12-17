@@ -21,7 +21,7 @@ contributor:
     bio: "**Karen Trentelman** is senior scientist at the Getty Conservation Institute."  
 copyright: 
 abstract: "Acquired by J. Paul Getty himself in 1968, the Getty Museum’s fragment of a fresco depicting a peacock (68.AG.13) has long been a favorite among visitors. Hitherto considered to be an ancient Roman work produced in Campania circa 70 CE, it has been reproduced as museum merchandise, textbook illustrations, and gift-shop decor. Recent technical examination and analyses combined with historical research, however, reveal that the popular peacock is not in fact ancient, nor does it seem to be a forgery. Rather, it appears to be a reproduction of a now-lost fresco from a Pompeian house that was fashioned to decorate an early twentieth-century “free Greek-style” bungalow designed by architect Robert Alexander Briggs in the English countryside."
-keywords" "Roman wall painting, Getty Peacock fresco, Pompeii, House of Siricus, Robert Alexander Briggs"
+keywords: "Roman wall painting, Getty Peacock fresco, Pompeii, House of Siricus, Robert Alexander Briggs"
 peer_review: "Double anonymous, external"
 doi: 
 page_pdf_output: true
@@ -107,3 +107,99 @@ In 2006, in conjunction with the reopening of the Getty Villa after a major reno
 {% endfor %}
 
 ## Notes {.notes-heading}
+
+[^1]: Notes
+
+    The authors of this study are grateful to Mark Abbe, M. Arnold, Will Austin, Judith Barr, Hilary Becker, Edward Bottoms, Rob Briggs, Julian Brooks, Nicole Budrovich, David Carson, Pia Chamberlain, John Clarke, James Crouch, Michelle Da Silva, Mike Eden, Rhona Elstone, John Fidler, Susanne Gänsicke, Regina Gee, Kiernan Graves, Arlen Heginbotham, Sarah Lepinski, Irene Machariah, Joy Mazurek, John McInally, Fiona Mann, Devi Ormond, Christiana Payne, Leslie Rainer, David Saunders, Jeffrey Spier, Miranda Stead, Jeanne Marie Teutonico, Simeon Wilkie, Lewis Wood, and Gabriele Zuchtriegel for generously providing access, information, and insights at various points in their investigations.
+
+    Minutes of the meeting are housed in the files of the Department of the Registrar of the J. Paul Getty Museum. Mosaic floor with Achilles and Briseis, Roman, possibly Antioch, Syria (present-day Antakya, Turkey), 100–300 CE, stone mosaic and glass tesserae, J. Paul Getty Museum, 68.AH.12, https://www.getty.edu/art/collection/object/103SPQ; and Homer, *The* *Iliad,* trans. Name TK (publisher TK, date TK) 1.327–48.
+
+[^2]: Statue of Hercules (Lansdowne Herakles), Roman, ca. 125 CE, marble, J. Paul Getty Museum, 70.AA.109, https://www.getty.edu/art/collection/object/103QSP.
+
+[^3]: “The J. Paul Getty Museum,” visitor guide, 1974, 11. On the masthead, the guide states “This is a temporary guide for the assistance of visitors during the period immediately after the opening of the new Museum.” Location of item TK.
+
+[^4]: Cornelius Vermeule and Norman Neuerburg, *Catalogue of the Ancient Art in the J. Paul Getty Museum: The Larger Statuary, Wall Paintings and Mosaics,* vol. TK (Malibu, 1973), 50, no. 108.
+
+[^5]: Robert Alexander Briggs, preface to *Pompeian Decorations* (London, 1911), p. TK.
+
+[^6]: “Two Friezes,” text preceding two unnumbered plates from the House of Siricus, in Briggs, *Pompeian Decorations*, n.p.
+
+[^7]: These rooms are alternately numbered 3, 5 and 2, 11. See Fausto and Felice Niccolini, *Le case ed i monumenti di Pompei, disegnati et descritti,* vol. 1 (Naples, 1854), 2: “In the middle are some symbols of the principal deities, the peacock sacred to Juno, the eagle and the globe of Jupiter, the doe with the quiver of Diana, a griffin in front of the lyre of Apollo, the mystical cista and the sistrum of Isis near a sphinx, the bird of Minerva, etc.” Translation of the quotation from the Italian by the present authors/names TK; and Johannes Overbeck, *Pompeji in seinen Gebäuden, Alterthümern und Kunstwerken* (Leipzig, 1875), 285–6: “which is decorated on white walls with light ornaments and small landscapes and with an interesting sequence of attributes of the gods (eagle, lightning and globe for Zeus, peacock and wool basket for Hera, griffin and kithara for Apollo, etc.” Translation of the quotation from the German by the present authors/names TK. Very similar text appears in Johannes Overbeck, *Pompeji in seinen Gebäuden, Alterthümern und Kunstwerke* (Leipzig, 1884), 322–3.
+
+[^8]: For peacocks in ancient art and thought, see, for example, J. M. C. Toynbee, *Animals in Roman Life and Art* (Cornell University Press, 1973), esp. 250–53; John Pollard, *Birds in Greek Life and Myth* (Thames and Hudson, 1977), pp. TK; and W. Geoffrey Arnott, *Birds in the Ancient World from A to Z* (Routledge, 2007), pp. TK.
+
+[^9]: Peacocks depicted in profile with upward curving tails do, however, appear perched on silver basins and a thin vegetal garland in the House of the Vettii at Pompeii (VI.15.1).
+
+[^10]: See the “Bibliography” section of the object page for Wall fragment with a peacock, Los Angeles, J. Paul Getty Museum, 68.AG.13, https://www.getty.edu/art/collection/object/103SPR?tab=bibliography.
+
+[^11]: Ruth Siddall, “Not a Day Without a Line Drawn: Pigments and Painting Techniques of Roman Artists,” *infocus Magazine,* June 2006, 18–23, 24; and Giovanni Verri, “The Spatial Characterization of Egyptian Blue, Han blue and Han Purple by Photo-Induced Luminescence Digital Imaging,” *Analytical and Bioanalytical Chemistry* 394 (2009): 1011–21.
+
+[^12]: No other components were detected. XRD patterns were collected using a Rigaku MiniFlex 600 benchtop X-ray diffractometer equipped with a copper (Cu) tube operating at 40 kilovolts (kV)/15 milliamps (mA), with a 0.03-millimeter (mm) Nickel (Ni) filter, and a DTex Ultra detector. Randomly oriented powder was scanned in spin mode from 2° to 80° 2Ɵ, with a 0.01° 2Ɵ step size and counting time of 2 degrees per second (deg/s). Data analysis was carried out using Rigaku PDXL 2 software and Profex. See Nicola Doebelin and Reinhard Kleeberg, “Profex: A Graphical User Interface for the Rietveld Refinement Program BGMN,” *Journal of Applied Crystallography* 48, no. 5 (2015): 1573–80.
+
+[^13]: UVF imaging captures diagnostic responses of materials when excited by UV radiation, allowing pigments to be characterized and ancient or modern surface interventions to be revealed. Imaging was performed using a modified Canon 80D 24.2-megapixel camera with UV-VIS-IR functionality, equipped with a Zeiss Milvus 50 mm macro lens and optical filters (Max Max CCI and 918) along with a 2E gel filter, and a Wildfire Long Throw Series ultraviolet source (365 nanometers \[nm\]). Coatings can mask the fluorescence response from the pictorial layer, thus interfering with the observation of any characteristic emissions associated with ancient materials, such as madder lake or lime plaster.
+
+[^14]: Analysis was carried out using GC–MS with a thermal separation probe (TSP). The Agilent 7890A/5975C GC/MS was coupled to a Zebron ZB-5HT Column (30 m × 0.25 mm × 0.10 μm) from Phenomenex. FTIR spectroscopy was conducted using a Bruker Hyperion 3000 FT-IR microscope.
+
+[^15]: Name of creator TK, “Alkyd Resins,” US Patent 2,577,770, 11 December 1951, URL TK. Harriet A. L. Standeven, *House Paints, 1900–1960: History and Use* (Getty Conservation Institute, 2011), 4–5, 72, 76, 121–22.
+
+[^16]: Shuya Wei et al., “Scientific Investigation of the Materials in a Chinese Ming Dynasty Wall Painting,” *International Journal of Conservation Science*, 1, no. 2 (2010): 108; and Kirsten Travers et al., “Pemulen Case Study: Holy Innocents Mural Project,” *WAAC Newsletter* 32, no. 3 (2010): 13.
+
+[^17]: IRR imaging can reveal the presence of underdrawings produced with infrared-absorbing materials. IRR images were created using a modified Canon 80D 24.2-megapixel camera with UV-VIS-IR functionality, a Zeiss Milvus 50 mm macro lens, and an 830 nm filter. See Molly Faries, “Techniques and Applications—Analytical Capabilities of Infrared Reflectography: An Art Historian’s Perspective,” in National Academy of Sciences, *Scientific Examination of Art: Modern Techniques in Conservation and Analysis* (The National Academies Press, 2005), 85–104, 87–88.
+
+[^18]: Sarah E. Fraser, “Regimes of Production: The Use of Pounces in Temple Construction,” *Orientations* 27, no. 10 (1996): 60–69, 60; and Kim Beil, “In Pursuit of the Hole,” *Aeon,* 7 Jan 2022, https://aeon.co/essays/the-history-of-holes-tells-a-story-of-power-and-potential.
+
+[^19]: Carmen Bambach Cappel, “A Substitute Cartoon for Raphael’s *Disputa,*” *Master Drawings* 30, no. 1 (1992): 9–30, 11; Carmen Bambach Cappel, “Michelangelo's Cartoon for the *Crucifixion of St. Peter* Reconsidered,” *Master Drawings* 25, no. 2 (1987): 131–42, 135; and Cennino d’Andrea Cennini, *The Craftsman’s Handbook: “Il Libro dell’Arte,”* trans. Daniel V. Thompson, Jr., edition TK (Dover, 1954), 87.
+
+[^20]: MA-XRF spectroscopy was performed using a Bruker M6 Jetstream spectrometer equipped with a 30 W rhodium (Rh) tube and polycapillary focusing optics. The scans were carried out using the following parameters: 530 µm (micrometers) spot size, 530 µm step size, and 30 ms (milliseconds) dwell time per pixel. The X-ray tube was operated at 50 kV and 600 µA (microamps). Spectra were collected over a 40 keV (kiloelectron volts) energy range and 130 kcps (kilocounts per second) throughput. The raw map data were calibrated, fit, and mosaicked using PyMca and Datamuncher software suites. See V. A. Solé et al., “A Multiplatform Code for the Analysis of Energy-Dispersive X-Ray Fluorescence Spectra,” *Spectrochimica Acta* *Part B: Atomic Spectroscopy* 62, no. 1 (2007): 62, 63–68; M. Alfeld and K. Janssens, “Strategies for Processing Mega-Pixel X-Ray Fluorescence Hyperspectral Data: A Case Study on a Version of Caravaggio’s Painting *Supper at Emmaus*,” *Journal of Analytical Atomic Spectrometry* 30, no. 3 (2015): 30, 777–89; and T. Wolff et al., “A New Fundamental Parameter Based Calibration Procedure for Micro X-Ray Fluorescence Spectrometers,” *Spectrochimica Acta* *Part B: Atomic Spectroscopy* 66, no. 2 (2011), 66, 170–78.
+
+[^21]: Raman spectroscopy was performed using a Renishaw InVia Raman microscope using 785 nm laser excitation and an L50× objective lens. Laser power and other collection parameters varied between measurements to optimize the signal while avoiding sample degradation. Overall, the power density was kept at 3.5 10 2 mW/m^2^ (milliwatts per square meter) or lower.
+
+[^22]: Hamdallah Bearat, “Quelle est la gamme exacte des pigments romains? Confrontation des resultats d’analyse et des textes de Vitruve et de Pline,” in H. Bearat, ed., *Roman Wall Painting: Materials Techniques, Analysis and Conservation* (Fribourg: Institute of Mineralogy and Petrography, 1997), 11–34, 24; and Jose Luise Perez-Rodriguez et al., “Green Pigments of Roman Mural Paintings from Seville Alcazar,” *Applied Clay Science* (2015): 211–91, 212, https://doi.org/10.1016/j.clay.2015.03.016.
+
+[^23]: E. M. Molacek et al., “Re-Discovering a Roman Wall Painting at Harvard: New Research on a Fragment from the Villa at Boscotrecase,” *Studies in Conservation* 65, no. 5 (2020): 296–311, 306.
+
+[^24]: Richard Newman. “Chromium Oxide Greens,” in Elisabeth West FitzHugh, ed., *Artists Pigments: A Handbook of Their History and Characteristics*, vol. 3 (London: Archetype Publications, 1997), 273–92, 274.
+
+[^25]: The elements in lazurite (sodium \[Na\], calcium \[Ca\], aluminum, silicon, sulfur \[S\], and oxygen \[O\]) are not easily detectable by XRF. However, potassium (K) can serve as a surrogate marker for the presence of natural lapis, where it is often present as an impurity (M. Favaro et al., “Characterization of Lapis Lazuli and Corresponding Purified Pigments for a Provenance Study of Ultramarine Pigments Used in Works of Art,” *Analytical and Bioanalytical Chemistry* 402 (2012): 2195–208). The K map for the peacock showed weak intensity across the entire painted surface but was insufficient to attribute to lapis.
+
+[^26]: Joyce Plesters, “Ultramarine Blue, Natural and Artificial,” in A. Roy, ed., *Artists Pigments: A Handbook of Their History and Characteristics*, vol. 2 (Oxford University Press, 1993), 37–61.
+
+[^27]: See Plesters, “Ultramarine Blue,” page TK.
+
+[^28]: The extraction and testing were performed by construction materials and engineering consultants of Sandberg LLP on 30 March 2023. Chemical analyses of the aggregates and matrix of the concrete core were carried out using an Oxford Instruments INCA energy dispersive X-ray 9EDX microanalysis system calibrated with certified mineral standards.
+
+[^29]: The sample includes particles of just over 3 millimeters in diameter and consists of a mixture of angular and subrounded ash particles lacking the texture typically associated with ash of geological origin, such as pumice, together with siliceous sand particles. Reported by Sandberg LLP, date of report TK, type of correspondence/documentation TK.
+
+[^30]: Joseph Aspdin, “An Improvement in the Modes of Producing an Artificial Stone,” British Patent BP 5022, 21 October 1824, URL TK.
+
+[^31]: Briggs, preface to *Pompeian Decorations*, p. TK.
+
+[^32]: Specifically, a lararium from the House of M. Epidi Sabini (IX.1.22?). The lararium is also illustrated by Briggs in *Pompeian Decorations*, p./pl. TK.
+
+[^33]: “Title TK,” *The* *Academy Architecture and Architectural Review,* December 1912, 143; and “title/description TK,” *The Architect and Contract Reporter*, 18 July 1913, 52.
+
+[^34]: Charles Massin, *Villas Normandes & Anglaises* (Paris, 1913), pls. 2, 3.
+
+[^35]: Charles Massin, *Intérieurs Anglais* (Paris, 1927), pl. 37.
+
+[^36]: Surrey sheet XIX.15, revised 1911, published 1913, Ordnance Survey Maps, 25 inch England and Wales, 1841–1952, National Library of Scotland (NLS), https://maps.nls.uk/view/103315153; Surrey sheet XIX.SE, revised 1911, published 1914, Ordnance Survey Maps, Six-inch England and Wales, 1842–1952, NLS, https://maps.nls.uk/view/101436943; Surrey sheet XIX.15, revised 1933, published 1935, NLS, https://maps.nls.uk/view/103315150; sheet TQ2457 – A, revised 1954–55, published 1956, Ordnance Survey National Grid maps, 1944–1974, NLS, https://maps.nls.uk/view/103028352; and sheet TQ25NW – A, surveyed 1954–55, published 1961, National Grid Maps, NLS, https://maps.nls.uk/view/189259061.
+
+[^37]: Photograph, taken in flight 11 April 1947, Historic England Archive, Aerial Photo Explorer, Aerial Photo - RAF_CPE_UK_1982_FP_1145, https://historicengland.org.uk/images-books/archive/collections/aerial-photos/record/RAF_CPE_UK_1982_FP_1145.
+
+[^38]: Title Register for 3 Doric Drive, title number SY453808, date TK, HM Land Registry, URL TK. Epsom Rural District Council Building Plan application no. 909, submitted 31 May 1911 and approved 7 June 1911, (Source TK: Epson & Ewell Building Council, Planning applications search, https://www.epsom-ewell.gov.uk/planning-applications-search ?). Surrey Electoral Register, Polling District of Banstead, 1913, s.v. “Bellingham, Lester,” website TK, URL TK.
+
+[^39]: England & Wales, Civil Registration Marriage Index, 1837–1915, Marriages Registered in July, August, and September 1912, s.v. “Bellingham, Lester,” https://www.ancestry.com/search/collections/8913/. United Kingdom, Outgoing Passenger Lists, 1890–1960, date of departure 1 July 1913, s.v. “Bellingham, Lester and Mrs. Gladys,” website TK (FamilySearch?), URL TK.
+
+[^40]: Register of Electors, Autumn 1919, Reigate Parliamentary Division of the County of Surrey, Polling District of Mickleham, s.vv. “22 Bellingham, Lester” and “23 Bellingham, Glady Muriel”; and Register of Electors, Autumn 1919, Reigate Parliamentary Division of the County of Surrey, Polling District of Banstead (Tadworth Only), s.v. “511 Parker, William.” (Source TK: Surrey, England, Electoral Registers, 1832–1962, https://www.ancestry.com/search/collections/4829/ ?)
+
+[^41]: Winifred Holtby, *Letters to a Friend* (Collins Clear-Type Press, 1937), 206–59; and 1921 Census of England, s.v. Florence Bervon at Doric House, Burgh Heath, Tadworth, Surrey. (Source TK: United Kingdom National Archives, https://www.nationalarchives.gov.uk/20s-people/the-1921-census/ ?).
+
+[^42]: Author TK, *Pensioner's Memories 1836 to 1986*, vol. 1 (Legal & General, 1988), 48–49.
+
+[^43]: Surrey World War Two Bomb Incident Map, Banstead_103, date TK, Surrey History Centre, www.exploringsurreyspast.org.uk/bombsites/.
+
+[^44]: David Goodger, personal email interview by Lewis Wood, Banstead History, 30 August 2022. Source access info TK.
+
+[^45]: Title Register for 3 Doric Drive.
+
+[^46]: “Fresco Fragment with Peacock (Family),” audio, 58 sec., wall fragment with peacock, 68.AG.13, Museum Collection, Related Media, https://www.getty.edu/art/collection/object/103SPR#full-artwork-details.
