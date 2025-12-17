@@ -1,34 +1,43 @@
 ---
-title: "Masthead"
+title: Copyright
 layout: base.11ty.js
-order: 3
+order: 5
 classes:
-  - masthead
+  - copyright
 outputs:
   - epub
   - pdf
 toc: false
-menu: false 
+menu: false
 ---
 
-{%- if publication.title -%}
-<h1 class="masthead_title">{{ publication.title | markdownify }}</h1>
-{%- endif -%}
+**Getty Research Journal** {.no-bottom-margin}
 
-<div class="masthead_info">
+{{ publication.description.full }}
 
-**Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }}**
+**Information for Scholars** {.no-bottom-margin}
 
-{% for editor in publication.series_editors %}
-- {{ editor | markdownify }}
+The manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. “‘This Show Is So Metal’: The Curators of *Lumen: The Art and Science of Light* in Conversation” received editorial review.
+
+To submit a manuscript, please visit
+[grj.scholasticahq.com](https://grj.scholasticahq.com).
+General inquiries may be sent to 
+GRJ@getty.edu.
+
+{% for press in publication.publisher %}
+**Published by the {{ press.name }}, {{ press.location }}** {.no-bottom-margin}
+{{ press.address | markdownify }}
 {% endfor %}
 
-**Getty Research Journal Editorial Advisory Committee** {.no-bottom-margin}
+{% copyright %}
 
-{{ publication.series_advisory_committee | markdownify }}
+**Cover**
+TK
 
-{% for member in publication.project_team %}
-- {{ member | markdownify }}
-{% endfor %}
+ISSN {{ publication.identifier.issn }}
+E-ISSN {{ publication.identifier.e_issn }} {.small-caps}
 
-</div>
+ISBN ONLINE {{ publication.identifier.isbn_html }}
+ISBN PDF {{ publication.identifier.isbn_pdf }}
+ISBN EPUB {{ publication.identifier.isbn_epub }}
+ISBN PAPERBACK {{ publication.identifier.isbn_paperback }} {.small-caps}

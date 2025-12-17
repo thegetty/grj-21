@@ -1,35 +1,34 @@
 ---
+title: Masthead
 layout: base.11ty.js
 classes:
-  - title-page
+  - masthead
 order: 3
 outputs:
   - pdf
   - epub
 toc: false
+menu: false
 ---
 
-<section class="title-block">
-
 {%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
+<h1 class="masthead_title">{{ publication.title | markdownify }}</h1>
 {%- endif -%}
 
-{%- if publication.contributor_as_it_appears -%}
-  <p class="contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>
-{%- else -%}
-  <p class="contributor">{% contributors context=publicationContributors type="primary" format="string" %}</p>
-{%- endif -%}
+<div class="masthead_info">
 
-</section>
+**Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }}**
 
-<section class="publisher-block">
+{% for editor in publication.series_editors %}
+- {{ editor | markdownify }}
+{% endfor %}
 
-{%- for publisher in publication.publisher -%}
-  {%- if publisher.name -%}
-    <p class="publisher">{{ publisher.name }}{% if publisher.location %}, {{ publisher.location }}{% endif %}</p>
-  {%- endif %}
-{%- endfor -%}
+**Getty Research Journal Editorial Advisory Committee** {.no-bottom-margin}
 
-</section>
+{{ publication.series_advisory_committee | markdownify }}
+
+{% for member in publication.project_team %}
+- {{ member | markdownify }}
+{% endfor %}
+
+</div>
