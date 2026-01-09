@@ -57,7 +57,7 @@ pdf:
   outputDir: '/_assets/downloads' 
   pagePDF:
     accessLinks:
-      - header: false # This is handled in _includes/page-tools.liquid
+      - header: true
         label: 'PDF'
       - footer: false
         label: 'Download this page'
