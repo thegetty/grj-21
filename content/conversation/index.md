@@ -5,6 +5,5 @@ layout: table-of-contents
 # classes:
 #   - pdf-start-recto
 order: 105
-toc_link: false
-menu_link: false
+linked_page: false
 ---
