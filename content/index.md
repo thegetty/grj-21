@@ -2,7 +2,8 @@
 title: Cover
 layout: cover
 order: 1
-linked_page: false 
+menu: false
+toc: false
 classes:
   - masthead
 outputs:
