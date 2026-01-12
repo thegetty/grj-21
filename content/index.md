@@ -4,7 +4,40 @@ layout: cover
 order: 1
 menu: false
 toc: false
-# image: spiral-overlay.png
+classes:
+  - masthead
+outputs:
+  - html
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+<div class="masthead_info remove-paragraph-indent">
+
+{% for editor in publication.series_editors %}
+- {{ editor | markdownify }}
+{% endfor %}
+
+**Getty Research Journal Editorial Advisory Committee**
+{{ publication.series_advisory_committee | markdownify }}
+
+</div>
+
+{% backmatter %}
+
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
+
+---
+
+{{ publication.description.full | markdownify }}
+
+{% for link in publication.resource_link %}
+{% if link.type == "masthead" %}
+- [{{ link.name }}]({{ link.url }}) {.highlight-link}
+{% endif %}
+{% endfor %}
+
+ISSN: {{ publication.identifier.issn }} 
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
+
+{% endbackmatter %}

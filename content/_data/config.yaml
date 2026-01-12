@@ -11,7 +11,7 @@ accordion:
 analytics:
   googleId: 'GTM-NRDC63K'
 
-bylineFormat: name-title # name | name-title | false
+bylineFormat: string # name | name-title | false
 
 bibliography:
   displayOnPage: true
@@ -27,7 +27,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -53,15 +53,15 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'getty-research-journal-21'
   outputDir: '/_assets/downloads' 
   pagePDF:
     accessLinks:
-      - header: true 
+      - header: true
         label: 'PDF'
-      - footer: true
+      - footer: false
         label: 'Download this page'
-    coverPage: true
+    coverPage: false
     output: false
   publicationPDF:
     output: true

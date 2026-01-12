@@ -94,6 +94,9 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 
 #### Implemented for GRJ 21
 
+**_plugins/markdown/index.js**
+Added subscript and superscript plugins 
+
 **_includes/components/analytics.js**
 **_layouts/base.11ty.js**
 Update for Getty's google tag manager implementation of GA4
