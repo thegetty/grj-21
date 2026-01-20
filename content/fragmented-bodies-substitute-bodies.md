@@ -51,7 +51,7 @@ The author also calls out the international community for inconsistent applicati
 
 The interpretation of the significance of the Yuanmingyuan was thus transformed from a private Qing imperial space to a Chinese national site of the collective memory of national humiliation. Proponents of its restoration argued for a new identity as a site celebrating the genius of Chinese landscape gardening and design.[^19] The revival of the Yuanmingyuan since the 1980s forms part of a larger conversation about national memory of the past and how that past should inform the direction of the future.
 
-The zodiac heads are a key part of that conversation. Between 1860 and 2000, however, they have almost no history. In the nineteenth century, the looted objects that garnered the most attention in Europe were the items symbolic of Qing sovereignty and military paraphernalia. An exhibition of French loot in April 1861 at the Tuileries Palace []{.mark}featured the ceremonial armor of the emperor flanked by ranks of spears and halberds.[^20] The bronze animal heads, which appear neither Chinese nor European, received no mention. Between 1860 and 1987, they disappear. They don’t appear again until the late-1980s.
+The zodiac heads are a key part of that conversation. Between 1860 and 2000, however, they have almost no history. In the nineteenth century, the looted objects that garnered the most attention in Europe were the items symbolic of Qing sovereignty and military paraphernalia. An exhibition of French loot in April 1861 at the Tuileries Palace featured the ceremonial armor of the emperor flanked by ranks of spears and halberds.[^20] The bronze animal heads, which appear neither Chinese nor European, received no mention. Between 1860 and 1987, they disappear. They don’t appear again until the late-1980s.
 
 ## Heads on the Auction Blocks
 
@@ -205,9 +205,9 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^20]: James Hevia, *English Lessons*, 95.
 
-[^21]: *Fine Chinese Decorative Works of Art*, auction cat., Sotheby’s New York, 9–10 October 1987, [[pig and monkey lot numbers]{.mark} TK], sales insert; and Mee-Seen Loong, email communication with author, 16 January 2018.
+[^21]: *Fine Chinese Decorative Works of Art*, auction cat., Sotheby’s New York, 9–10 October 1987, [pig and monkey lot numbers TK], sales insert; and Mee-Seen Loong, email communication with author, 16 January 2018.
 
-[^22]: *Fine Chinese Ceramics and Works of Art*, auction cat., Sotheby’s London, 13 June 1989, 40–45, lots 68–70, sales [insert]{.mark}.
+[^22]: *Fine Chinese Ceramics and Works of Art*, auction cat., Sotheby’s London, 13 June 1989, 40–45, lots 68–70, sales [insert].
 
 [^23]: Full page ad in *Orientations,* July 1991; and personal communication with Mee-Seen Loong.
 
