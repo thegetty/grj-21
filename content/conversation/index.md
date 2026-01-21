@@ -1,7 +1,7 @@
 ---
 title: "Conversation"
 short_title: 
-layout: table-of-contents
+layout: splash
 # classes:
 #   - pdf-start-recto
 order: 105
