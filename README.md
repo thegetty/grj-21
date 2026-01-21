@@ -134,6 +134,9 @@ Add page-tools include to display PDF download, DOI, abstract, and Cite
 **_layouts/cover.liquid**
 Add journal issue info and publisher, remove contributor
 
+**_plugins/markdown/index.js**
+Add Markdown plugins for super and subscript; add lang as an allowedAttributes for markdown
+
 **_plugins/shortcodes/figureGroup.js**
 Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
 

@@ -25,6 +25,11 @@
   }
 }
 
+/* Temporary highlight to identify words and phrases tagged with a language code */
+span[lang] {
+  background-color: #F9F9A3
+}
+
 :root {
   --accent-color: #807170; /* same as $accent-color in variables.scss */
   --accent-color-midtone: #B8AEAD;
