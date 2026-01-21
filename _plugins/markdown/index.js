@@ -1,3 +1,8 @@
+// 
+// CUSTOMIZED FILE
+// Add Markdown plugins for super and subscript, lines 15–16, 54–55
+// Add lang as an allowedAttributes for markdown, line 42
+
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
 import anchorsPlugin from 'markdown-it-anchor'
@@ -7,6 +12,8 @@ import defaults from './defaults.js'
 import deflistPlugin from 'markdown-it-deflist'
 import footnotePlugin from 'markdown-it-footnote'
 import removeMarkdown from 'remove-markdown'
+import superscriptPlugin from 'markdown-it-sup'
+import subscriptPlugin from 'markdown-it-sub'
 
 /**
  * An Eleventy plugin to configure the markdown library
@@ -33,7 +40,7 @@ export default function (eleventyConfig, options) {
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
   const attributesOptions = {
-    allowedAttributes: ['class', 'id', 'target'],
+    allowedAttributes: ['class', 'id', 'target', 'lang'],
     leftDelimiter: '{',
     rightDelimiter: '}'
   }
@@ -44,6 +51,8 @@ export default function (eleventyConfig, options) {
     .use(bracketedSpansPlugin)
     .use(deflistPlugin)
     .use(footnotePlugin)
+    .use(superscriptPlugin)
+    .use(subscriptPlugin)
 
   /**
    * Set recognition options for links without a schema
