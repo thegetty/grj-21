@@ -21,17 +21,13 @@ page_pdf_output: true
 
 Although contemporary society separates science and spirituality, in the medieval world the science of light was harnessed by artists and theoreticians to better perceive and understand the sacred. Focusing on the intersection of arts and science in western European art, this major exhibition, which took place at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide, demonstrated how the study of light, vision, and the movement of heavenly bodies was explored by Christian, Jewish, and Muslim scholars and theologians during the “Long Middle Ages” (about 800–1600 CE). With glimmering golden reliquaries, illuminated manuscripts, rock-crystal vessels, early scientific instruments, and other objects, the exhibition showcased how the ancient sciences of optics, geometry, and astronomy fed the poetry and artistry of this period (**fig. 1**). To convey the sense of wonder created by moving light on precious materials, and to explore ongoing fascinations with vision and perception, as well as humankind’s place in the cosmos, contemporary artworks were placed in dialogue with premodern artworks. Here, the three curators of *Lumen: The Art and Science of Light* discuss their collaboration, which brought together the worlds of science and religion, and bridged the fields of medieval and contemporary art.
 
->
-
-—Kristen Collins, Nancy K. Turner, and Glenn Phillips
-
-
+—Kristen Collins, Nancy K. Turner, and Glenn Phillips {.epigraph-signature}
 
 ***
 
-*The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue.*
+The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue.{.introductory-note}
 
->
+<div class="conversation-text">
 
 **Kristen Collins:** Should I start? Some projects are ones that you start right out of the gate and dive right into. This one was actually a concept that Nancy Turner and I had put a pin in for quite a number of years. We had talked about doing a relatively small exhibition on light in the Manuscripts gallery accompanied by a contemporary installation in a second gallery in the North Pavilion. This was following experiences that we had many years ago in the Sinai desert, when we were planning the exhibition *Holy Image, Hallowed Ground: Icons from Sinai* at the J. Paul Getty Museum in 2006–7.[^1]
 
@@ -336,3 +332,5 @@ When you’re at the very top, which is depicting the orbit of Polaris thirteen 
 **NT:** I gave two talks last year on this, so, yeah, I hope that’s my next project to publish.[^20] *[chuckles]* Thanks, everyone, for this shared conversation! This was a snapshot, right? We’ve learned so much since putting this exhibition together.
 
 **KC:** That’s an important thing to be said, particularly at a moment when symposium volumes are becoming more infrequent. So often the really interesting stuff that bubbles up through an exhibition, you only come to after the book is out. After you’ve been living with the show in the galleries, and you’ve had these really rich conversations. After you’ve had a study day and sensory activity led by Barry Smith [professor at University of London and founding director of the Centre for the Study of the Senses] while smelling incense and hearing Hildegard Bingen in the galleries! I think there are all kinds of exhibition afterlives that continue to ripple, and it remains to be seen how we capture them.
+
+</div>
