@@ -16,7 +16,7 @@ figure_list:
   - id: "the-getty-peacock-fresco-fig-3a"
     src: "figures/the-getty-peacock-fresco-fig-3-a.jpg"
     label: "Fig. 3A. —"
-    caption: "**Merchandise featuring the Getty Peacock, [dates].**"
+    caption: #"**Merchandise featuring the Getty Peacock, [dates].**"
     credit: "Getty Research Journal, no. 21 (2026) © J. Paul Getty Trust"
     alt: "TK"
     zoom: "true"
