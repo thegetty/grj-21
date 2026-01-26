@@ -715,6 +715,21 @@ strong {
   .rights-restricted-size-quarter.pdf-shrink img {
     max-height: 2in !important;
   }
+  #adding-works-to-words-fig-5a, .q-figure .q-figure--image {
+    max-height: 3in !important;
+  }
+
+  #adding-works-to-words-fig-5b .q-figure .q-figure--image {
+    max-height: 3in !important;
+  }
+  
+  #worldwide-emotion-fig-8a, .q-figure .q-figure--image {
+    max-height: 3in !important;
+  }
+
+  #worldwide-emotion-fig-8b .q-figure .q-figure--image {
+    max-height: 3in !important;
+  }
 }
 
 /* GROUP FIGURES
@@ -1390,4 +1405,21 @@ summary::-webkit-details-marker {
   font-style: italic;
   text-indent: 0;
   margin: 1rem 0;
+}
+
+/* SPECIFIC TO GRJ 21
+============================================================================= */
+@media print{
+#adding-works-to-words-fig-5a, .q-figure .q-figure--image {
+  max-height: 3in !important;
+}
+#adding-works-to-words-fig-5b .q-figure .q-figure--image {
+  max-height: 3in !important;
+}
+#worldwide-emotion-fig-8a, .q-figure .q-figure--image {
+  max-height: 3in !important;
+}
+#worldwide-emotion-fig-8b .q-figure .q-figure--image {
+  max-height: 3in !important;
+}
 }
