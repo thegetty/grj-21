@@ -101,6 +101,9 @@ Added subscript and superscript plugins
 **_layouts/base.11ty.js**
 Update for Getty's google tag manager implementation of GA4
 
+**_includes/components/copyright/licensing.js**
+Updated the image exclusions language and moved print/pdf statement to new location
+
 **_includes/components/icons.js**
 Replace default `fullscreen-icon` with a 600 weight version to match caption styles
 
@@ -160,9 +163,6 @@ Added `longdesc` support
 **_includes/components/head-tags/opengraph.js**
 **_includes/components/head-tags/twitter-card.js**
 Update and clean-up handling for social sharing
-
-**_includes/components/copyright/licensing.js**
-Updated the image exclusions language and moved print/pdf statement to new location
 
 **_includes/components/license-icons.js**
 Removed SVG icons from EPUB output as they were causing validation issues
