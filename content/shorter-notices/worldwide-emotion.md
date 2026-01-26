@@ -7,7 +7,7 @@ contributor:
   - first_name: Jonah 
     last_name: Gray
     bio: "**Jonah Gray** is a faculty fellow at the New York University Program in Museum Studies."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026)</span>© Jonah Gray"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© Jonah Gray"
 abstract: "This article reconsiders the significance of the two riflemen in the top-right corner of David Alfaro Siqueiros’s outdoor mural *América tropical oprimida y destrozada por los imperialismos* of 1932 in Los Angeles. The mural was painted on the second story of the Plaza Art Center and required a rooftop view to be seen in totality. The artist’s placement of these marginal figures, however, ensured their visibility to street-level passersby. While the mural was gradually whitewashed over the ensuing years, the segment with the riflemen was covered first. Comparing *América tropical* with Siqueiros’s two other California commissions, I consider how he pushed the mural’s formal and material possibilities by incorporating a proliferation of angles and perspectives. Using documents from the Siqueiros Papers at the Getty Research Institute, I highlight the interhemispheric dialogue between Siqueiros and Peruvian Marxist José Carlos Mariátegui, and I interpret the riflemen as figures for a transnational revolutionary cause."
 keywords: "muralism, David Alfaro Siqueiros, José Carlos Mariátegui, Los Angeles, Mexico, Indigenismo, Olvera Street, transnationalism, censorship, whitewash, Marxism"
 peer_review: "Double anonymous, external"
