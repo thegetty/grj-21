@@ -2,6 +2,8 @@
 title: "“This Show Is So Metal”"
 subtitle: "The Curators of *Lumen: The Art and Science of Light* in Conversation"
 layout: essay
+classes:
+  - conversation
 order: 110
 contributor: 
   - first_name: Kristen 
@@ -25,9 +27,7 @@ Although contemporary society separates science and spirituality, in the medieva
 
 {% figure 'lumen-tk-fig-1' %}
 
-***
-
-The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue.{.introductory-note}
+The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue. {.introductory-note}
 
 <div class="conversation-text">
 
