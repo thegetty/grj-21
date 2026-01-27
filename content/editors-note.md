@@ -6,7 +6,7 @@ classes:
   - page-one
 contributor:
   - id: dchon
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2025)</span>© 2026 J. Paul Getty Trust"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2025): ##–## </span>© 2026 J. Paul Getty Trust"
 doi: 
 page_pdf_output: true
 ---

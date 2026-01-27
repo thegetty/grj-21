@@ -7,7 +7,7 @@ contributor:
   - first_name: Patricia J.
     last_name: Yu
     bio: "**Patricia J. Yu** is assistant professor of East Asian art history at Scripps College."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026)</span>© Patricia J. Yu"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© Patricia J. Yu"
 abstract: "This essay discusses the bronze zodiac animal head sculptures from the Yuanmingyuan (Garden of Perfect Brightness), which was looted and burned during the Second Opium War in 1860. Asking why these particular objects have gained international attention in repatriation debates, I argue that the zodiac sculptures garner their capacity for meaning in their forms as fragmented bodies, particularly as decapitated heads. I turn to the afterlives of the zodiac heads as sculptural reproductions, in which contemporary artists such as Ai Weiwei have copied the heads and transformed them for new audiences. Because the artistic reproductions are not exact copies, I argue that they should be considered acts of translation that move the conversation about cultural heritage into site-specific contexts and give voice to questions about heritage, identity, traditions, and global justice. The resulting artistic translations can elevate the originals, satirize them, challenge them, and even take on their own lives."
 keywords: "Yuanmingyuan, zodiac animals, looted Chinese art, copies, cultural heritage, Ai Weiwei, Taiwan"
 peer_review: "Double anonymous, external"

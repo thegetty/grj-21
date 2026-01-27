@@ -2,6 +2,8 @@
 title: "“This Show Is So Metal”"
 subtitle: "The Curators of *Lumen: The Art and Science of Light* in Conversation"
 layout: essay
+classes:
+  - conversation
 order: 110
 contributor: 
   - first_name: Kristen 
@@ -10,7 +12,7 @@ contributor:
     last_name: Phillips
   - first_name: Nancy K. 
     last_name: Turner
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026)</span>© J. Paul Getty Trust"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© J. Paul Getty Trust"
 abstract: "A conversation between the three curators of the exhibition *Lumen: The Art and Science of Light* held at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide. Colleagues look back on the planning, technical expertise, and creative collaboration that went into the making and mounting of the exhibition, illuminating the inspirations and surprises that arose along the way."
 keywords: "TK, TK, TK, TK, TK, TK"
 peer_review: "Editorial"
@@ -25,9 +27,7 @@ Although contemporary society separates science and spirituality, in the medieva
 
 {% figure 'lumen-tk-fig-1' %}
 
-***
-
-The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue.{.introductory-note}
+The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue. {.introductory-note}
 
 <div class="conversation-text">
 
