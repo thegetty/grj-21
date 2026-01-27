@@ -31,9 +31,9 @@ span[lang] {
 }
 
 :root {
-  --accent-color: #807170; /* same as $accent-color in variables.scss */
-  --accent-color-midtone: #B8AEAD;
-  --accent-color-highlight: #f8cf0c;
+  --accent-color: black; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: darkgray;
+  --accent-color-highlight: lightgray;
 
   --page-sidebar-light: #f1f0ee;
   --page-sidebar-midtone: #e3e1dd;
@@ -109,7 +109,6 @@ body {
 }
 .quire-cover__hero {
   background-image: none;
-  background-color: #c0b9ca;
 }
 
 .hero-body .container.is-fluid {
