@@ -9,7 +9,11 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
+<<<<<<< Updated upstream
 url: 'https://first-pages--grj-21.netlify.app'
+=======
+url: 'http://localhost:8080'
+>>>>>>> Stashed changes
 
 # -----------------------------------------------------------------------------
 # Title & Description
