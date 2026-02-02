@@ -108,7 +108,7 @@ The stained-glass window made in Munich contains a central depiction of Christ i
 
 While work on the monument was in progress, a committee was appointed to exhume the remains of Archbishop Valdivieso. On 23 July 1897 the coffin was removed from the side altar dedicated to Saint John the Evangelist in Santiago Cathedral and placed in one of the rooms off the courtyard. The metal coffin was immediately opened so that the committee could examine its contents. The minutes from that gathering record the state of the archbishop’s remains upon inspection: “His features, although disfigured by death and time, proved to be the remains of the Most Illustrious Prelate.”[^73] The coffin remained in this provisional location for ten months, until the inauguration of the monument and the transfer of the remains would take place on 23 May 1898.
 
-In 1904 conservative politician Rafael Errázuriz Urmeneta published an article in the *Revista católica* (Catholic journal) titled “Monumento sepulcral del Iltmo. Y Rmo. Sr. Valdivieso” (Tomb of the Illustrious and Most Reverend Mr. Valdivieso). The text was part of a dossier to celebrate the one hundredth anniversary of the birth of the late archbishop. Errázuriz Urmeneta provided historical background for the mausoleum and offered aesthetic judgments on its final presentation. He is emphatic in highlighting the excellence of the marble, the Florentine mosaics, and the Bavarian stained glass, as well as the sculptures.
+In 1904 conservative politician Rafael Errázuriz Urmeneta published an article in the [*Revista católica*]{lang=es} (Catholic journal) titled [“Monumento sepulcral del Iltmo. Y Rmo. Sr. Valdivieso”]{lang=es} (Tomb of the Illustrious and Most Reverend Mr. Valdivieso). The text was part of a dossier to celebrate the one hundredth anniversary of the birth of the late archbishop. Errázuriz Urmeneta provided historical background for the mausoleum and offered aesthetic judgments on its final presentation. He is emphatic in highlighting the excellence of the marble, the Florentine mosaics, and the Bavarian stained glass, as well as the sculptures.
 
 Toward the end of his contribution, Errázuriz points out that it is an ensemble “in which sculpture and architecture compete in rich profusion, or rather, combine in pleasant harmony, bringing out each other’s beauty.”[^74] Delicately, he expresses concern about a certain excess in the combination of elements, noting that, in the monument, “more than the art itself, the dazzling effect of its materials” predominates.[^75] For Errázuriz, the quality of the execution is exquisite, but the result is too heterogeneous and saturated. He goes on to explain that the configuration of the sepulcher departs from classical moderation due to the taste of its authors, citing the interest of the commissioners in “erecting a monument that would stand out above all for its luxury, brilliance and richness.”[^76] His analysis goes on to emphasize the architectural rather than sculptural character of the ensemble, endorsing the same tension between sculpture and architecture disclosed by the correspondence between Subercaseaux and Astorga. As a result of the monument’s architecture, it is impossible to appreciate the quality of the recumbent archbishop’s sculptural representation due to the height at which it was placed. Errázuriz’s text ends with a brief testimony about his personal contact with Valdivieso. Of his character and way of life, Errázuriz emphasizes his extreme sobriety, in the last lines highlighting the evident contrast between “such a splendid burial” and the “extraordinary humility of his character and soul,”[^77] evoking for his reader the inconsistency between the buried man and his mausoleum.
 
@@ -128,157 +128,157 @@ Finally, the process described above shows the global reach of the commission. T
 
 This work is a result of the Agencia Nacional del Investigación y Desarollo (ANID) Fondecyt 1230525 research project. Unless otherwise noted, translations from the Spanish and the French are by the present author.{.backmatter}
 
-[^1]: Rodolfo Vergara Antúnez, *Vida i obras del ilustrísimo y reverendísimo señor doctor don Rafael Valentín Valdivieso,* vol. 2 (Santiago de Chile, 1906), 339; Víctor Barahona, “Las tumbas de la Catedral de Santiago de Chile,” *Boletín de la Academia Chilena de la Historia*, 12, no. 32 (1945): 69–78; and Alejandro Huneeus, *La catedral de la arquidiócesis de Santiago de Chile: Sus principales objetos sagrados y recuerdos* (Imprenta San José, 1968), 12.
+[^1]: Rodolfo Vergara Antúnez, [*Vida i obras del ilustrísimo y reverendísimo señor doctor don Rafael Valentín Valdivieso,*]{lang=es} vol. 2 (Santiago de Chile, 1906), 339; Víctor Barahona, [“Las tumbas de la Catedral de Santiago de Chile,” *Boletín de la Academia Chilena de la Historia*,]{lang=es} 12, no. 32 (1945): 69–78; and Alejandro Huneeus, [*La catedral de la arquidiócesis de Santiago de Chile: Sus principales objetos sagrados y recuerdos*]{lang=es} (Imprenta San José, 1968), 12.
 
-[^2]: Marcela Drien, “Júzguese por las copias: El conocimiento y circulación de la pintura europea en Chile,” *Imagem: Revista de História da Arte*, 1, no. 1 (2022): 361–80; Marcela Drien and Katherine Vyhmeister, “The 1875 Palacio de la Exposición in Santiago: A Cosmopolitan Arena for Positioning the Nation,” *Nineteenth-Century Contexts* 43, no. 1 (2021): 97–116; Juan Manuel Martínez, “Francisco Javier Mandiola y la construcción de relato visual en el sistema de las artes en Chile,” in *Monvoisin en América*, ed. Gloria Cortés and Jaime Cuevas (Subdirección de Patrimonio, 2023), 56; Fernando Guzmán et al., “Roma y la renovación de la imagen y el espacio sacro en Chile durante el siglo XIX,” *Historia* 54, no. 2 (2021): 585–617; and Amarí Peliowski, “Arquitectura, civilización y barbarie: Brunet Debaines como comentador social a mediados del siglo XIX en Chile,” *Revista* 180, no. 42 (2018): 76–87.
+[^2]: Marcela Drien, [“Júzguese por las copias: El conocimiento y circulación de la pintura europea en Chile,” *Imagem: Revista de História da Arte*,]{lang=es} 1, no. 1 (2022): 361–80; Marcela Drien and Katherine Vyhmeister, “The 1875 Palacio de la Exposición in Santiago: A Cosmopolitan Arena for Positioning the Nation,” *Nineteenth-Century Contexts* 43, no. 1 (2021): 97–116; Juan Manuel Martínez, [“Francisco Javier Mandiola y la construcción de relato visual en el sistema de las artes en Chile,”]{lang=es} in [*Monvoisin en América*,]{lang=es} ed. Gloria Cortés and Jaime Cuevas (Subdirección de Patrimonio, 2023), 56; Fernando Guzmán et al., [“Roma y la renovación de la imagen y el espacio sacro en Chile durante el siglo XIX,”]{lang=es} *Historia* 54, no. 2 (2021): 585–617; and Amarí Peliowski, [“Arquitectura, civilización y barbarie: Brunet Debaines como comentador social a mediados del siglo XIX en Chile,” *Revista*]{lang=es} 180, no. 42 (2018): 76–87.
 
-[^3]: Josefina de la Maza, “Sobre la fundación de la Academia de Pintura, estudio introductorio,” in *La inauguración de la Academia* (Ediciones Universidad Alberto Hurtado, 2013), 11–12.
+[^3]: Josefina de la Maza, [“Sobre la fundación de la Academia de Pintura, estudio introductorio,”]{lang=es} in [*La inauguración de la Academia*]{lang=es} (Ediciones Universidad Alberto Hurtado, 2013), 11–12.
 
-[^4]: María Angélica del Piano, “Dos arzobispos creativos que perduran en la historia,” in *Iconografía, identidad nacional y cambio de siglo (XIX–XX)*, ed. Gloria Cortés et al. (Ril, 2003), 63–75.
+[^4]: María Angélica del Piano, [“Dos arzobispos creativos que perduran en la historia,”]{lang=es} in [*Iconografía, identidad nacional y cambio de siglo (XIX–XX)*,]{lang=es} ed. Gloria Cortés et al. (Ril, 2003), 63–75.
 
-[^5]: Fernando Guzmán, *De la madera al mármol: Arte religioso en Chile, siglos XVIII y XIX* (Silvana, 2023), 79–99.
+[^5]: Fernando Guzmán, [*De la madera al mármol: Arte religioso en Chile, siglos XVIII y XIX*]{lang=es} (Silvana, 2023), 79–99.
 
-[^6]: On the role of public sculptures in nation building in Chile, see Gloria Cortés, “Monumento al roto . . . piojento: La construcción oligárquica de la identidad nacional en Chile,” *Arbor: Ciencia, pensamiento y cultura*, 185, no. 740 (2009): 1231–41; Pedro Zamorano, “Escultura en Hispanoamérica durante el siglo XIX: El caso chileno,” *Archivo Español de Arte* 84, no. 333 (2011): 25–40; and Liisa Flora Voionmaa Tanner, *Escultura pública: Del monumento conmemorativo a la escultura urbana; Santiago 1792–2004,* vol. 1 (Ocho Libros, 2004), 128–55.
+[^6]: On the role of public sculptures in nation building in Chile, see Gloria Cortés, [“Monumento al roto . . . piojento: La construcción oligárquica de la identidad nacional en Chile,” *Arbor: Ciencia, pensamiento y cultura*,]{lang=es} 185, no. 740 (2009): 1231–41; Pedro Zamorano, [“Escultura en Hispanoamérica durante el siglo XIX: El caso chileno,” *Archivo Español de Arte*]{lang=es} 84, no. 333 (2011): 25–40; and Liisa Flora Voionmaa Tanner, [*Escultura pública: Del monumento conmemorativo a la escultura urbana; Santiago 1792–2004,*]{lang=es} vol. 1 (Ocho Libros, 2004), 128–55.
 
-[^7]: Mariano Casanova, *Circular sobre la necesidad de erijir en la Iglesia Metropolitana un monumento sepulcral en honor del Illmo. I Rmo. Señor Dr. D. Rafael Valentín Valdivieso* (Santiago, 1887), 4. Translations from this source are by Fernando Guzmán and Sylvia Glover.
+[^7]: Mariano Casanova, [*Circular sobre la necesidad de erijir en la Iglesia Metropolitana un monumento sepulcral en honor del Illmo. I Rmo. Señor Dr. D. Rafael Valentín Valdivieso*]{lang=es} (Santiago, 1887), 4. Translations from this source are by Fernando Guzmán and Sylvia Glover.
 
-[^8]: Enrique Laval, “El cólera en Chile (1886–1888),” *Revista chilena de infectología* 20 (2003): 86–88.
+[^8]: Enrique Laval, [“El cólera en Chile (1886–1888),” *Revista chilena de infectología*]{lang=es} 20 (2003): 86–88.
 
-[^9]: Casanova, *Circular sobre la necesidad de erijir . . . un monumento sepulcral,* 5.
+[^9]: Casanova, [*Circular sobre la necesidad de erijir . . . un monumento sepulcral,*]{lang=es} 5.
 
-[^10]: Casanova had seen the tombs during a trip to Europe when he was a priest in his early thirties. Julio Retamal Avila, *Monseñor Mariano Casanova Casanova 1886–1908, tercer arzobispo de Santiago* (Editorial Salesiana, 1981), 12.
+[^10]: Casanova had seen the tombs during a trip to Europe when he was a priest in his early thirties. Julio Retamal Avila, [*Monseñor Mariano Casanova Casanova 1886–1908, tercer arzobispo de Santiago*]{lang=es} (Editorial Salesiana, 1981), 12.
 
-[^11]: Casanova, *Circular sobre la necesidad de erijir . . . un monumento sepulcral,* 6.
+[^11]: Casanova, [*Circular sobre la necesidad de erijir . . . un monumento sepulcral,*]{lang=es} 6.
 
-[^12]: Casanova, *Circular sobre la necesidad de erijir. . . un monumento sepulcral,* 4.
+[^12]: Casanova, [*Circular sobre la necesidad de erijir. . . un monumento sepulcral,*]{lang=es} 4.
 
-[^13]: Casanova, *Circular sobre la necesidad de erijir . . . un monumento sepulcral,* 7.
+[^13]: Casanova, [*Circular sobre la necesidad de erijir . . . un monumento sepulcral,*]{lang=es} 7.
 
-[^14]: Ignacio Ducasse, *Servidores del Evangelio: Los obispos de Chile 1561–2007* (Conferencia Episcopal de Chile, 2008): 90–91.
+[^14]: Ignacio Ducasse, [*Servidores del Evangelio: Los obispos de Chile 1561–2007*]{lang=es} (Conferencia Episcopal de Chile, 2008): 90–91.
 
-[^15]: Crescente Errázuriz, *Algo de lo que he visto* (Editorial Nascimiento, 1934), 371–81.
+[^15]: Crescente Errázuriz, [*Algo de lo que he visto*]{lang=es} (Editorial Nascimiento, 1934), 371–81.
 
-[^16]: Santiago, Chile, Archivo Histórico Arzobispado de Santiago (AHAS), Monseñor Valdivieso, Monumento sepulcral, 1887–1899, legajo 59, expediente 28. Hereafter Monumento sepulcral. All AHAS documents cited below are part of this archival file; most of the documents are numbered.
+[^16]: Santiago, Chile, [Archivo Histórico Arzobispado de Santiago (AHAS), Monseñor Valdivieso, Monumento sepulcral, 1887–1899, legajo 59, expediente 28.]{lang=es} Hereafter [Monumento sepulcral.]{lang=es} All AHAS documents cited below are part of this archival file; most of the documents are numbered.
 
-[^17]: “Instructions pour la demande d’adjudication du monument, Santiago du Chili, Août 1893,” 7–12, AHAS, Monumento sepulcral. See also Carlos Silva Vildósola, *Retratos y recuerdos,* (Editorial Zig-Zag, 1936), 108.
+[^17]: [“Instructions pour la demande d’adjudication du monument, Santiago du Chili, Août 1893,”]{lang=fr} 7–12, AHAS, [Monumento sepulcral.]{lang=es} See also Carlos Silva Vildósola, [*Retratos y recuerdos,*]{lang=es}(Editorial Zig-Zag, 1936), 108.
 
-[^18]: “Instructions pour la demande,” [add single page number for quote].
+[^18]: [“Instructions pour la demande,”]{lang=fr} [add single page number for quote].
 
-[^19]: Mariano Casanova, *Pastoral del Illmo. Y Rvmo. Señor arzobispo don Mariano Casanova en el día de su consagración episcopal* (Santiago, 1887) 4, 5.
+[^19]: Mariano Casanova, [*Pastoral del Illmo. Y Rvmo. Señor arzobispo don Mariano Casanova en el día de su consagración episcopal*]{lang=es} (Santiago, 1887) 4, 5.
 
-[^20]: Casanova, *Pastoral . . . en el día de su consagración episcopal,* 10.
+[^20]: Casanova,[*Pastoral . . . en el día de su consagración episcopal,*]{lang=es} 10.
 
-[^21]: Casanova, *Pastoral . . . en el día de su consagración episcopal,* 11.
+[^21]: Casanova, [*Pastoral . . . en el día de su consagración episcopal,*]{lang=es} 11.
 
-[^22]: Macarena Ibarra, “Palacio arzobispal: El edificio, el conjunto y la ciudad,” in *Ofrenda y gracia: Proyecto de conservación y restauración capilla sede arzobispal*, ed. Cecilia Beas and Elena Losón (Arzobispado de Santiago, 2013), 43; and Daniela Lara, “Análisis iconográfico de las imágenes,” in Beas and Losón, *Ofrenda y gracia*, 73-84.
+[^22]: Macarena Ibarra, [“Palacio arzobispal: El edificio, el conjunto y la ciudad,”]{lang=es} in [*Ofrenda y gracia: Proyecto de conservación y restauración capilla sede arzobispal*,]{lang=es} ed. Cecilia Beas and Elena Losón (Arzobispado de Santiago, 2013), 43; and Daniela Lara, [“Análisis iconográfico de las imágenes,”]{lang=es} in Beas and Losón, [*Ofrenda y gracia*,]{lang=es} 73-84.
 
-[^23]: Ramón Subercaseaux, *Memorias de 50 años* (Santiago, Chile, 1908), 433–531.
+[^23]: Ramón Subercaseaux, [*Memorias de 50 años*]{lang=es} (Santiago, Chile, 1908), 433–531.
 
-[^24]: For reflection on art in Chile, see Pedro Zamorano et al., “Jose Miguel Blanco: Escritos de bellas artes,” *Alpha*, no. 37 (2012): 149–62.
+[^24]: For reflection on art in Chile, see Pedro Zamorano et al., [“Jose Miguel Blanco: Escritos de bellas artes,” *Alpha*,]{lang=es} no. 37 (2012): 149–62.
 
-[^25]: José Ramón Astorga, letter to Ramón Subercaseaux, 10 August 1893, 15, AHAS, Monumento sepulcral.
+[^25]: José Ramón Astorga, letter to Ramón Subercaseaux, 10 August 1893, 15, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^26]: Subercaseaux, letter to Astorga, 14 September 1893, 17, AHAS, Monumento sepulcral.
+[^26]: Subercaseaux, letter to Astorga, 14 September 1893, 17, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^27]: Subercaseaux, letter to Astorga, 28 September 1893, 19v, AHAS, Monumento sepulcral.
+[^27]: Subercaseaux, letter to Astorga, 28 September 1893, 19v, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^28]: Rodrigo Gutiérrez Viñuales, *Monumento conmemorativo y espacio público en Iberoamérica* (Cátedra, 2004), 36–66; and María José Redondo Cantera, “Aproximación a la escultura funeraria española del siglo XIX,” in *El arte del siglo XIX: II Congreso Nacional de Historia del Arte,* vol 1 (Comité Español de Historia del Arte, 1978), 121–24.
+[^28]: Rodrigo Gutiérrez Viñuales, [*Monumento conmemorativo y espacio público en Iberoamérica*]{lang=es} (Cátedra, 2004), 36–66; and María José Redondo Cantera, [“Aproximación a la escultura funeraria española del siglo XIX,” in *El arte del siglo XIX: II Congreso Nacional de Historia del Arte,*]{lang=es} vol 1 (Comité Español de Historia del Arte, 1978), 121–24.
 
-[^29]: Astorga, letter to Subercaseaux, 13 November 1893, 22v, AHAS, Monumento sepulcral.
+[^29]: Astorga, letter to Subercaseaux, 13 November 1893, 22v, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^30]: Astorga, letter to Subercaseaux, 10 August 1893, 15v, and Subercaseaux, letter to Astorga, 14 September 1893, 18, AHAS. Monumento sepulcral.
+[^30]: Astorga, letter to Subercaseaux, 10 August 1893, 15v, and Subercaseaux, letter to Astorga, 14 September 1893, 18, AHAS. [Monumento sepulcral.]{lang=es}
 
-[^31]: Subercaseaux, letter to Astorga, 28 September 1893, 20, AHAS, Monumento sepulcral.
+[^31]: Subercaseaux, letter to Astorga, 28 September 1893, 20, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^32]: Subercaseaux, letter to Astorga, 28 September 1893, 19, AHAS, Monumento sepulcral.
+[^32]: Subercaseaux, letter to Astorga, 28 September 1893, 19, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^33]: Astorga, letter to Subercaseaux, 10 August 1893, 15v, AHAS, Monumento sepulcral.
+[^33]: Astorga, letter to Subercaseaux, 10 August 1893, 15v, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^34]: Gorka López, *Una genealogía de la máscara mortuoria: Tiempo, imagen, presencia* (PhD. Diss., Universidad de Barcelona, 2016), 237–50.
+[^34]: Gorka López, [*Una genealogía de la máscara mortuoria: Tiempo, imagen, presencia*]{lang=es} (PhD. Diss., Universidad de Barcelona, 2016), 237–50.
 
-[^35]: Zamorano, “Escultura en Hispanoamérica durante el siglo XIX,” 32–33.
+[^35]: Zamorano, [“Escultura en Hispanoamérica durante el siglo XIX,”]{lang=es} 32–33.
 
-[^36]: Enrique Solanich, *Escultura en Chile: Otra mirada para su estudio* (Ril, 2017) 31–32.
+[^36]: Enrique Solanich, [*Escultura en Chile: Otra mirada para su estudio*]{lang=es} (Ril, 2017) 31–32.
 
-[^37]: Astorga, letter to Subercaseaux, 26 January 1894, 26v, AHAS, Monumento sepulcral.
+[^37]: Astorga, letter to Subercaseaux, 26 January 1894, 26v, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^38]: Subercaseaux, letter to Astorga, 25 March 1894, 28, AHAS, Monumento sepulcral.
+[^38]: Subercaseaux, letter to Astorga, 25 March 1894, 28, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^39]: Astorga, official letter to Subercaseaux, 28 June 1895, 33, AHAS, Monumento sepulcral.
+[^39]: Astorga, official letter to Subercaseaux, 28 June 1895, 33, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^40]: Josefina de la Maza, “Por un arte nacional: Pintura y esfera pública en el siglo XIX chileno,” in *Ciencia-Mundo: Orden republicano, arte y nación en América*, ed. Rafael Sagredo (Editorial Universitaria, 2010), 304–6; and Josefina de la Maza and Sandra Accatino, “De espacios marginales y obras en tránsito: Una lectura de interior del Louvre de Alfredo Valenzuela Puelma,” *Intus-Legere Historia*, 16, no. 2 (2021): 393–96.
+[^40]: Josefina de la Maza, [“Por un arte nacional: Pintura y esfera pública en el siglo XIX chileno,”]{lang=es} in [*Ciencia-Mundo: Orden republicano, arte y nación en América*,]{lang=es} ed. Rafael Sagredo (Editorial Universitaria, 2010), 304–6; and Josefina de la Maza and Sandra Accatino, [“De espacios marginales y obras en tránsito: Una lectura de interior del Louvre de Alfredo Valenzuela Puelma,” *Intus-Legere Historia*,]{lang=es} 16, no. 2 (2021): 393–96.
 
-[^41]: Junta, official letter to Mariano Casanova, 14 April 1896, 39, AHAS, Monumento sepulcral.
+[^41]: [Junta,]{lang=es} official letter to Mariano Casanova, 14 April 1896, 39, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^42]: Emilio Doyere, letter to Mariano Casanova, undated (probably mid 1890), AHAS, Fondo de Gobierno, Vol 164.
+[^42]: Emilio Doyere, letter to Mariano Casanova, undated (probably mid 1890), AHAS, [Fondo de Gobierno,]{lang=es} Vol 164.
 
-[^43]: “Contrato de construcción,” 11 May 1896, AHAS, Monumento sepulcral.
+[^43]: [“Contrato de construcción,”]{lang=es} 11 May 1896, AHAS, [Monumento sepulcral.]{lang=es}
 
-[^44]: Mirtha Pallares, *La arquitectura religiosa en Santiago de Chile 1850–1950: Razones de las reminiscencias góticas* (PhD. diss., Universidad Politécnica de Madrid, 2015), 136.
+[^44]: Mirtha Pallares, [*La arquitectura religiosa en Santiago de Chile 1850–1950: Razones de las reminiscencias góticas*]{lang=es} (PhD. diss., Universidad Politécnica de Madrid, 2015), 136.
 
-[^45]: María Paz Valenzuela, “La enseñanza de la arquitectura en Chile,” *Revista de arquitectura* 20, no. 29 (2014): 54–55.
+[^45]: María Paz Valenzuela, [“La enseñanza de la arquitectura en Chile,” *Revista de arquitectura*]{lang=es} 20, no. 29 (2014): 54–55.
 
-[^46]: Giovanna Capitelli, *Mecenatismo pontificio e borbónico alla vigilia dell’Unità*, (Viviana, 2011), 50–51, 80–81.
+[^46]: Giovanna Capitelli, [*Mecenatismo pontificio e borbónico alla vigilia dell’Unità*,]{lang=it} (Viviana, 2011), 50–51, 80–81.
 
-[^47]: Michael Camille, *The Gargoyles of Notre-Dame: Medievalism and the Monsters of Modernity* (University Chicago Press, 2009), 53-56; Isabelle Saint Martin, *Art chrétien/Art sacré: Regards du catholicism sur l’art; France, XIXe–XXe siecle* (Presses Universitaires de Rennes, 2014), 73; Michael Preston Worley, *Pierre Julien: Sculptor to Queen Marie-Antoinette* (iUniverse, 2021), 124; Anne Marie de Lapparent, *Louis-Pierre Deseine* (CTHS, 2013); and Ronit Milano, *The Portrait Bust and French Cultural Politics in the Eighteenth Century* (Brill, 2015), 154, 175–78.
+[^47]: Michael Camille, *The Gargoyles of Notre-Dame: Medievalism and the Monsters of Modernity* (University Chicago Press, 2009), 53-56; Isabelle Saint Martin, [*Art chrétien/Art sacré: Regards du catholicism sur l’art; France, XIXe–XXe siecle*]{lang=fr} (Presses Universitaires de Rennes, 2014), 73; Michael Preston Worley, *Pierre Julien: Sculptor to Queen Marie-Antoinette* (iUniverse, 2021), 124; Anne Marie de Lapparent, *Louis-Pierre Deseine* (CTHS, 2013); and Ronit Milano, *The Portrait Bust and French Cultural Politics in the Eighteenth Century* (Brill, 2015), 154, 175–78.
 
-[^48]: “Contrato de construcción,” 66–67.
+[^48]: [“Contrato de construcción,”]{lang=es} 66–67.
 
 [^49]: Fabio Barry, *Painting in Stone: Architecture and the Poetics of Marble from Antiquity to the Enlightenment* (Yale University Press, 2020), 289–301.
 
-[^50]: Guzmán, *De la madera al mármol*, 21–57.
+[^50]: Guzmán, [*De la madera al mármol*,]{lang=es} 21–57.
 
-[^51]: Guzmán, *De la madera al mármol*, 79–99.
+[^51]: Guzmán, [*De la madera al mármol*,]{lang=es} 79–99.
 
-[^52]: Enrique Ceppi de Lecco Lazo, *Cuatro constructores suizos en Chile: Los hermanos Ceppi Rossetti (1852–1942)* (Self-published, 2021), 73–90.
+[^52]: Enrique Ceppi de Lecco Lazo, [*Cuatro constructores suizos en Chile: Los hermanos Ceppi Rossetti (1852–1942)*]{lang=es} (Self-published, 2021), 73–90.
 
-[^53]: “Contrato de construcción,” 70v.
+[^53]: [“Contrato de construcción,”]{lang=es} 70v.
 
-[^54]: Cristina Casero, “Viggiù terra di scultori: Enrico Butti e altre personalità di rilievo nella seconda metà dell'Ottocento,” in *Storia dell'arte a Varese e nel suo territorio*, ed. Maria Luisa Gatti Perer, vol. 2 (Insubria University Press, 2011), 375–93, 387. The later marble version, dated 1910, is in the tomb of Juan Nicola in the Cementerio Central (Central Cemetery) of Montevideo. A bronze copy is kept in the Galleria d’Arte Moderna di Milano. The original plaster model is kept in the Musei Civici Viggiutesi in Viggiù, Italy.
+[^54]: Cristina Casero, [“Viggiù terra di scultori: Enrico Butti e altre personalità di rilievo nella seconda metà dell'Ottocento,” in *Storia dell'arte a Varese e nel suo territorio*,]{lang=it} ed. Maria Luisa Gatti Perer, vol. 2 (Insubria University Press, 2011), 375–93, 387. The later marble version, dated 1910, is in the tomb of Juan Nicola in the Cementerio Central (Central Cemetery) of Montevideo. A bronze copy is kept in the Galleria d’Arte Moderna di Milano. The original plaster model is kept in the Musei Civici Viggiutesi in Viggiù, Italy.
 
-[^55]: Ceppi de Lecco Lazo, *Cuatro constructores suizos en Chile*, 68.
+[^55]: Ceppi de Lecco Lazo, [*Cuatro constructores suizos en Chile*,]{lang=es} 68.
 
-[^56]: Capitelli, *Mecenatismo pontificio e borbónico,* 158–74.
+[^56]: Capitelli, [*Mecenatismo pontificio e borbónico,*]{lang=es} 158–74.
 
-[^57]: Francisco de Asís García García, “El león,” *Revista digital de iconografía medieval*, 1, no. 2 (2009): 36.
+[^57]: Francisco de Asís García García, [“El león,” *Revista digital de iconografía medieval*,]{lang=es} 1, no. 2 (2009): 36.
 
-[^58]: Ramón Gutiérrez and Rodrigo Gutiérrez Viñuales, *América y España, imágenes para una historia: Independencias e identidad (1805–1925)* (Fundació MAPFRE, 2006), 15, 98–99.
+[^58]: Ramón Gutiérrez and Rodrigo Gutiérrez Viñuales, [*América y España, imágenes para una historia: Independencias e identidad (1805–1925)*]{lang=es} (Fundació MAPFRE, 2006), 15, 98–99.
 
-[^59]: Voionmaa Tanner, *Escultura Pública*, 154–55.
+[^59]: Voionmaa Tanner, [*Escultura Pública*,]{lang=es} 154–55.
 
-[^60]: “Contrato de construcción,” 66v.
+[^60]: [“Contrato de construcción,”]{lang=es} 66v.
 
-[^61]: “Contrato de construcción,” 66v.
+[^61]: [“Contrato de construcción,”]{lang=es} 66v.
 
-[^62]: Fabio Bertelli and Federica Galora, “I privati produttori di mosaico fiorentino nella seconda metà dell’Ottocento e i loro rapporti con l’Opificio delle Pietre Dure,” *OPD Restauro*, no. 18 (2006): 320–36.
+[^62]: Fabio Bertelli and Federica Galora, [“I privati produttori di mosaico fiorentino nella seconda metà dell’Ottocento e i loro rapporti con l’Opificio delle Pietre Dure,” *OPD Restauro*,]{lang=it} no. 18 (2006): 320–36.
 
-[^63]: Patricio Díaz Silva, *Vitrales en Santiago de Chile: Obras conservadas en iglesias y edificios civiles* (Ocho Libros, 2007), 40.
+[^63]: Patricio Díaz Silva, [*Vitrales en Santiago de Chile: Obras conservadas en iglesias y edificios civiles*]{lang=es}(Ocho Libros, 2007), 40.
 
-[^64]: “Contrato de construcción,” 68.
+[^64]: [“Contrato de construcción,”]{lang=es} 68.
 
-[^65]: Pallarés Torres, *Templos católicos neogóticos*, 120–23; and Díaz Silva, *Vitrales en Santiago de Chile*, 140–47.
+[^65]: Pallarés Torres, [*Templos católicos neogóticos*,]{lang=es} 120–23; and Díaz Silva, [*Vitrales en Santiago de Chile*,]{lang=es} 140–47.
 
 [^66]: Bernhard Graf, “History,” in *Franz Mayer of Munich: Architecture, Glass, Art,* ed. Gabriel Mayer (Hirmer, 2013), 8–12; and Jasmine M. Allen, *Stained Glassworlds: Stained Glass at the International Exhibitions 1851–1900* (PhD diss., York University, 2013), 159.
 
 [^67]: Allen, *Stained Glassworlds,* 75.
 
-[^68]: Andrea Nilo and Elizabeth Stephens, “Puesta en valor del Monumento Sepulcral Monseñor Rafael Valentín Valdivieso,” in *XX Encuentro Iberoamericano de Valorización y Gestión de Cementerios Patrimoniales*, ed. Francisco José Rodríguez Marín (Universidad de Málaga, 2019), 19. Much of the historical documentation of the Mayer’sche Hofkunstanstalt in Munich was destroyed during the Second World War. This particular sketch is preserved in Skizzenbuch II within the institution’s archival collection, [give collection/location number?].
+[^68]: Andrea Nilo and Elizabeth Stephens, [“Puesta en valor del Monumento Sepulcral Monseñor Rafael Valentín Valdivieso,”]{lang=es} in [*XX Encuentro Iberoamericano de Valorización y Gestión de Cementerios Patrimoniales*,]{lang=es} ed. Francisco José Rodríguez Marín (Universidad de Málaga, 2019), 19. Much of the historical documentation of the Mayer’sche Hofkunstanstalt in Munich was destroyed during the Second World War. This particular sketch is preserved in Skizzenbuch II within the institution’s archival collection, [give collection/location number?].
 
 [^69]: Shirley Ann Brown, “The Influence of German Religious Stained Glass in Canada 1880–1941,” *RACAR* 21, nos. 1–2 (1994): 23.
 
-[^70]: Similar characteristics can be seen in the paintings *Die klugen und die törichten Jungfrauen* (The parable of the wise and foolish virgins; 1813–16?) by Peter von Cornelius and *Der Ostermorgen* (Easter morning; 1818) by Johann Frederick Overbeck.
+[^70]: Similar characteristics can be seen in the paintings [*Die klugen und die törichten Jungfrauen*]{lang=de} (The parable of the wise and foolish virgins; 1813–16?) by Peter von Cornelius and [*Der Ostermorgen*]{lang=de} (Easter morning; 1818) by Johann Frederick Overbeck.
 
-[^71]: Sol Serrano, *¿Qué hacer con Dios en la República? Política y secularización en Chile (1845–1885)* (Fondo de Cultura Económica, 2008), 192–99.
+[^71]: Sol Serrano, [*¿Qué hacer con Dios en la República? Política y secularización en Chile (1845–1885)*]{lang=es} (Fondo de Cultura Económica, 2008), 192–99.
 
-[^72]: Casanova, *Pastoral . . . en el día de su consagración episcopal,* 9.
+[^72]: Casanova, [*Pastoral . . . en el día de su consagración episcopal,*]{lang=es} 9.
 
-[^73]: “Traslación de los restos del señor arzobispo Valdivieso,” *Boletín Eclesiástico*, no. 13 (1895–97): 771.
+[^73]: [“Traslación de los restos del señor arzobispo Valdivieso,” *Boletín Eclesiástico*,]{lang=es} no. 13 (1895–97): 771.
 
-[^74]: Rafael Errázuriz Urmeneta, “Monumento sepulcral del Iltmo. Y Rmo. Sr. Valdivieso,” *Revista católica* 7, no. 79 (1904): 457.
+[^74]: Rafael Errázuriz Urmeneta, [“Monumento sepulcral del Iltmo. Y Rmo. Sr. Valdivieso,” *Revista católica*]{lang=es} 7, no. 79 (1904): 457.
 
-[^75]: Errázuriz Urmeneta, “Monumento sepulcral,” 457.
+[^75]: Errázuriz Urmeneta, [“Monumento sepulcral,”]{lang=es} 457.
 
-[^76]: Errázuriz Urmeneta, “Monumento sepulcral,” 458.
+[^76]: Errázuriz Urmeneta, [“Monumento sepulcral,”]{lang=es} 458.
 
-[^77]: Errázuriz Urmeneta, “Monumento sepulcral,” 461.
+[^77]: Errázuriz Urmeneta, [“Monumento sepulcral,”]{lang=es} 461.
 
