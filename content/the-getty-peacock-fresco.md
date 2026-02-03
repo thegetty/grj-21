@@ -42,16 +42,20 @@ J. Paul Getty had a long relationship with the seller. He bought many antiquitie
 
 In preparation for the opening of the new museum (now called the Villa Museum), the fresco was published in the catalog authored by architectural historian Norman Neuerburg and Cornelius Vermeule, *Catalogue of the Ancient Art in the J. Paul Getty Museum: The Larger Statuary, Wall Paintings and Mosaics* (1973).[^4] There it is described as follows:
 
-> 108\. Fragment of a Wall Painting with a Peacock
-> About 70 A.D.
-> 40 × 24.8 cm (15 3/4 × 9 3/4 in.)
-> Provenance: Purchased by the Museum in 1968 (68AG13)
->
-> An architectural frame of dark red contains a peacock standing on a dark red “union jack” fence. The bird is blue and black on the breast and neck, while the body and top-knot are red; the beak and legs are brown. A pink shield with red ribbons hangs above from behind the drooping lintel. The piece is composed of several fragments and is set in cement, but there are no areas of repaint. It closely resembles a detail from the upper register of a room in the House of Siricus in Pompeii,^i^ the only difference being that the fence is in three sections rather than two. In fact, the similarity is close enough to suggest the same painter. The rather odd tonality of the colors, which seem chemically changed, resembles a circumstance occurring in Pompeii and Herculaneum; this also suggests a provenance from the same zone. At any rate the fragment belongs to the so-called fourth style and should date around 70 A.D.
-> 
-> <ol type="i" style="font-size: var(--quire-nav-font-size); line-height: var(--quire-nav-font-line-height);">
-> <li>R. A. Briggs, <em>Pompeian Decorations,</em> London, 1911, unnumbered plate. No trace of this painting now remains.</li>
-> </ol>
+<blockquote style="margin-left: var(--large-indent);">
+
+108\. Fragment of a Wall Painting with a Peacock
+About 70 A.D.
+40 × 24.8 cm (15 3/4 × 9 3/4 in.)
+Provenance: Purchased by the Museum in 1968 (68AG13)
+
+An architectural frame of dark red contains a peacock standing on a dark red “union jack” fence. The bird is blue and black on the breast and neck, while the body and top-knot are red; the beak and legs are brown. A pink shield with red ribbons hangs above from behind the drooping lintel. The piece is composed of several fragments and is set in cement, but there are no areas of repaint. It closely resembles a detail from the upper register of a room in the House of Siricus in Pompeii,^i^ the only difference being that the fence is in three sections rather than two. In fact, the similarity is close enough to suggest the same painter. The rather odd tonality of the colors, which seem chemically changed, resembles a circumstance occurring in Pompeii and Herculaneum; this also suggests a provenance from the same zone. At any rate the fragment belongs to the so-called fourth style and should date around 70 A.D.
+
+<ol type="i" style="font-size: var(--quire-nav-font-size); line-height: var(--quire-nav-font-line-height); margin-left: 2rem;">
+<li>R. A. Briggs, <em>Pompeian Decorations,</em> London, 1911, unnumbered plate. No trace of this painting now remains.</li>
+</ol>
+
+</blockquote>
 
 As will be seen, the reference to Briggs’s publication is a significant clue in the story of the peacock fresco. Robert Alexander Briggs (1858–1916) was a British architect who traveled to the Continent in the 1880s but did not publish his observations of paintings preserved at Pompeii until 1911, “owing to the absence of any process that could faithfully reproduce” them in color, for the aim of his publication was “to illustrate, at a moderate cost, what the Pompeian Decorations are really like.”[^5] His color rendering of the peacock fresco is one of two illustrations in his book of wall paintings from the House of Siricus (VII.1.47), which was excavated between 1851 and 1872 ([fig. 2](#the-getty-peacock-fresco-fig-2)). By the time of his publication in 1911, Briggs notes, “The friezes have become very faint in color, having been exposed so long to the air.”[^6] Earlier, nineteenth-century archaeologists had noted, but did not illustrate, frescoes with birds, including a peacock, in two rooms near one of the entrances to the house on the so-called Vicolo del Lupanare (add translation Alley of the Brothel?).[^7] Autopsy in November 2022 by the present authors, Names TK, confirmed Briggs’s observation that nothing remains of the peacock wall painting at Pompeii.
 
