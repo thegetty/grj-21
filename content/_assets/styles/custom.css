@@ -680,6 +680,11 @@ strong {
     page-break-before: always;
   }
 }
+div.pdf-float-top, 
+div.pdf-float-bottom {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
 .content figure img.q-figure__image {
   max-height: 80vh;
   width: auto;
