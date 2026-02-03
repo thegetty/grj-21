@@ -698,6 +698,28 @@ div.pdf-float-bottom {
   max-height: 30vh !important;
   width: auto;
 }  
+@media screen {
+  .rights-restricted-size-half.screen-grow img {
+    max-height: 65vh !important;
+  }
+  .rights-restricted-size-half img, 
+  .rights-restricted-size-quarter.screen-grow img {
+    max-height: 50vh !important;
+  }
+  .rights-restricted-size-half.screen-shrink-a-little img {
+    max-height: 40vh !important;
+  }
+  .rights-restricted-size-quarter img,
+  .rights-restricted-size-half.screen-shrink img {
+    max-height: 30vh !important;
+  }  
+  .rights-restricted-size-quarter.screen-shrink-a-little img {
+    max-height: 25vh !important;
+  }
+  .rights-restricted-size-quarter.screen-shrink img {
+    max-height: 20vh !important;
+  }
+}
 @media print {
   .content figure img.q-figure__image {
     max-height: none;
@@ -716,23 +738,11 @@ div.pdf-float-bottom {
   .rights-restricted-size-half.pdf-shrink img {
     max-height: 3in !important;
   }  
+  .rights-restricted-size-quarter.pdf-shrink-a-little img {
+    max-height: 2.5in !important;
+  }
   .rights-restricted-size-quarter.pdf-shrink img {
     max-height: 2in !important;
-  }
-  #adding-works-to-words-fig-5a, .q-figure .q-figure--image {
-    max-height: 3in !important;
-  }
-
-  #adding-works-to-words-fig-5b .q-figure .q-figure--image {
-    max-height: 3in !important;
-  }
-  
-  #worldwide-emotion-fig-8a, .q-figure .q-figure--image {
-    max-height: 3in !important;
-  }
-
-  #worldwide-emotion-fig-8b .q-figure .q-figure--image {
-    max-height: 3in !important;
   }
 }
 
