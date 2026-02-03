@@ -251,7 +251,7 @@ Sincere thanks to Catherine Spencer, Kirsten Lloyd, Laura Silagi, Glora Hajduk, 
 
 [^63]: Mierle Laderman Ukeles, “Manifesto for Maintenance Art 1969! Proposal for an Exhibition ‘Care,’” in *Institutional Critique: An Anthology of Artists’ Writings*, ed. Alexander Alberro and Blake Stimson (MIT Press, 2011), 144–49.
 
-[^64]: See Catherine Spencer, “Acts of Displacement: Lea Lublin’s *Mon Fils*, May ’68, and Feminist Psychosocial Revolt,” *Oxford Art Journal* 40, no. 1 (2017): 65–83.
+[^64]: See Catherine Spencer, “Acts of Displacement: Lea Lublin’s [*Mon Fils*]{lang=fr}, May ’68, and Feminist Psychosocial Revolt,” *Oxford Art Journal* 40, no. 1 (2017): 65–83.
 
 [^65]: Mónica P. Mayer Lucido, “Feminist Art: An Effective Political Tool” (M.A. thesis, Goddard College, 1980).
 
