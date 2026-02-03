@@ -8,10 +8,13 @@ order: 110
 contributor: 
   - first_name: Kristen 
     last_name: Collins
+    bio: "**Kristen Collins** is curator of manuscripts in the Getty Museum."
   - first_name: Glenn 
     last_name: Phillips
+    bio: "**Glenn Phillips** is chief curator at the Getty Research Institute."
   - first_name: Nancy K. 
     last_name: Turner
+    bio: "**Nancy K. Turner** is conservator of manuscripts at the Getty Museum."
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© J. Paul Getty Trust"
 abstract: "A conversation between the three curators of the exhibition *Lumen: The Art and Science of Light* held at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide. Colleagues look back on the planning, technical expertise, and creative collaboration that went into the making and mounting of the exhibition, illuminating the inspirations and surprises that arose along the way."
 keywords: "TK, TK, TK, TK, TK, TK"
@@ -221,9 +224,9 @@ In this section we also have one of the great reunions within the exhibition, th
 
 **KC:** The show ends with the Stavelot Retable, a panel that would have sat along the back of the altar table in the royal abbey of Stavelot in Belgium (the abbey no longer exists) ([fig. 13](#lumen-tk-fig-13)). It is a somewhat unusual Pentecost scene, in its inclusion of Christ seated on a rainbow above, and has golden rays descend to the apostles.[^13] It’s gilded copper repoussé, and the apostles, who are in quite high relief, are the subject of a study by Bissera Pentcheva, who is a professor at Stanford University. She has written about the optical and acoustic aura of the Stavelot Retable and the way that it would have optically shifted in different lights, with the figures’ features shifting in the changing light throughout day and into the evening.[^14] And so we had said early on that we did not want to activate the show with artificial candles—
 
-{% figure 'lumen-tk-fig-13' %}
-
 **NT:** —however tempting!
+
+{% figure 'lumen-tk-fig-13' %}
 
 **KC:** And yet we decided that we would break that rule just once, and with Glenn’s support, too. *[laughter]* Early on [in the process of curating the exhibition] he made a great statement about rules, that they could be broken just once.
 
@@ -249,7 +252,7 @@ But this [the Stavelot Retable] is an object that was completely worth going to 
 
 {% figure 'lumen-tk-fig-14' %}
 
-I had a feeling about how this piece was going to work, and it’s turned out to be so different, because the spectra moved way faster than we ever would’ve thought. In the summer, they’re moving about six inches a minute. Spectral light, because it is dispersed and covers more ground, moves at twice the rate of a normal sunbeam. So if you really slow yourself down and look at it, you can actually see the movement. And that is the rotation of the earth that you’re seeing. And when you come back the next day at the exact same time, they are going to be in a different place than they were the day before. When Charles told me that, I was like, *Sure, by maybe millimeters or centimeters*, but in the summer—which, again, the summer is the most active, most chaotic time—sometimes it was a difference of a couple feet. They really, *really* change a lot, and that change is the orbit of the earth around the sun. So, the piece is measuring two types of planetary movement. One is something that we can, if we slow down, perceive the first time we visit it. The other you have to visit the piece over and over again, over the course of a year, to really understand.
+**GP:** I had a feeling about how this piece was going to work, and it’s turned out to be so different, because the spectra moved way faster than we ever would’ve thought. In the summer, they’re moving about six inches a minute. Spectral light, because it is dispersed and covers more ground, moves at twice the rate of a normal sunbeam. So if you really slow yourself down and look at it, you can actually see the movement. And that is the rotation of the earth that you’re seeing. And when you come back the next day at the exact same time, they are going to be in a different place than they were the day before. When Charles told me that, I was like, *Sure, by maybe millimeters or centimeters*, but in the summer—which, again, the summer is the most active, most chaotic time—sometimes it was a difference of a couple feet. They really, *really* change a lot, and that change is the orbit of the earth around the sun. So, the piece is measuring two types of planetary movement. One is something that we can, if we slow down, perceive the first time we visit it. The other you have to visit the piece over and over again, over the course of a year, to really understand.
 
 And there are multiple connections to the show. One: we needed rainbows, basically. If you pay attention in the show, in so many of the depictions of God, he’s either sitting on a rainbow or surrounded by rainbows, or both. The rainbows aren’t always in color; sometimes it’s just the shape. Now that I know that, I see it everywhere. This notion that a rainbow might be surrounding the divine and pointing to it is so perfect because you can never get to the rainbow, right?
 
@@ -313,7 +316,7 @@ I would credit E.V. for the extent of our lighting design, since the work was re
 
 {% figure 'lumen-tk-fig-18' %}
 
-We were probably already talking about a lighting designer at that point, but I’m sure that was when I started thinking, *Oh god, actually [everything]{.underline} in the show needs a lighting designer*. But that’s another case where we simply listened to the artist. Unfortunately, that can be very rare, and it’s even more rare with women artists. Often, they say exactly what they want, and the institution starts trying to talk them out of it, because it’s going to be more expensive, you know. But that piece is so dependent on every little thing being done perfectly—which of course the artist knows better than anyone. You can’t bargain your way—well you’ll bargain your way into a failure if you don’t give it what it needs.
+**GP:** We were probably already talking about a lighting designer at that point, but I’m sure that was when I started thinking, *Oh god, actually everything in the show needs a lighting designer*. But that’s another case where we simply listened to the artist. Unfortunately, that can be very rare, and it’s even more rare with women artists. Often, they say exactly what they want, and the institution starts trying to talk them out of it, because it’s going to be more expensive, you know. But that piece is so dependent on every little thing being done perfectly—which of course the artist knows better than anyone. You can’t bargain your way—well you’ll bargain your way into a failure if you don’t give it what it needs.
 
 **KC:** Yeah, we were lucky that the museum went all in on this show and recognized that a show on light needed the Available Light team! *[laughter]*
 
@@ -374,3 +377,49 @@ When you’re at the very top, which is depicting the orbit of Polaris thirteen 
 **KC:** That’s an important thing to be said, particularly at a moment when symposium volumes are becoming more infrequent. So often the really interesting stuff that bubbles up through an exhibition, you only come to after the book is out. After you’ve been living with the show in the galleries, and you’ve had these really rich conversations. After you’ve had a study day and sensory activity led by Barry Smith [professor at University of London and founding director of the Centre for the Study of the Senses] while smelling incense and hearing Hildegard Bingen in the galleries! I think there are all kinds of exhibition afterlives that continue to ripple, and it remains to be seen how we capture them.
 
 </div>
+
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
+
+## Notes {.notes-heading}
+
+[^1]: *Holy Image, Hallowed Ground: Icons from Sinai,* curated by Robert S. Nelson and Kristen Collins, Getty Center, Los Angeles, 14 November 2006–4 March 2007. See Robert S. Nelson, Kristen M. Collins, eds., *Holy Image, Hallowed Ground: Icons from Sinai ,* exh. cat. (J. Paul Getty Museum, 2006).
+
+[^2]: “PST ART: Art & Science Collide,” Getty, https://www.getty.edu/projects/pacific-standard-time-2024/.
+
+[^3]: Nancy Thompson, G. Gabrielle Starr, and Abbey Stockstill, moderated by Barry C. Smith, “Art, Science, and Wonder in the Medieval World (Panel 2: The Neuroscience of Light),” Getty Center, Los Angeles, 10 November 2024, https://youtu.be/vfl_6cNVuZ4?si=V72pZ6c-d0dYbyPe.
+
+[^4]: Rebecca McGrew et al., *It Happened at Pomona: Art at the Edge of Los Angeles 1969–1973,* exh. cat. (Pomona College Museum of Art, 2011).
+
+[^5]: Kristen Collins and Nancy K. Turner, eds., with contemporary contributions by Glenn Phillips, *Lumen: The Art and Science of Light, 800–1600* (J. Paul Getty Museum, 2024), 224, pl. 114.
+
+[^6]: Collins and Turner, *Lumen,* 53, pl. TK.
+
+[^7]: Collins and Turner, *Lumen,* 218, pl. 107.
+
+[^8]: *Wonders of Creation: Art, Science, and Innovation in the Islamic World,* 7 September 2024–5 January 2025, curated by Ladan Akbarnia, San Diego Museum of Art, https://www.sdmart.org/exhibition/wonders-of-creation-art-science-and-innovation-in-the-islamic-world/.
+
+[^9]: Collins and Turner, *Lumen,* 118–19, pl. 49; 112, pl. 41.
+
+[^10]: See, for instance, Hans Henrik Lohfert Jørgensen et al., *The Saturated Sensorium, Principles of Perception and Mediation in the Middle Ages* (Aarhus University Press, 2015).
+
+[^11]: Collins and Turner, *Lumen,* 232–33, pls. 123, 124.
+
+[^12]: Christopher R. Lakey elaborates in “Dazzling Splendor in a Processional Standard by Gentile da Fabriano,” in Collins and Turner, *Lumen,* 195–96.
+
+[^13]: Collins and Turner, *Lumen,* 202–3, pl. 90.
+
+[^14]: Bissera V. Pentcheva, “Optical and Acoustic Aura in the Medieval Image: The Golden Retable of the Pentecost at Stavelot,” *Material Religion* 16, no. 1 (2020): 9–40, https://doi.org/10.1080/17432200.2019.1696558.
+
+[^15]: Available Light, https://www.availablelight.com/.
+
+[^16]: Pentcheva, “Optical and Acoustic Aura in the Medieval Image.”
+
+[^17]: Collins and Turner, *Lumen,* 151, pl. 87.
+
+[^18]: Collins and Turner, *Lumen,* 45, pl. 18.
+
+[^19]: Collins and Turner, *Lumen,* 128, pl. 61.
+
+[^20]: Nancy K. Turner, “Pigments and Dyes, Medicine and Healing: Finding *materia medica* in Manuscript Illumination,” in *Visualizing Drugs & Dyes: Art and Pharmacology in (Early) Medieval Worlds (600–1400)*, ed. Theresa Hollar, Matthew Griebeler, and Hannah Baader (Brill, forthcoming); and Nancy K. Turner, “Sight and the Healing Efficacies of Painting Materials as Affective *Pharmaka* in Medieval Devotional Manuscripts,’ in *The Senses, Cognition, and the Body in Medieval Devotional Practices*, ed. Pieter Boonstra et al., (Brepols, forthcoming).
