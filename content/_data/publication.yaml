@@ -9,7 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://first-pages--grj-21.netlify.app'
+url: 'http://localhost:8080'
+
 
 # -----------------------------------------------------------------------------
 # Title & Description
