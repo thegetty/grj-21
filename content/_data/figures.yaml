@@ -275,7 +275,7 @@ figure_list:
   - id: "the-global-system-of-the-arts-fig-2"
     src: "figures/the-global-system-of-the-arts-fig-2.jpg"
     label: "Fig. 2. —"
-    caption: "**Eduardo Isenring (German, active in Chile, life dates unknown).** Plan for “Monument sepulchral de Monseigneur l’archeveque D. Raphael Valentín Valdivieso,” 1893. Santiago, Chile, Archivo Histórico del Arzobispado de Santiago. Image courtesy of the Archivo Histórico del Arzobispado de Santiago."
+    caption: "**Eduardo Isenring (German, active in Chile, life dates unknown).** Plan for [“Monument sepulchral de Monseigneur l’archeveque D. Raphael Valentín Valdivieso,”]{lang=fr} 1893. Santiago, Chile, Archivo Histórico del Arzobispado de Santiago. Image courtesy of the Archivo Histórico del Arzobispado de Santiago."
     credit: ""
     alt: "TK"
     zoom: "true"
