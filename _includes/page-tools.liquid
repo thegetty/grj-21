@@ -28,15 +28,13 @@
       {{ keywords | markdownify }}
 
       {% endif %}
-
+      {% endaccordion %}
+      {% endif %}
       {% if peer_review %}
-
-      Peer Review {.page-tools__heading}
+      {% accordion 'Peer Review' %}
 
       {{  peer_review  | markdownify }}
-
-      {% endif %}
-
+      
       {% endaccordion %}
       {% endif %}
       {% if doi %}
