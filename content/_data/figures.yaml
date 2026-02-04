@@ -751,7 +751,7 @@ figure_list:
   - id: "lumen-tk-fig-8"
     src: "figures/this-show-is-so-metal-fig-8-FPO.png"
     label: "Fig. 8. —"
-    caption: "**Installation view of *Lumen: The Art and Science of Light* with case containing astrolabes, dates TK,** *Quadrans vetus* Horary Quadrant, possibly France, ca. 1300**, and manuscript title TK, date TK.** Photograph © J. Paul Getty Trust, 2024."
+    caption: "**Installation view of *Lumen: The Art and Science of Light* with case containing astrolabes, dates TK,** [*Quadrans vetus*]{lang=la} Horary Quadrant, possibly France, ca. 1300**, and manuscript title TK, date TK.** Photograph © J. Paul Getty Trust, 2024."
     credit: ""
     alt: "TK"
     zoom: ""
