@@ -28,7 +28,7 @@ Although contemporary society separates science and spirituality, in the medieva
 
 —Kristen Collins, Nancy K. Turner, and Glenn Phillips {.epigraph-signature}
 
-{% figure 'lumen-tk-fig-1' %}
+{% figure 'lumen-tk-fig-1' 'pdf-float-top' %}
 
 The conversation below took place in person in November 2024 at the Getty Center in Los Angeles. It has been condensed and edited for length, repetition, and clarity. Italics and underline have been added to capture words or phrases emphasized in the original dialogue. {.introductory-note}
 
@@ -38,7 +38,7 @@ The conversation below took place in person in November 2024 at the Getty Center
 
 Over the course of researching that project, we attended Easter and many other liturgies at the Monastery of Saint Catherine at Mount Sinai, Egypt ([fig. 2](#lumen-tk-fig-2)). There, we witnessed the effects of moving light in a sixth-century Byzantine church. We noticed the way that it moved the visitor to states of emotion and religiosity, and we wondered if we could import some of that into the museum environment.
 
-{% figure 'lumen-tk-fig-2' %}
+{% figure 'lumen-tk-fig-2' 'pdf-float-top' %}
 
 The germ of an idea for a Manuscripts [Department] one-gallery show was a corrective view of light in medieval spaces, and on medieval objects. Our manuscripts are inherently haptic objects. They were meant to be handled; their pages were meant to glitter in the light. And yet, when we have them on display, they’re like butterflies pinned inside a collector’s case. So that begged the question: How do we convey some of the activation that happens when you’re carrying objects through church spaces or mosques? Or when you’re opening books, or looking at light glittering on mosaic and gilded domes?
 
@@ -48,7 +48,7 @@ For our thought to have one contemporary art installation across the way, one ar
 
 **KC:** And so this idea, which was going to come with the considerable expense of a contemporary installation, sat on the backburner for a while until the PST ART: Art and Science Collide theme was announced.[^2] And then it actually sat on the backburner for even a while longer. *[laughter]* We were late to the game—we joined the *PST* roster in 2021, when we were asked to pitch an exhibition for the Special Exhibitions Gallery. We jumped at the chance, because it seemed like such a great way to expand that initial idea. At that point, we had to turn a concept for a manuscripts show from our own collection into a large special exhibition. Being a part of PST ART really upped the ante as far as needing to engage with medieval science as a discipline. The rubric for that first section of the exhibition is “Astral Light,” and it is to Nancy’s credit that we jump in with the giant *Tapestry of the Astrolabes* ([fig. 3](#lumen-tk-fig-3)), which she was convinced we could secure if only we could find the curators in charge.
 
-{% figure 'lumen-tk-fig-3' %}
+{% figure 'lumen-tk-fig-3' 'pdf-float-top' %}
 
 **NT:** We have to remember, this was all conceived during the pandemic itself, in 2020–21, and we weren’t able to start traveling until ’22. But some money came up in early ’23 and we wanted to pursue the tapestry. We really didn’t know whom to contact after I spotted it in the catalog for *Circa 1492: Art in the Age of Exploration* (1991–92), an exhibition at the National Gallery in Washington, DC which listed Museo de Santa Cruz in Toledo, Spain, as the lender.
 
@@ -100,9 +100,9 @@ When pieces are not fully self-contained and have an installation element, then 
 
 And, you know, it’s all working within the constraints of the space. An exhibition gallery that has a corridor in it—it’s a little hard to factor in. But that was a moment of kismet, putting our eyeball diagrams in the space called the oculus ([figs. 4](#lumen-tk-fig-4), [5](#lumen-tk-fig-5)). *[laughter]* We get great humor out of that. *[more laughter]*
 
-{% figure 'lumen-tk-fig-4' %}
+{% figure 'lumen-tk-fig-4' 'pdf-80-percent-width' %}
 
-{% figure 'lumen-tk-fig-5' %}
+{% figure 'lumen-tk-fig-5' 'pdf-80-percent-width' %}
 
 **KC:** My cousin’s six-year-old child pointed out on a tour that the oculus looks like an eye, had I noticed? It was wonderful.
 
@@ -118,7 +118,7 @@ One of the things worth mentioning is that Nancy and I are old school, and so wh
 
 **GP:** We had gotten very far on plans for an Otto Piene Light Ballet installation ([fig. 7](#lumen-tk-fig-7)). It was one that includes a false wall covered in little holes. The space behind the wall is illuminated, so those holes turn into tiny points of light that are in a pattern very reminiscent of the medieval nested spheres of the universe. And then a series of kinetic sculptures in the room cast changing, spinning points of light across the space, with different elements of the installation activating at different times. If you look at the whole first gallery, almost every single piece is circular. Whether circular astrolabes, depictions of the heavens, or early mapping of the sky, everything is taking the same form. And so I loved the idea, with the Piene, that you would walk into this spinning galaxy and see the repetition of these forms that you’re seeing everywhere else in the gallery. But it *was not* meant to be. *[group laughter]* I think we tortured the designers in ten different ways trying to get this to fit, and they *really* tried everything—
 
-{% figure 'lumen-tk-fig-7' %}
+{% figure 'lumen-tk-fig-7' 'pdf-float-top' %}
 
 **GP:** They tried things I had never seen before in that space, but it just couldn’t happen.
 
@@ -204,7 +204,7 @@ There’s this kind of ladder in our show that gets you from hard science to rel
 
 **KC:** “This show is so metal.” [*laughter*] Opening crates full of gold and, you know, a little bit of rock and roll. But then there’s what Glenn was talking about, this language of diagrams. We in the Manuscripts Department at the Getty are nested in an art museum, so naturally we like the gold, glittering, scintillating objects; the diagrams were initially less exciting. And yet, the more time that we spent with art historian and historian-of-science friends and colleagues, who spend their careers on these kinds of visual constructions, we have come to look at our collection in a new way. For instance, there is this one late Ottonian manuscript that has an image of a Pentecost ([fig. 11](#lumen-tk-fig-11)). Glenn calls it his favorite object in the collection. It’s of this moment when the Holy Spirit, represented by a dove, descends upon the apostles and flames appear above their heads, and they are all given the power of speech. We placed it in the exhibition’s section “Light and Vision” to illustrate medieval ideas about light traveling in rays and lines. But now when I look at it, and more generally at medieval representations of the heavens, I will forever see diagrams of the nested spheres of the universe. As Glenn mentioned, the preceding section, “Astral Light,” included numerous images of the spherical universe. Medieval people represented planetary motion around the earth as concentric circles, with each planet on its own track. In this case we have only the lower half of the larger heavenly sphere visible, but you could still interpret it as an echo of scientific understandings of the cosmos.
 
-{% figure 'lumen-tk-fig-11' 'screen-shrink-a-little' %}
+{% figure 'lumen-tk-fig-11' 'screen-shrink-a-little pdf-60-percent-width' %}
 
 **NT:** So, as Glenn mentioned, a big part of this show is the very intertwined nature of religious imagery and the diagrammatic language of science, the knowledge that science was coming up with about sight and light. And it’s like Kristen said: we’re seeing our own collection in a new way. One pairing that really strikes me is our English Apocalypse [*The Twenty-Four Elders Pay Homage to the Throne of God* in Getty Apocalpyse, possibly London, ca. 1255–60], which is displayed right next to Roger Bacon’s *Geometrical Diagrams of Rays Entering the Eye and Striking the Crystalline Humor* (1275–1300).[^9] Bacon was a Franciscan writing about light, and he was quoting Ibn al-Haytham, Islamic polymath and scientist who was writing in the 1030s or so. By Bacon’s time, Al-Haytham’s text had finally been translated into Latin, and Bacon was interpreting it in his own book on optics. He’s a Franciscan, and he’s a teacher at Oxford University, but at the same time he was adding to Ibn al-Haytham’s text, talking about light operating as “species” and also how light gets intensified when it goes through a small oculus. And we have a picture of that in our English Apocalypse: John the Divine seeing his revelations through a little hole in the frame of the image itself. So we now read it as his visionary experience of seeing the end times, being intensified—like light—into his own eye.
 
@@ -314,7 +314,7 @@ And then my big realization this week. In the middle of the show, in the section
 
 I would credit E.V. for the extent of our lighting design, since the work was really an outdoor nighttime piece illuminated by flood lights below. Talking to her about the piece, she said, “The context of Lumen is so perfect for my Golden Rays installation. The cables are like the body of God’s voice pulled out of the medieval annunciation painting in your show! It plugs right into that whole shimmering machinery of devotion.” She said, “I would love to do this—this is a dream, absolutely—but I need a lighting designer. I think that’s the only way.” She said, “The only way I know how to do this piece is for it to be dark, and then I just blast it with light from underneath.” And, I was like, “Well, I don’t think you can blast anything in a gallery full of medieval manuscripts!” And she said, “I also don’t know where the shadows would land when contained by walls. I would love to make this work, but I need professional assistance to really get it to work in your gallery space” ([fig. 18](#lumen-tk-fig-18)).
 
-{% figure 'lumen-tk-fig-18' %}
+{% figure 'lumen-tk-fig-18' 'pdf-float-top' %}
 
 **GP:** We were probably already talking about a lighting designer at that point, but I’m sure that was when I started thinking, *Oh god, actually everything in the show needs a lighting designer*. But that’s another case where we simply listened to the artist. Unfortunately, that can be very rare, and it’s even more rare with women artists. Often, they say exactly what they want, and the institution starts trying to talk them out of it, because it’s going to be more expensive, you know. But that piece is so dependent on every little thing being done perfectly—which of course the artist knows better than anyone. You can’t bargain your way—well you’ll bargain your way into a failure if you don’t give it what it needs.
 
@@ -322,7 +322,7 @@ I would credit E.V. for the extent of our lighting design, since the work was re
 
 **GP:** Maybe this is a good opportunity to circle back to the eighth contemporary work in the show, the one I described as emotionally included. In the rotunda, Charles Ross’s work is measuring two types of planetary movement, right? The daily rotation and the yearly orbit. But there’s a third type of planetary movement that he has spent the last fifty years of his life trying to visualize. If you’ve ever spun a top and then the top starts to wobble—our planet does the same thing, and one wobble takes twenty-six thousand years to happen. Charles has made this incredible work of land art that helps to visualize this phenomenon, which our medieval predecessors called the precession of the equinoxes. I said it’s emotionally included in the show because it’s sitting on a mesa in New Mexico ([fig. 19](#lumen-tk-fig-19)). *[laughter]* We can’t bring it here.
 
-{% figure 'lumen-tk-fig-19' %}
+{% figure 'lumen-tk-fig-19' 'pdf-float-top' %}
 
 But it’s a moment in the show that I love because, at the very center of the *Tapestry of the Astrolabes,* there is the North Star, Polaris represented with a little circle around it (see [fig. 3](#lumen-tk-fig-3)). Right next to that, there’s a manuscript depicting a monk using a device called a *horologium nocturnum* to tell time at night.[^18] You point it at Polaris and then, based on where the stars are around it, you can tell the time at night. And so *Star Axis* by Ross is also a sighting tube that is aimed at Polaris. It’s an eleven-story pyramid, and at the top is an oculus that is framing Polaris directly. Each step going up has two sets of dates engraved: a date in the future and a date in the past, and so as you walk up, as you approach the oculus, it’s getting larger in your field of view. The perimeter of the oculus is framing how far Polaris will move over the course of a night on the date that is engraved on the steps. When you are at the bottom of the steps, which is close to the present, the oculus is very small, and indeed Polaris moves very little over the course of a night right now, which is why it is our North Star. But because of this twenty-six-thousand-year wobble, the North Star changes over time. In a couple thousand years we’ll have a different one, and then another one a thousand years after that, and so on. As you walk the stairs and get closer to the oculus, it gets larger in your field of vision, showing you just how much our planet wobbles over time. So you’re tracing geometry in time, and when you get to the top, you witness the farthest that the wobble ever is.
 
