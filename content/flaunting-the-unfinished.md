@@ -11,7 +11,7 @@ copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (20
 abstract: "In several completed works in the oeuvre of Swiss painter Ferdinand Hodler (1853–1918), including some of his most important pieces, there is an unusual phenomenon: Hodler ostentatiously displayed lines resulting from the use of sighting and transfer grids, as well as traces of other technical tools. Hodler’s enthusiasm for Renaissance art is revealed by numerous sources, including previously unpublished letters and accounts from his contemporaries. Hodler used the traces of instruments that were particularly prevalent in the early modern period, and the consequent impression of [*non finito,*]{lang=it} to position himself in the tradition of the European Renaissance canon. Through this idiosyncratic approach, Hodler’s work can be seen anew as a modern form of classicism that frees itself from narrative and anecdotal elements."
 keywords: "Ferdinand Hodler, painting techniques, [*non finito,*]{lang=it} classicism, modernism, Swiss art"
 peer_review: "Double anonymous, external"
-doi: 
+doi: https://doi.org/10.59491/PZYH6543
 page_pdf_output: true
 ---
 

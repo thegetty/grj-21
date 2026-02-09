@@ -11,7 +11,7 @@ copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (20
 abstract: "In 1898 a sepulchral monument for the late archbishop Rafael Valentín Valdivieso (1804–78) was completed in the Santiago Cathedral. This project was promoted by his successor, Mariano Casanova (1833–1908), archbishop of Santiago from 1887 until his death in 1908. Extant documentation unveils the nature of the aesthetic, iconographic, and technical decisions involved in the commissioning of the work, in which those overseeing the work considered it necessary to look in and beyond Chile when selecting artists, workshops, and materials. Reflecting on the process of this artistic commission at the end of the nineteenth century, as well as the similarities between the final monument’s characteristics and the ideas of the succeeding archbishop, this essay situates Valdivieso’s sepulchral monument in Chile within the global system of the arts of the last decades of the nineteenth century, in which local skills and technical specialities of Europe were brought together in a funerary monument that evinces views on both ecclesiastical doctrine and artistic creation."
 keywords: "marble, stained glass, sculpture, mosaic, funerary monument, commission, Chile, nineteenth century, Mariano Casanova, Rafael Valentín Valdivieso, Archbishopric of Santiago"
 peer_review: "Double anonymous, external"
-doi: 
+doi: https://doi.org/10.59491/OXWH9082
 page_pdf_output: true
 ---
 

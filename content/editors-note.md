@@ -7,7 +7,7 @@ classes:
 contributor:
   - id: dchon
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2025): ##–## </span>© 2026 J. Paul Getty Trust"
-doi: 
+doi: https://doi.org/10.59491/APDV3546
 page_pdf_output: true
 ---
 

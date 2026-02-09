@@ -19,7 +19,7 @@ copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (20
 abstract: "A conversation between the three curators of the exhibition *Lumen: The Art and Science of Light* held at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide. Colleagues look back on the planning, technical expertise, and creative collaboration that went into the making and mounting of the exhibition, illuminating the inspirations and surprises that arose along the way."
 keywords: "TK, TK, TK, TK, TK, TK"
 peer_review: "Editorial"
-doi: 
+doi: https://doi.org/10.59491/UUGP8217
 previousPage: "/shorter-notices/becoming-simone-forti/"
 page_pdf_output: true
 ---

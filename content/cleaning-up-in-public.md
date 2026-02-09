@@ -11,7 +11,7 @@ copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (20
 abstract: "In 1977, the feminist art collective Mother Art staged a series of performances in laundromats across Los Angeles that highlighted women’s socially reproductive work inside and outside of the home. The project, titled *Laundry Works*, was subsequently assailed by politicians unhappy with the artwork’s use of public funds, triggering a debate that continued for years and involved commentators such as Ronald Reagan. Through analysis of archival documents, photographs, news articles, and original interviews with the artists, this article situates *Laundry Works* and the controversy that surrounded it within the late 1970s tax revolt and rise of neoliberalism in the United States. By performing in spaces associated with domestic labor, Mother Art explored the continuum between private care and public infrastructure, highlighting capitalism’s dependence on socially reproductive work, which is gendered, classed, and racialized in order to be rendered invisible and thus more easily exploited. Mother Art’s performances represent an important yet critically underexamined contribution to politicized second-wave feminist art that challenges gendered divisions of labor."
 keywords: "performance studies, social reproduction, Los Angeles, feminist art, activist art, public funding, Woman’s Building, domestic labor"
 peer_review: "Double anonymous, external"
-doi: 
+doi: https://doi.org/10.59491/ERGR9205
 page_pdf_output: true
 ---
 
