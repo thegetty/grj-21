@@ -63,11 +63,11 @@ Such a window onto the second Pasadena Art Museum performance might finally prov
 
 {% figure 'becoming-simone-forti-fig-5' 'rights-restricted-size-half pdf-float-top' %}
 
-{% figure 'becoming-simone-forti-fig-6' 'rights-restricted-size-half pdf-float-top' %}
+{% figure 'becoming-simone-forti-fig-6' 'rights-restricted-size-half pdf-float-top pdf-add-6rem-bottom-margin' %}
 
 {% figure 'becoming-simone-forti-fig-7' 'rights-restricted-size-half pdf-float-top' %}
 
-{% figure 'becoming-simone-forti-fig-8' 'rights-restricted-size-half pdf-float-top' %}
+{% figure 'becoming-simone-forti-fig-8' 'rights-restricted-size-half pdf-float-top pdf-add-6rem-bottom-margin' %}
 
 
 Forti, as both a collaborator and a director, not quite a student nor quite a teacher, contributed to and benefitted from the energetic, interdisciplinary atmosphere that she, CalArts, and the Pasadena Art Museum fostered in that moment in the early 1970s. The chaotic, in-between, and only partly knowable are what myths are made of. And these are likely the qualities that made that period so productive for Forti and her peers—and will keep it from full legibility in the present and future. Of course I want to join them: It looks like they’re having so much fun.
