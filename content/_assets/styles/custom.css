@@ -69,6 +69,12 @@
   }
 }
 
+/* Hide navigation items for author review site */
+.quire-navbar,
+.quire-contents-buttons {
+  display: none;
+}
+
 /* UTILITY CLASSES & GLOBAL FIXES
 ============================================================================= */
 body {
