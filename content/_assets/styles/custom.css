@@ -26,9 +26,9 @@
 }
 
 /* Temporary highlight to identify words and phrases tagged with a language code */
-span[lang] {
+/* span[lang] {
   background-color: #F9F9A3
-}
+} */
 
 :root {
   --accent-color: black; 
