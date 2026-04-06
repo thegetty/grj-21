@@ -219,7 +219,7 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^57]: Amiot, [“Lettre du père Amiot . . . au père de la Tour,”]{lang=fr} 315.
 
-[^58]: Yang Boda [杨伯达]{lang=fr}, "'Wanshuyuan ciyan tu' kaoxi  '[万树园赐宴图]{lang=fr}' [考析]{lang=fr}," Gugong bowuyuan yuankan [故宫博物院院刊]{lang=fr} 4 (1982): 3–21.
+[^58]: Yang Boda [杨伯达]{lang=zh}, "'Wanshuyuan ciyan tu' kaoxi  '[万树园赐宴图]{lang=zh}' [考析]{lang=zh}," Gugong bowuyuan yuankan [故宫博物院院刊]{lang=zh} 4 (1982): 3–21.
 
 [^59]: Lucia Tripodes, “Painting and Diplomacy at the Qianlong Court: A Commemorative Picture by Wang Zhicheng (Jean-Denis Attiret),” *RES: Anthropology and Aesthetics* 35 (Spring 1999): 185–200.
 
