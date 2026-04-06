@@ -129,7 +129,7 @@ This research began in 2023 at the Getty Consortium Seminar with Owen Doonan at 
 
 [^23]: Montgomery, “‘Oppressed and Destroyed,’” 546.
 
-[^24]: See this essay, note [6](#fn6).
+[^24]: See this essay, [note 6](#fn6).
 
 [^25]: Arias Herrera, “From the Screen to the Wall,” 428.
 
@@ -139,7 +139,7 @@ This research began in 2023 at the Getty Consortium Seminar with Owen Doonan at 
 
 [^28]: Montgomery, “‘Oppressed and Destroyed,’” 547.
 
-[^29]: This quotation which does not appear in the English version (see this essay, note [20](#fn20)), is from a different, Spanish-language version of Siqueiros’s typescript speech for the John Reed Club, Los Angeles: David Alfaro Siqueiros, [“Los vehículos de la pintura dialéctica-subversiva,”]{lang=es} 1932, [Sala de Arte Público Siqueiros,]{lang=es} folio 9.1.15. 272, quoted in English translation in Anna Indych-López, “Celluloid [América]{lang=es}: Siqueiros, Hollywood, and [Plástica Fílmica]{lang=es},” in [*Vida Americana:*]{lang=es} *Mexican Muralists Remake American Art, 1925–1945*, exh. cat., ed. Barbara Haskell (Whitney Museum of American Art, 2020), 190. Indych-López notes that various versions of the speech for the John Reed Club by Siqueiros are held in the Sala de Arte Publico Siqueiros (SAPS) in Mexico City, many of which are analyzed in Delgado, Delirious Consumption, 44–57. Indych-López, “Celluloid América,” p TK. 
+[^29]: This quotation which does not appear in the English version (see this essay, [note 20](#fn20)), is from a different, Spanish-language version of Siqueiros’s typescript speech for the John Reed Club, Los Angeles: David Alfaro Siqueiros, [“Los vehículos de la pintura dialéctica-subversiva,”]{lang=es} 1932, [Sala de Arte Público Siqueiros,]{lang=es} folio 9.1.15. 272, quoted in English translation in Anna Indych-López, “Celluloid [América]{lang=es}: Siqueiros, Hollywood, and [Plástica Fílmica]{lang=es},” in [*Vida Americana:*]{lang=es} *Mexican Muralists Remake American Art, 1925–1945*, exh. cat., ed. Barbara Haskell (Whitney Museum of American Art, 2020), 190. Indych-López notes that various versions of the speech for the John Reed Club by Siqueiros are held in the Sala de Arte Publico Siqueiros (SAPS) in Mexico City, many of which are analyzed in Delgado, Delirious Consumption, 44–57. Indych-López, “Celluloid América,” p TK. 
 
 [^30]: Siqueiros, The Vehicles of Dialectic, Subversive Painting,” 11. Emphasis mine.
 
