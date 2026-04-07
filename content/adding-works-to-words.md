@@ -109,7 +109,7 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^2]: Jean-Joseph-Marie Amiot, letter to Claude-François Attiret regarding Jean-Denis Attiret, 1 March 1769, Los Angeles, Getty Research Institute (GRI), 2013.M.13, http://hdl.handle.net/10020/2013m13.
 
-[^3]: Jean-Denis Attiret, [“Lettre du Père Attiret, peintre au service d l’empereur de la Chine, à M. d’Assaut, à Pékin, le 1er novembre 1743,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [. . .], vol. 27 (Paris, 1749), 1–61; and Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Gardens near Pekin* [. . .], trans. Sir Harry Beaumont (London, 1752).
+[^3]: Jean-Denis Attiret, [“Lettre du Père Attiret, peintre au service d l’empereur de la Chine, à M. d’Assaut, à Pékin, le 1er novembre 1743,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [.&nbsp;.&nbsp;.], vol. 27 (Paris, 1749), 1–61; and Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Gardens near Pekin* [.&nbsp;.&nbsp;.], trans. Sir Harry Beaumont (London, 1752).
 
 [^4]: Marco Musillo, *The Shining Inheritance: Italian Painters at the Qing Court, 1699–1812* (Getty Research Institute, 2016); and Marco Musillo, “Reconciling Two Careers: The Jesuit Memoir of Giuseppe Castiglione, Lay Brother and Qing Imperial Painter,” *Eighteenth-Century Studies* 42, no. 1 (2008): 45–59.
 
@@ -195,7 +195,7 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^45]: *Ruyiguan,* QL 19/7/23 (9 September 1754), in First Historical Archives, *Qinggong zaobanchu dang’an zonghui*, vol. 20 [1753–54], 378.
 
-[^46]: L. Patouillet, [“Épitre aux Jésuites de France,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [. . .], vol. 28 (Paris, 1758), vii–viii.
+[^46]: L. Patouillet, [“Épitre aux Jésuites de France,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [.&nbsp;.&nbsp;.], vol. 28 (Paris, 1758), vii–viii.
 
 [^47]: Kee Il Choi, “Portraits of Virtue: Henri-Léonard Bertin, Joseph Amiot and the ‘Great Man’ of China,” *Transactions of the Oriental Ceramic Society* 80 (2015): 55n27; and Camille Schmitt, [*La médecine de l’art: Conservation des calligraphies et peintures chinoises en rouleaux à partir des textes de la dynastie Ming, 1368–1644*]{lang=fr} (Éditions Philippe Picquier; Centre de Conservation du Livre, Arles, 2011), 52–53.
 
@@ -215,9 +215,9 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^55]: The *Ruyiguan* order on QL 19/7/23 (9 September 1754) dates the order dispatching Attiret to the Mountain Retreat as QL 19/5/7 (26 June 1754), in First Historical Archives, *Qinggong zaobanchu dang’an zonghui,* 20:377.
 
-[^56]: Jean-Joseph-Marie Amiot, [“Lettre du père Amiot, missionnaire à la Chine, au père de la Tour, de la meme Compagnie, 17 October 1754,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [. . .], vol. 23 (Paris, 1781), 302–68; see also the partial translation in Sommer, “A Letter.”
+[^56]: Jean-Joseph-Marie Amiot, [“Lettre du père Amiot, missionnaire à la Chine, au père de la Tour, de la meme Compagnie, 17 October 1754,”]{lang=fr} in [*Lettres édifiantes et curieuses*]{lang=fr} [.&nbsp;.&nbsp;.], vol. 23 (Paris, 1781), 302–68; see also the partial translation in Sommer, “A Letter.”
 
-[^57]: Amiot, [“Lettre du père Amiot . . . au père de la Tour,”]{lang=fr} 315.
+[^57]: Amiot, [“Lettre du père Amiot .&nbsp;.&nbsp;. au père de la Tour,”]{lang=fr} 315.
 
 [^58]: Yang Boda [杨伯达]{lang=zh}, "'Wanshuyuan ciyan tu' kaoxi  '[万树园赐宴图]{lang=zh}' [考析]{lang=zh}," Gugong bowuyuan yuankan [故宫博物院院刊]{lang=zh} 4 (1982): 3–21.
 

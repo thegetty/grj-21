@@ -138,21 +138,21 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^5]: Fernando Guzmán, [*De la madera al mármol: Arte religioso en Chile, siglos XVIII y XIX*]{lang=es} (Silvana, 2023), 79–99.
 
-[^6]: On the role of public sculptures in nation building in Chile, see Gloria Cortés, [“Monumento al roto . . . piojento: La construcción oligárquica de la identidad nacional en Chile,” *Arbor: Ciencia, pensamiento y cultura*]{lang=es} 185, no. 740 (2009): 1231–41; Pedro Zamorano, [“Escultura en Hispanoamérica durante el siglo XIX: El caso chileno,” *Archivo Español de Arte*]{lang=es} 84, no. 333 (2011): 25–40; and Liisa Flora Voionmaa Tanner, [*Escultura pública: Del monumento conmemorativo a la escultura urbana; Santiago 1792–2004,*]{lang=es} vol. 1 (Ocho Libros, 2004), 128–55.
+[^6]: On the role of public sculptures in nation building in Chile, see Gloria Cortés, [“Monumento al roto .&nbsp;.&nbsp;. piojento: La construcción oligárquica de la identidad nacional en Chile,” *Arbor: Ciencia, pensamiento y cultura*]{lang=es} 185, no. 740 (2009): 1231–41; Pedro Zamorano, [“Escultura en Hispanoamérica durante el siglo XIX: El caso chileno,” *Archivo Español de Arte*]{lang=es} 84, no. 333 (2011): 25–40; and Liisa Flora Voionmaa Tanner, [*Escultura pública: Del monumento conmemorativo a la escultura urbana; Santiago 1792–2004,*]{lang=es} vol. 1 (Ocho Libros, 2004), 128–55.
 
 [^7]: Mariano Casanova, [*Circular sobre la necesidad de erijir en la Iglesia Metropolitana un monumento sepulcral en honor del Illmo. I Rmo. Señor Dr. D. Rafael Valentín Valdivieso*]{lang=es} (Santiago, 1887), 4. Translations from this source are by Fernando Guzmán and Sylvia Glover.
 
 [^8]: Enrique Laval, [“El cólera en Chile (1886–1888),” *Revista chilena de infectología*]{lang=es} 20 (2003): 86–88.
 
-[^9]: Casanova, [*Circular sobre la necesidad de erijir [. . .] un monumento sepulcral,*]{lang=es} 5.
+[^9]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 5.
 
 [^10]: Casanova had seen the tombs during a trip to Europe when he was a priest in his early thirties. Julio Retamal Avila, [*Monseñor Mariano Casanova Casanova 1886–1908, tercer arzobispo de Santiago*]{lang=es} (Editorial Salesiana, 1981), 12.
 
-[^11]: Casanova, [*Circular sobre la necesidad de erijir [. . .] un monumento sepulcral,*]{lang=es} 6.
+[^11]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 6.
 
-[^12]: Casanova, [*Circular sobre la necesidad de erijir [. . .] un monumento sepulcral,*]{lang=es} 4.
+[^12]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 4.
 
-[^13]: Casanova, [*Circular sobre la necesidad de erijir [. . .] un monumento sepulcral,*]{lang=es} 7.
+[^13]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 7.
 
 [^14]: Ignacio Ducasse, [*Servidores del Evangelio: Los obispos de Chile 1561–2007*]{lang=es} (Conferencia Episcopal de Chile, 2008), 90–91.
 
@@ -166,9 +166,9 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^19]: Mariano Casanova, [*Pastoral del Illmo. Y Rvmo. Señor arzobispo don Mariano Casanova en el día de su consagración episcopal*]{lang=es} (Santiago, 1887) 4, 5.
 
-[^20]: Casanova, [*Pastoral [. . .] en el día de su consagración episcopal,*]{lang=es} 10.
+[^20]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 10.
 
-[^21]: Casanova, [*Pastoral [. . .] en el día de su consagración episcopal,*]{lang=es} 11.
+[^21]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 11.
 
 [^22]: Macarena Ibarra, [“Palacio arzobispal: El edificio, el conjunto y la ciudad,”]{lang=es} in [*Ofrenda y gracia: Proyecto de conservación y restauración capilla sede arzobispal*,]{lang=es} ed. Cecilia Beas and Elena Losón (Arzobispado de Santiago, 2013), 43; and Daniela Lara, [“Análisis iconográfico de las imágenes,”]{lang=es} in Beas and Losón, [*Ofrenda y gracia*,]{lang=es} 73–84.
 
@@ -270,7 +270,7 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^71]: Sol Serrano, [*¿Qué hacer con Dios en la República? Política y secularización en Chile (1845–1885)*]{lang=es} (Fondo de Cultura Económica, 2008), 192–99.
 
-[^72]: Casanova, [*Pastoral [. . .] en el día de su consagración episcopal,*]{lang=es} 9.
+[^72]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 9.
 
 [^73]: [“Traslación de los restos del señor arzobispo Valdivieso,” *Boletín Eclesiástico*,]{lang=es} no. 13 (1895–97): 771.
 
