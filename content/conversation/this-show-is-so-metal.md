@@ -264,7 +264,7 @@ Two, you walk into the show, the first things you see are the devices that peopl
 
 **KC:** We have good old Theodoric doing his experiment by filling glass globes with water and looking at how light reflects through them, as if they were a single droplet of water hanging in mist, forming the rainbow.
 
-**KC:** Nancy always says, “He didn’t get it quite right, but. . . .”
+**KC:** Nancy always says, “He didn’t get it quite right, but.&nbsp;.&nbsp;.&nbsp;.”
 
 **NT:** He thought colors mixed in the eye, which was very intriguing.
 
@@ -352,7 +352,7 @@ When you’re at the very top, which is depicting the orbit of Polaris thirteen 
 
 **KC:** And I mean, every great project does that, right? It surprises you somehow. I definitely feel like this stretched us to take on science—so thank you, Getty Foundation! *[laughter]* I still don’t know my constellations, but I can recognize them in a medieval manuscript. Out in the field, I’m a little more limited. *[chuckles]* I feel like the catalog just scratched the surface in so many ways. There was this whole field of study that, because I was not good at math or science in high school and earlier, I peeled out of it as soon as possible in college. And there’s this whole area of our collection that could use some amplification and study. It’s fair to say, I’m not going to become a historian of science, but there’s definitely cataloging work and further shows to be done with this kind of material in the Getty’s collection. So I’m looking forward to that, which is a hard left from where I was before, the land of devotional touching and kissing of medieval books.
 
-**GP:** My feelings about incorporating contemporary art into historical shows have changed a lot. I’m always happy to see it, but if you think back to moments when you’ve encountered it in shows, it’s not always as successful as one maybe would hope. You can end up leaving a project worried, *Oh, God, am I going to get clobbered?* Because when we see it not working as well as it could’ve. . . . Those curators probably thought it was going to work, right? But this project brought me to a place where I now feel that there can be a kind of methodology to it, that there’s a reason for it, and that there’s a way that it could be done—
+**GP:** My feelings about incorporating contemporary art into historical shows have changed a lot. I’m always happy to see it, but if you think back to moments when you’ve encountered it in shows, it’s not always as successful as one maybe would hope. You can end up leaving a project worried, *Oh, God, am I going to get clobbered?* Because when we see it not working as well as it could’ve.&nbsp;.&nbsp;.&nbsp;. Those curators probably thought it was going to work, right? But this project brought me to a place where I now feel that there can be a kind of methodology to it, that there’s a reason for it, and that there’s a way that it could be done—
 
 **KC:** Done sensitively, right?—
 
