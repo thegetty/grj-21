@@ -1001,7 +1001,8 @@ summary::-webkit-details-marker {
   font-weight: 600;
   line-height: 1.57;
 }
-.quire-contents-list .menu-list .section-item ol a {
+.quire-contents-list .menu-list .section-item ol a,
+.quire-contents-list .menu-list .section-item ol a:hover {
   border-bottom-width: 0;
   font-size: 1.1rem;
 }
