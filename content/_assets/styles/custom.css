@@ -738,7 +738,11 @@ div.pdf-float-bottom {
   .content figure img.q-figure__image {
     max-height: none;
   }
-  .rights-restricted-size-half.pdf-grow img {
+  .rights-restricted-size-half.pdf-grow-more img {
+    max-height: 6in !important;
+  }
+  .rights-restricted-size-half.pdf-grow img,
+  .rights-restricted-size-quarter.pdf-grow-more img {
     max-height: 5in !important;
   }
   .rights-restricted-size-half img, 

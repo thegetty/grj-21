@@ -1,7 +1,7 @@
 // 
 // CUSTOMIZED FILE
 // Add Markdown plugins for super and subscript, lines 15–16, 54–55
-// Add lang as an allowedAttributes for markdown, line 42
+// Allow all attributes markdown, line 42
 
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
@@ -40,7 +40,7 @@ export default function (eleventyConfig, options) {
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
   const attributesOptions = {
-    allowedAttributes: ['class', 'id', 'target', 'lang'],
+    allowedAttributes: [],
     leftDelimiter: '{',
     rightDelimiter: '}'
   }

@@ -48,6 +48,7 @@ In preparation for the opening of the new museum (now called the Villa Museum), 
 About 70 A.D.
 40 × 24.8 cm (15 3/4 × 9 3/4 in.)
 Provenance: Purchased by the Museum in 1968 (68AG13)
+{style="break-inside: avoid;"}
 
 An architectural frame of dark red contains a peacock standing on a dark red “union jack” fence. The bird is blue and black on the breast and neck, while the body and top-knot are red; the beak and legs are brown. A pink shield with red ribbons hangs above from behind the drooping lintel. The piece is composed of several fragments and is set in cement, but there are no areas of repaint. It closely resembles a detail from the upper register of a room in the House of Siricus in Pompeii,^i^ the only difference being that the fence is in three sections rather than two. In fact, the similarity is close enough to suggest the same painter. The rather odd tonality of the colors, which seem chemically changed, resembles a circumstance occurring in Pompeii and Herculaneum; this also suggests a provenance from the same zone. At any rate the fragment belongs to the so-called fourth style and should date around 70 A.D.
 
@@ -98,7 +99,7 @@ Spatially resolved MA-XRF scanning produced distribution maps of individual chem
 
 Egyptian Blue and azurite, both copper based, are the two most common blue pigments found in antiquity and are likely the only ones used in ancient Roman wall paintings.[^22] Initial VIL imaging indicated that Egyptian Blue was not used in the peacock, and the absence of copper in these areas as evidenced by MA-XRF scans (see [fig. 6c](#the-getty-peacock-fresco-fig-6)) suggests that azurite was also not the source of the blue. Surprisingly, the blue in the peacock’s body was found to contain chromium, which was also found in the red feathers, with a higher concentration in the tail (see [fig. 6d](#the-getty-peacock-fresco-fig-6)). The distribution of chromium is not homogenous (see, for comparison, the iron map, [fig. 6a](#the-getty-peacock-fresco-fig-6)) but is present in sparse globular aggregates, or dots ([figs. 8a, 8b](#the-getty-peacock-fresco-fig-8a-b)).
 
-{% figure 'the-getty-peacock-fresco-fig-8a-b' 'rights-restricted-size-half pdf-70-percent-width' %}
+{% figure 'the-getty-peacock-fresco-fig-8a-b' 'rights-restricted-size-half pdf-70-percent-width pdf-float-top' %}
 
 Examination of the surface under magnification revealed that the areas painted blue contained a mixture of blue and green particles. The use of a pure green pigment was also observed as a discrete underlayer in areas such as the peacock’s beak (see [fig. 8b](#the-getty-peacock-fresco-fig-8a-b)). Traces of chromium have been identified in natural green earth minerals (celadonite or glauconite) sourced from Italy and identified on ancient wall paintings.[^23] However, Raman analysis, conducted directly on the painting surface and on removed microsamples, identified the presence of chrome oxide green (Cr~2~O~3~), a modern pigment first introduced into the artist’s palette in 1862.[^24]
 
