@@ -7,7 +7,7 @@ contributor:
   - first_name: Kristina
     last_name: Kleutghen
     bio: "**Kristina Kleutghen** is David W. Mesker Associate Professor of Art History and Archaeology at Washington University, St. Louis."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© Kristina Kleutghen"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 25–46 </span>© Kristina Kleutghen"
 abstract: "In March 1769, Jean Joseph Marie Amiot, S.J. (1718–93), the head of the French Jesuit mission in Beijing, penned a letter about the Jesuit artist Jean-Denis Attiret, S.J. (1702–68, Ch. Wang Zhicheng [王致誠]{lang=zh}). The Getty Research Institute holds a copy of this letter, which is the most comprehensive written source on Attiret and his decades in China serving the emperor Qianlong [乾隆]{lang=zh} (r. 1736–95). Yet Amiot’s letter is unillustrated, establishing a pattern of studying Attiret more through written descriptions than through his paintings. This essay reintegrates the French and Chinese textual, visual, and material evidence of Attiret’s transcultural exchanges, thereby working in the same French Enlightenment modes in which Amiot wrote and Attiret painted. By reading Amiot’s letter against Attiret’s extant documentable oeuvre, the text acquires additional value for what it omits as much as for what it reveals."
 keywords: "Jean-Denis Attiret, Jean Joseph Marie Amiot, Qianlong emperor, Jesuit, China, Society of Jesus, Sino-French relations, transcultural style, painting"
 peer_review: "Double anonymous, external"

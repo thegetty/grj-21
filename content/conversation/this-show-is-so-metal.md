@@ -15,7 +15,7 @@ contributor:
   - first_name: Nancy K. 
     last_name: Turner
     bio: "**Nancy K. Turner** is conservator of manuscripts at the Getty Museum."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© J. Paul Getty Trust"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 185–222 </span>© J. Paul Getty Trust"
 abstract: "A conversation between the three curators of the exhibition *Lumen: The Art and Science of Light* held at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide. Colleagues look back on the planning, technical expertise, and creative collaboration that went into the making and mounting of the exhibition, illuminating the inspirations and surprises that arose along the way."
 keywords: "TK, TK, TK, TK, TK, TK"
 peer_review: "Editorial"

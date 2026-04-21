@@ -7,7 +7,7 @@ contributor:
   - first_name: Megan 
     last_name: Metcalf
     bio: "**Megan Metcalf** serves as assistant professor in the Department of Art at New Mexico State University, Las Cruces."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© Megan Metcalf"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 171–183 </span>© Megan Metcalf"
 abstract: "In this first-person, diaristic essay, an art historian with a background in dance takes the reader through the process of pursuing the material traces of performance in the archive. Drawing from a narrow set of primary sources, the narrative recounts how a surprise find at the Getty Research Institute (GRI) in Los Angeles illuminates the period between 1970 and 1972, when interdisciplinary artist Simone Forti (b. 1935) taught at the California Institute of the Arts (CalArts) and staged multimedia performances at the Pasadena Art Museum (today the Norton Simon Museum). The essay demonstrates the ways that embodied knowledge provided by practice—and foregrounded in dance, performance, and museum studies—provides key insights into art and generates new connections between artists, mediums, and institutions. Simultaneously, the essay reveals the losses that are inherent to the pursuit of live forms from the past such as dance, and how such losses are ultimately productive, a lesson that extends to history writing in general."
 keywords: "Simone Forti, dance, archives, performance studies, Pasadena Art Museum, CalArts"
 peer_review: "Double anonymous, external"

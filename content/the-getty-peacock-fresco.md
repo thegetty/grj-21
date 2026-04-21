@@ -24,7 +24,7 @@ contributor:
     last_name: Trentelman
     bio: "**Karen Trentelman** is senior scientist at the Getty Conservation Institute."
     sort_as: "5"
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© J. Paul Getty Trust"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 5–24 </span>© J. Paul Getty Trust"
 abstract: "Acquired by J. Paul Getty himself in 1968, the Getty Museum’s fragment of a fresco depicting a peacock (68.AG.13) has long been a favorite among visitors. Hitherto considered to be an ancient Roman work produced in Campania circa 70 CE, it has been reproduced as museum merchandise, textbook illustrations, and gift-shop decor. Recent technical examination and analyses combined with historical research, however, reveal that the popular peacock is not in fact ancient; nor does it seem to be a forgery. Rather, it appears to be a reproduction of a now-lost fresco from a Pompeian house that was fashioned to decorate an early twentieth-century “free Greek-style” bungalow designed by architect Robert Alexander Briggs in the English countryside."
 keywords: "Roman wall painting, Getty Peacock fresco, Pompeii, House of Siricus, Robert Alexander Briggs, MA-XRF, pigment identification, technical study"
 peer_review: "Double anonymous, external"
