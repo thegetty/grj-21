@@ -205,7 +205,7 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^50]: Choi, “Portraits of Virtue,” 55, 57n33.
 
-[^51]: Nie Chongzheng [聂崇正]{lang=zh}, “Wang Zhicheng de ‘Shi Junma Tu’ ce [王致誠的《十駿馬圖》冊,]{lang=zh}” *Zijincheng* [紫禁城]{lang=zh} 6 (1981): 38.
+[^51]: Nie Chongzheng [聂崇正]{lang=zh}, “Wang Zhicheng de ‘Shi Junma Tu’ ce [王致誠的 <span class="english-font">«</span>十駿馬圖<span class="english-font">»</span> 冊,]{lang=zh}” *Zijincheng* [紫禁城]{lang=zh} 6 (1981): 38.
 
 [^52]: On the Tranquil Longevity Palace within the larger Qianlong Garden of the Forbidden City, see Nancy Berliner, ed., *The Emperor’s Private Paradise: Treasures from the Forbidden City*, exh. cat. (Peabody Essex Museum, 2010).
 
@@ -227,7 +227,7 @@ In 2013–14, the author was a Getty Research Institute–National Endowment for
 
 [^61]: *Ruyiguan* records for 3 June 1755 (QL 20/4/24) date the order for the painting’s creation to 1 August 1754 (QL 19/6/13); Attiret’s letter quoted by Amiot dates it to 29 July (Amiot, letter, GRI, 54–55). First Historical Archives, *Qinggong zaobanchu dang’an zonghui,* vol. 21 (1755–56), 301–2.
 
-[^62]: Yang Boda [杨伯达]{lang=zh}, “‘Qianlong shejian youhua guaping’ shu kao [《乾隆射箭油画挂屏》述考]{lang=zh},” *Gugong bowuyuan yuankan* [故宫博物院院刊]{lang=zh} 1 (1991): 26–38. The workshop archives document cited in this essay, [note 61](#fn61), also records that the painting was hung at the Mountain Retreat.
+[^62]: Yang Boda [杨伯达]{lang=zh}, “‘Qianlong shejian youhua guaping’ shu kao [<span class="english-font">«</span>乾隆射箭油画挂屏<span class="english-font">»</span> 述考]{lang=zh},” *Gugong bowuyuan yuankan* [故宫博物院院刊]{lang=zh} 1 (1991): 26–38. The workshop archives document cited in this essay, [note 61](#fn61), also records that the painting was hung at the Mountain Retreat.
 
 [^63]: Amiot, letter, GRI, 44–48.
 

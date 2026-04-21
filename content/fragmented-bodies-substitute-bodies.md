@@ -241,7 +241,7 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^38]: Wang Kaihao, “Chinese Zodiac Statue Heads Home,” *China Daily*, 14 November 2019, www.chinadaily.com.cn/global/2019-11/14/content_37522787.htm.
 
-[^39]: The Paper [澎湃新闻, “160年终回故里! 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
+[^39]: The Paper [澎湃新闻, “160年终回故里<span class="english-font">!</span> 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
 
 [^40]: The zodiac heads also serve as case studies in larger discussions of national cultural heritage and repatriation. See Derek Gillman, “The Old Summer Palace and the Rhetoric of National Treasures,” *Santander Art and Culture Law Review* 5, no. 2 (2019): 233–44; and Patty Gerstenblith, *Cultural Objects and Repatriative Justice* (Oxford University Press, 2023), 85–95.
 
@@ -287,7 +287,7 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^61]: Lisabel Ting, “Jackie Chan’s Replicas of Historic Zodiac Sculptures on Show in Singapore,” *The Straits Times*, 31 January 2015, http://www.straitstimes.com/lifestyle/arts/jackie-chans-replicas-of-historic-zodiac-sculptures-on-show-in-singapore.
 
-[^62]: Translation by author, based on the original social media post. Miāu-thêng Tân, “Fankang Zhonghua wenhua qinlüe, longma poqi xingdong” ([反抗中華文化侵略, 龍馬潑漆行動]{lang=zh}), Facebook, 30 December 2015.
+[^62]: Translation by author, based on the original social media post. Miāu-thêng Tân, “Fankang Zhonghua wenhua qinlüe, longma poqi xingdong” ([反抗中華文化侵略<span class="english-font">,</span> 龍馬潑漆行動]{lang=zh}), Facebook, 30 December 2015.
 
 [^63]: Cheng-hua Wang, “The Qing Imperial Collection, Circa 1905–25: National Humiliation, Heritage Preservation, and Exhibition Culture,” in *Reinventing the Past*: *Archaism and Antiquarianism in Chinese Art and Visual Culture*, ed. Wu Hung (University of Chicago Press, 2010), 320–41; and Jeannette Shambaugh Elliot with David Shambaugh, *The Odyssey of China’s Imperial Art Treasures* (University of Washington Press, 2005), 108–9.
 

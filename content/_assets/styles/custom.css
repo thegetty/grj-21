@@ -25,11 +25,6 @@
   }
 }
 
-/* Temporary highlight to identify words and phrases tagged with a language code */
-/* span[lang] {
-  background-color: #F9F9A3
-} */
-
 :root {
   --accent-color: black; 
   /* Also add this same color to:
@@ -46,8 +41,8 @@
   /* set to 0 to remove gradient */
   --cover-heading-gradient-opacity: .3;
 
-  --skolar: skolar-pe, serif;
-  --skolar-sans: skolar-sans-pe, sans-serif;
+  --skolar: skolar-pe, "Noto Sans SC Light", serif;
+  --skolar-sans: skolar-sans-pe, "Noto Sans SC Light", sans-serif;
 
   --large-indent: 8rem;
   --standard-indent: 2rem;
@@ -67,6 +62,11 @@
   :root {
     --border-width: .5pt;
   }
+}
+
+/* Extra rule to reinforce use of Noto Chinese font */
+span[lang=zh] {
+  font-family: "Noto Sans SC Light", sans-serif !important;
 }
 
 /* UTILITY CLASSES & GLOBAL FIXES
@@ -1439,6 +1439,11 @@ summary::-webkit-details-marker {
 
 /* SPECIFIC TO GRJ 21
 ============================================================================= */
+
+.english-font {
+  font-family: skolar-sans-pe, sans-serif;
+}
+
 @media print{
   #adding-works-to-words-fig-5a, .q-figure .q-figure--image {
     max-height: 3in !important;
