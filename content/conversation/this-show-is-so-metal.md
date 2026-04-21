@@ -15,7 +15,7 @@ contributor:
   - first_name: Nancy K. 
     last_name: Turner
     bio: "**Nancy K. Turner** is conservator of manuscripts at the Getty Museum."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© J. Paul Getty Trust"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 185–222 </span>© J. Paul Getty Trust"
 abstract: "A conversation between the three curators of the exhibition *Lumen: The Art and Science of Light* held at the Getty Museum from 10 September to 8 December 2024 as part of PST ART: Art and Science Collide. Colleagues look back on the planning, technical expertise, and creative collaboration that went into the making and mounting of the exhibition, illuminating the inspirations and surprises that arose along the way."
 keywords: "TK, TK, TK, TK, TK, TK"
 peer_review: "Editorial"
@@ -100,9 +100,9 @@ When pieces are not fully self-contained and have an installation element, then 
 
 And, you know, it’s all working within the constraints of the space. An exhibition gallery that has a corridor in it—it’s a little hard to factor in. But that was a moment of kismet, putting our eyeball diagrams in the space called the *oculus* ([figs. 4](#lumen-fig-4), [5](#lumen-fig-5)). *[laughter]* We get great humor out of that. *[more laughter]*
 
-{% figure 'lumen-fig-4' 'pdf-80-percent-width' %}
+{% figure 'lumen-fig-4' 'pdf-80-percent-width pdf-float-top' %}
 
-{% figure 'lumen-fig-5' 'pdf-80-percent-width' %}
+{% figure 'lumen-fig-5' 'pdf-80-percent-width pdf-float-top' %}
 
 **KC:** My cousin’s six-year-old child pointed out on a tour that the oculus looks like an eye, had I noticed? It was wonderful.
 
@@ -208,7 +208,7 @@ There’s this kind of ladder in our show that gets you from hard science to rel
 
 **GP:** Monir Shahroudy Farmanfarmaian was an Iranian artist who had an incredible history. She was living long stretches of her life in the United States and then back in Iran. She had her first exhibition in the US in the 1950s and was friends with all the abstract expressionists, and Andy Warhol, and so many other artists. She brought artists like Robert Morris and Marcia Hafif to Iran and showed them around in the late ’60s or ’70s, when she was back living there. In parts of Iran, there is an incredible architectural tradition with mosques that are encrusted in mosaic mirrored surfaces, and they sometimes even include rear-painted glass. Monir incorporates both elements in her own work, and our exhibition features a dazzling corner-based piece [*Untitled (Muqarnas)*, 2012] that she made, I believe, when she was ninety years old, close to the end of her life ([fig. 12](#lumen-fig-12)). It’s definitely one of the great selfie opportunities in the show. It sets you in motion: the more you move around it, the more you perceive the light moving across the surfaces. As I say during tours, sometimes the motion is you. It’s your own actions that are making the light move.
 
-{% figure 'lumen-fig-12' %}
+{% figure 'lumen-fig-12' 'pdf-float-top' %}
 
 **NT:** In that section we leaned into how surfaces and materials performed in different kinds of light. Among medievalists, there’s a phrase that has been coined that talks about the “saturated sensorium,” and this is where the neuroscience connection comes in, too.[^10] It’s the idea that light or sight is considered primary. Sight is completely necessitated by light and contrast and darkness, but then it goes in and gets processed in the brain in various chambers. According to how people in the Middle Ages understood the brain, there was first the common sense, the [*sensus communis,*]{lang=la} at the front of the brain, before the other chambers: the imagination and then the memory. And the neuroscientists have this phrase called ”predictive processing”. So we’re bringing all this together for this last section on the “Aura and Performance” of these objects.
 
@@ -222,7 +222,7 @@ In this section we also have one of the great reunions within the exhibition, th
 
 **NT:** —however tempting!
 
-{% figure 'lumen-fig-13' %}
+{% figure 'lumen-fig-13' 'pdf-float-top' %}
 
 **KC:** And yet we decided that we would break that rule just once, and with Glenn’s support, too. *[laughter]* Early on [in the process of curating the exhibition] he made a great statement about rules, that they could be broken just once.
 
@@ -292,7 +292,7 @@ And then my big realization this week. In the middle of the show, in the section
 
 **KC:** A conversation with E.V. on opening night had me thinking more clearly than previously about how the language of diagrams infiltrates religious imagery. Pointing to that Annunciation [*The Annunciation,* late fifteenth century, Master of the Retable of the Reyes Católicos, [fig. 16](#lumen-fig-16)],[^17] she was like, “It’s so naturalistic. It’s the highest degree of naturalism for its time and yet you have these stylized extraterrestrial laser beam rays. Why, why?” We were then planning a program about medieval science with our colleague Megan McNamee, who works on geometry in medieval manuscripts and on diagrams. It created a nice prompt for further messaging on the tours about this point that E. V. found so fascinating—this supernatural radiance looks like medieval diagrams of light, which was thought to travel in lines and rays. And it has been really nice to point out to people that we didn’t just leave geometry in the first section; it’s here in these various religious artworks in “Aura and Performance,” which many might see as the most overtly “religious” section of the show.
 
-{% figure 'lumen-fig-16' %}
+{% figure 'lumen-fig-16' 'pdf-80-percent-width pdf-float-top' %}
 
 **GP:** The piece by E.V. Day, it’s the largest in the show ([fig. 17](#lumen-fig-17)). It recreates what the golden rays of an annunciation might have looked like if they were real. So, in this case, aircraft cable has been gilded and connected to fiber optic monofilament that from a distance becomes invisible. It’s certainly our most dramatic sightline in the show, when you have these golden rays descending over the section of the show with all these incredible religious items.
 
@@ -318,7 +318,7 @@ I would credit E.V. for the extent of our lighting design, since the work was re
 
 **GP:** Maybe this is a good opportunity to circle back to the eighth contemporary work in the show, the one I described as emotionally included. In the rotunda, Charles Ross’s work is measuring two types of planetary movement, right? The daily rotation and the yearly orbit. But there’s a third type of planetary movement that he has spent the last fifty years of his life trying to visualize. If you’ve ever spun a top and then the top starts to wobble—our planet does the same thing, and one wobble takes twenty-six thousand years to happen. Charles has made this incredible work of land art that helps to visualize this phenomenon, which our medieval predecessors called the precession of the equinoxes. I said it’s emotionally included in the show because it’s sitting on a mesa in New Mexico ([fig. 19](#lumen-fig-19)). *[laughter]* We can’t bring it here.
 
-{% figure 'lumen-fig-19' 'pdf-float-top' %}
+{% figure 'lumen-fig-19' 'pdf-80-percent-width pdf-float-top' %}
 
 But it’s a moment in the show that I love because, at the very center of the *Tapestry of the Astrolabes,* there is the North Star, Polaris represented with a little circle around it (see [fig. 3](#lumen-fig-3)). Right next to that, there’s a manuscript depicting a monk using a device called a [*horologium nocturnum*]{lang=la} to tell time at night.[^18] You point it at Polaris and then, based on where the stars are around it, you can tell the time at night. And so *Star Axis* by Ross is also a sighting tube that is aimed at Polaris. It’s an eleven-story pyramid, and at the top is an oculus that is framing Polaris directly. Each step going up has two sets of dates engraved: a date in the future and a date in the past, and so as you walk up, as you approach the oculus, it’s getting larger in your field of view. The perimeter of the oculus is framing how far Polaris will move over the course of a night on the date that is engraved on the steps. When you are at the bottom of the steps, which is close to the present, the oculus is very small, and indeed Polaris moves very little over the course of a night right now, which is why it is our North Star. But because of this twenty-six-thousand-year wobble, the North Star changes over time. In a couple thousand years we’ll have a different one, and then another one a thousand years after that, and so on. As you walk the stairs and get closer to the oculus, it gets larger in your field of vision, showing you just how much our planet wobbles over time. So you’re tracing geometry in time, and when you get to the top, you witness the farthest that the wobble ever is.
 
@@ -358,7 +358,7 @@ When you’re at the very top, which is depicting the orbit of Polaris thirteen 
 
 **GP:** Done sensitively. I think if it’s a historical show with contemporary art added, then the primary needs to be the narrative of the main show, and the contemporary pieces should not try to compete with it. And I think sometimes that’s what happens—the newer work tries to take over. We’re using the contemporary works in some cases to bring a little bit of scale and wonder. But you should want the things to play well together, and you should want them to enhance the narrative. You want the pieces to make a light bulb go off in somebody’s head, not a question mark. Shows like this are not the moment for thwarting or twisting or complicating the narrative. So I think finding the right people who can help show that historical ideas are relevant today, or that artists can use some of the same ideas is, in my opinion, how it can work. I think here of Fred Eversley’s glorious lens sculpture in the show ([fig. 20](#lumen-fig-20)). It’s such a knockout object, but we placed it so that it was reflecting, encompassing, and showcasing all of the other amazing crystal objects in the show, and by the time people reached this object they would (we hope) associate the colors and form of the work with the nested spheres of the universe that they had already encountered several times. It felt harmonious, while also allowing for a great moment of interactivity and wonder.
 
-{% figure 'lumen-fig-20' %}
+{% figure 'lumen-fig-20' 'pdf-float-top' %}
 
 **KC:** I think having a full consideration for ways that all of these works acted as lenses—lenses through which you could better understand the larger narrative that we’re trying to tell—was really important. They weren’t just representational; they were didactic, helping us to tell a story and prompt consideration of our themes.
 

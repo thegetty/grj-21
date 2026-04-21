@@ -7,7 +7,7 @@ contributor:
   - first_name: Megan 
     last_name: Metcalf
     bio: "**Megan Metcalf** serves as assistant professor in the Department of Art at New Mexico State University, Las Cruces."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): ##–## </span>© Megan Metcalf"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 171–183 </span>© Megan Metcalf"
 abstract: "In this first-person, diaristic essay, an art historian with a background in dance takes the reader through the process of pursuing the material traces of performance in the archive. Drawing from a narrow set of primary sources, the narrative recounts how a surprise find at the Getty Research Institute (GRI) in Los Angeles illuminates the period between 1970 and 1972, when interdisciplinary artist Simone Forti (b. 1935) taught at the California Institute of the Arts (CalArts) and staged multimedia performances at the Pasadena Art Museum (today the Norton Simon Museum). The essay demonstrates the ways that embodied knowledge provided by practice—and foregrounded in dance, performance, and museum studies—provides key insights into art and generates new connections between artists, mediums, and institutions. Simultaneously, the essay reveals the losses that are inherent to the pursuit of live forms from the past such as dance, and how such losses are ultimately productive, a lesson that extends to history writing in general."
 keywords: "Simone Forti, dance, archives, performance studies, Pasadena Art Museum, CalArts"
 peer_review: "Double anonymous, external"
@@ -59,9 +59,9 @@ Like Forti, the Pasadena Art Museum was also at a critical juncture: Still devel
 
 As I compare the color slide at the GRI (see [fig. 1](#becoming-simone-forti-fig-1)) with a set of scans from Forti’s gallery, it appears that the long-haired figure in the rope at the Pasadena Art Museum might not have been a child after all. Maybe it was just a person of small stature photographed from above? And the short-haired person winding her up was definitely not Forti, whose hair was longer and lighter at the time ([fig. 5](#becoming-simone-forti-fig-5)). I wonder if I’ll ever be able to find out who these performers were, or if I’ll ever get a view of the second Pasadena performance? The images I have from The Box Gallery only depict the first concert on 26 February, with its spectators and special lighting, as well as a rehearsal of the Dance Constructions. One of the rehearsal photographs of *Slant Board* found its way into *Handbook in Motion*, with a credit to Tcherepnin (see [fig. 2](#becoming-simone-forti-fig-2)).[^28] My best guess is that if he took these photographs—there are no images of “a folk dance,” in which he would have participated—then he wouldn’t have been able to take photos of the multimedia performance in the auditorium on 5 March, in which he was performing. Who knows if anyone from the now-defunct museum hired a contract photographer for the evening, and if that person or their heirs would have any idea today what the negatives depicted? (Related research in other institutional archives tells me the answer is usually no, and the remaining files at the Norton Simon are slim.)
 
-Such a window onto the second Pasadena Art Museum performance might finally provide my longed-for peek into Open Gardenia, which exemplifies a heady moment in art and Southern California history. But my singular focus may be clouding my ability to see Open Gardenia elsewhere. Looking at the images from The Box Gallery, I linger on those of the rehearsal, which had full work lights, ladders for hanging the ropes from the staircase, and a zone on the floor for cups with water or coffee ([fig. 6](#becoming-simone-forti-fig-6)). The dancers—like those I’ve been with in Forti’s classes, and like those I’ve seen training for her performances around the world—lounge on the floor and listen intently to the artist’s instructions. They also laugh and goof around with each other and with the artist ([figs. 7](#becoming-simone-forti-fig-7), [8](#becoming-simone-forti-fig-8)).
+{% figure 'becoming-simone-forti-fig-5' 'rights-restricted-size-half pdf-float-top pdf-shrink' %}
 
-{% figure 'becoming-simone-forti-fig-5' 'rights-restricted-size-half pdf-float-top' %}
+Such a window onto the second Pasadena Art Museum performance might finally provide my longed-for peek into Open Gardenia, which exemplifies a heady moment in art and Southern California history. But my singular focus may be clouding my ability to see Open Gardenia elsewhere. Looking at the images from The Box Gallery, I linger on those of the rehearsal, which had full work lights, ladders for hanging the ropes from the staircase, and a zone on the floor for cups with water or coffee ([fig. 6](#becoming-simone-forti-fig-6)). The dancers—like those I’ve been with in Forti’s classes, and like those I’ve seen training for her performances around the world—lounge on the floor and listen intently to the artist’s instructions. They also laugh and goof around with each other and with the artist ([figs. 7](#becoming-simone-forti-fig-7), [8](#becoming-simone-forti-fig-8)).
 
 {% figure 'becoming-simone-forti-fig-6' 'rights-restricted-size-half pdf-float-top pdf-add-6rem-bottom-margin' %}
 
@@ -71,9 +71,13 @@ Such a window onto the second Pasadena Art Museum performance might finally prov
 
 Forti, as both a collaborator and a director, not quite a student and not quite a teacher, contributed to and benefited from the energetic, interdisciplinary atmosphere that she, CalArts, and the Pasadena Art Museum fostered in that moment in the early 1970s. The chaotic, in-between, and only partly knowable are what myths are made of. And these are likely the qualities that made that period so productive for Forti and her peers—and will keep it from full legibility in the present and future. Of course I want to join them: It looks like they’re having so much fun.
 
+<div style="page-break-before: always;">
+
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}
+
+</div>
 
 ## Notes {.notes-heading}
 
