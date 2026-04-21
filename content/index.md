@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: ""
+image: figures/cover-image--worldwide-emotion-fig-1.jpg
 classes:
   - masthead
 outputs:

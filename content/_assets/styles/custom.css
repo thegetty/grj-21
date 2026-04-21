@@ -26,14 +26,16 @@
 }
 
 :root {
-  --accent-color: black; 
+  --accent-color: #a35714;
   /* Also add this same color to:
       - $accent-color in variables.scss; 
       - background-image icon of .accordion-section__controls--arrow::after in custom.css (below)
     */
 
-  --accent-color-midtone: darkgray;
-  --accent-color-highlight: lightgray;
+  --accent-color-black-background: #bb6317;
+
+  --accent-color-midtone: #da741b;
+  --accent-color-highlight: #f4c9a4;
 
   --page-sidebar-light: #f1f0ee;
   --page-sidebar-midtone: #e3e1dd;
@@ -110,26 +112,26 @@ body {
 /* COVER
 ============================================================================= */
 .quire-cover__overlay {
-  background-position-y: 10%;
+  background-position-x: right;
+  background-position-y: top;
+  min-height: calc(95vh - 3rem - 242px);
+  top: 240px;
 }
 .quire-cover__hero {
-  background-image: none;
+  background: black;
 }
-
 .hero-body .container.is-fluid {
   right: 0;
   left: auto;
   margin-right: 0;
   padding: .5rem var(--standard-indent);
-  background: transparent;
-  background: linear-gradient(180deg, rgba(0,0,0,var(--cover-heading-gradient-opacity)) 0%, rgba(255,255,255,0) 80%);
+  background-color: transparent;
   text-align: right;
   top: 0;
   bottom: auto;
-  width: 100%;
 }
 .hero-body .container.is-fluid .title {
-  color: var(--accent-color-highlight);
+  color: var(--accent-color-black-background);
   font-size: 3.5rem;
   font-weight: 300;
   margin: 0;
@@ -143,14 +145,20 @@ body {
   text-transform: lowercase;
   margin-top: 1rem;
   font-size: 1.25rem;
+  color: var(--accent-color-black-background);
 }
 .hero-body .container.is-fluid .publisher {
   font-family: var(--skolar-sans);
   font-style: italic;
   font-size: 1.125rem;
+  color: var(--accent-color-black-background);
 }
 /* Reduce font size to maintain same layout on tablet */
 @media screen and (max-width:660px) {
+  .quire-cover__overlay {
+    min-height: calc(95vh - 3rem - 182px);
+    top: 180px;
+  }
   .hero-body .container.is-fluid {
     padding: .5rem 1.5rem;
   }
@@ -169,9 +177,11 @@ body {
 @media screen and (max-width:470px) {
   .quire-cover__overlay {
     background-position-y: 240px;
+    background-position-x: right -180px;
+    min-height: calc(95vh - 3rem - 2px);
+    top: 0;
   }
   .hero-body .container.is-fluid {
-    background: transparent;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -180,7 +190,6 @@ body {
     max-width: 200px;
   }
   .hero-body .container.is-fluid {
-    background: white;
     height: 240px;
     width: 100%;
   }
