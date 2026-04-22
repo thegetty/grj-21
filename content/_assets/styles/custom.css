@@ -66,6 +66,12 @@
   }
 }
 
+/* Hide navigation items for author review site */
+.quire-navbar,
+.quire-contents-buttons {
+  display: none;
+}
+
 /* Extra rule to reinforce use of Noto Chinese font */
 span[lang=zh] {
   font-family: "Noto Sans SC Light", sans-serif !important;
