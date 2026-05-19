@@ -107,6 +107,9 @@ Updated the image exclusions language and moved print/pdf statement to new locat
 **_includes/components/icons.js**
 Replace default `fullscreen-icon` with a 600 weight version to match caption styles
 
+**_includes/components/license-icons.js**
+Remove SVG icons from EPUB output as they cause validation issues
+
 **_includes/components/menu/header.js**
 Add series number and year to menu header, as well as download links
 
@@ -163,22 +166,6 @@ Added `longdesc` support
 **_includes/components/head-tags/opengraph.js**
 **_includes/components/head-tags/twitter-card.js**
 Update and clean-up handling for social sharing
-
-**_includes/components/license-icons.js**
-Removed SVG icons from EPUB output as they were causing validation issues
-
-**_layouts/pdf.liquid**
-Update to fix accessibility issues and add cc icons
-
-**_plugins/markdown/index.js**
-**_plugins/transforms/outputs/pdf/write.js**
-Changed `allowedAttributes` on elements to allow any attribute
-
-**_plugins/shortcodes/contributors.js**
-Refactored logic to handle oxford commas correctly
-
-**_plugins/transforms/outputs/pdf/transform.js**
-Fixed transform that was converting external links to slugified anchor links
 
 ## License 
 
