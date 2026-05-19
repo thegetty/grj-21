@@ -26,15 +26,13 @@
 }
 
 :root {
-  --accent-color: #a35714;
+  --accent-color: #bb6317;
   /* Also add this same color to:
       - $accent-color in variables.scss; 
       - background-image icon of .accordion-section__controls--arrow::after in custom.css (below)
     */
 
-  --accent-color-black-background: #bb6317;
-
-  --accent-color-midtone: #da741b;
+  --accent-color-dark: #a35714;
   --accent-color-highlight: #f4c9a4;
 
   --page-sidebar-light: #f1f0ee;
@@ -131,7 +129,7 @@ body {
   bottom: auto;
 }
 .hero-body .container.is-fluid .title {
-  color: var(--accent-color-black-background);
+  color: var(--accent-color);
   font-size: 3.5rem;
   font-weight: 300;
   margin: 0;
@@ -145,13 +143,13 @@ body {
   text-transform: lowercase;
   margin-top: 1rem;
   font-size: 1.25rem;
-  color: var(--accent-color-black-background);
+  color: var(--accent-color);
 }
 .hero-body .container.is-fluid .publisher {
   font-family: var(--skolar-sans);
   font-style: italic;
   font-size: 1.125rem;
-  color: var(--accent-color-black-background);
+  color: var(--accent-color);
 }
 /* Reduce font size to maintain same layout on tablet */
 @media screen and (max-width:660px) {
@@ -397,7 +395,7 @@ body {
 #section-abstract-accordion .accordion-section__controls--arrow::after,
 #section-peer-review-accordion .accordion-section__controls--arrow::after,
 #section-cite-accordion .accordion-section__controls--arrow::after {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23a35714'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   margin-top: -4px;
 }
 @media print {
@@ -1123,8 +1121,8 @@ summary::-webkit-details-marker {
   margin: 0;
 }
 .quire-menu__formats h6 {
-  color: var(--accent-color-midtone);
-  border-color: var(--accent-color-midtone);
+  color: var(--accent-color);
+  border-color: var(--accent-color);
 }
 .quire-menu .page-item a.active, 
 .quire-menu .section-item a.active,
@@ -1190,6 +1188,8 @@ summary::-webkit-details-marker {
 .quire-menu__formats--masthead-links p {
   margin-bottom: .5rem;
 }
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active,
 .quire-menu .page-item .page-item a.active, 
 .quire-menu .section-item .page-item a.active {
   margin-left: 0;
@@ -1456,6 +1456,38 @@ summary::-webkit-details-marker {
 .english-font {
   font-family: skolar-sans-pe, sans-serif;
 }
+
+/* Color and weight adjustments for legibility */
+.quire-menu .page-item a.active, .quire-menu .section-item a.active, .quire-menu .page-item a.active *, .quire-menu .section-item a.active * {
+  color: var(--accent-color-highlight) !important;
+}
+.quire-menu__header {
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+}
+.quire-menu__header__formats li a, 
+.quire-menu__header__formats a.quire-menu__header__doi-link {
+  font-weight: 700;
+}
+.quire-menu__formats h6 {
+  color: white;
+  border-color: white;
+}
+#section-abstract-accordion summary p, 
+#section-peer-review-accordion summary p, 
+#section-cite-accordion summary p, 
+.page-tools__heading,
+.quire-page__header .quire-download .quire-download__link {
+  color: var(--accent-color-dark) !important;
+}
+.quire-page__header .quire-download .quire-download__link svg {
+  fill: var(--accent-color-dark);
+}
+.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  color: var(--accent-color-dark) !important;
+  border-bottom-color: var(--accent-color-dark) !important;
+}
+
 
 @media print{
   #adding-works-to-words-fig-5a, .q-figure .q-figure--image {
