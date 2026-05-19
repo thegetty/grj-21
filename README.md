@@ -104,6 +104,12 @@ Update for Getty's google tag manager implementation of GA4
 **_includes/components/copyright/licensing.js**
 Updated the image exclusions language and moved print/pdf statement to new location
 
+**_includes/components/head.js**
+**_includes/components/head-tags/dublin-core.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/icons.js**
 Replace default `fullscreen-icon` with a 600 weight version to match caption styles
 
@@ -152,20 +158,6 @@ Changed pagination so next/prev pages can be overridden on individual pages; and
 **content/_assets/fonts/index.scss**
 **content/_assets/styles/variables.scss**
 Add @import call for Typekit fonts; and update variables for GRJ
-
-#### From Previous Issues, Not Yet Implemented for GRJ 21
-
-**_includes/components/figure/image/element.js**
-**_includes/components/figure/image/html.js**
-**_includes/components/figure/image/image-tag.js**
-**_includes/components/figure/caption.js**
-Added `longdesc` support
-
-**_includes/components/head.js**
-**_includes/components/head-tags/dublin-core.js**
-**_includes/components/head-tags/opengraph.js**
-**_includes/components/head-tags/twitter-card.js**
-Update and clean-up handling for social sharing
 
 ## License 
 
