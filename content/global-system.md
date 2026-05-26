@@ -17,7 +17,7 @@ page_pdf_output: true
 
 ## Introduction
 
-In 1887, Monsignor Mariano Casanova, archbishop of Santiago, Chile, gave impetus to the project of constructing a sepulchral monument destined for the Catedral de Santiago (Santiago Cathedral) to honor the memory of his late predecessor in the government of the archdiocese, Monsignor Rafael Valentín Valdivieso (1804–78). Funding difficulties and the complexity of the decisions to be made delayed the development of the work, which was completed in 1898 ([fig. 1](#the-global-system-of-the-arts-fig-1)).[^1] The abundance of documentation in the Archivo Histórico del Arzobispado de Santiago (Historical Archive of the Archdiocese of Santiago) related to the commission of the monument illuminates key mechanisms of the global system of the arts in the last decades of the nineteenth century. This essay considers the nature of the artistic choices that were made, paying special attention to the selection of materials, authors, and stylistic solutions. At the same time, the essay unveils the logic of the iconographic program of the monument, reflecting on the historical implications of its ultimate configuration.
+In 1887, Monsignor Mariano Casanova, archbishop of Santiago, Chile, gave impetus to the project of constructing a sepulchral monument destined for the Catedral de Santiago (Santiago Cathedral) to honor the memory of his late predecessor in the government of the archdiocese, Monsignor Rafael Valentín Valdivieso (1804–78). Funding difficulties and the complexity of the decisions to be made delayed the development of the work, which was completed in 1898 ([fig. 1](#the-global-system-of-the-arts-fig-1)).[^1] The abundance of documentation in the Archivo Histórico del Arzobispado de Santiago (Historical Archive of the Archbishopric of Santiago) related to the commission of the monument illuminates key mechanisms of the global system of the arts in the last decades of the nineteenth century. This essay considers the nature of the artistic choices that were made, paying special attention to the selection of materials, authors, and stylistic solutions. At the same time, the essay unveils the logic of the iconographic program of the monument, reflecting on the historical implications of its ultimate configuration.
 
 {% figure 'the-global-system-of-the-arts-fig-1' 'pdf-float-top' %}
 
@@ -39,7 +39,7 @@ The first plans for the new tomb as well as a document with technical instructio
 
 {% figure 'the-global-system-of-the-arts-fig-2' 'rights-restricted-size-half screen-grow pdf-float-top pdf-grow' %}
 
-For the sculptures of Religion and Wisdom, the instructions state: “In the center, the archbishop in a praying attitude is accompanied by his virtues: on the left, religion, and on the right, human knowledge.”[^18] The aim was to represent the virtues that those who commissioned the monument wanted to emphasise as belonging to the deceased. Casanova, in his first pastoral letter, published in 1887, highlights the legacy of Archbishop Valdivieso. He refers to “his firm and wise hand,” as well as his authority, exercised from “the ascendancy of character and the superiority of knowledge.”[^19] But, as well as highlighting the attributes of the late archbishop, the completed sculptures seem to embody one of Monsignor Casanova’s policies. In the same document he outlines a program to articulate human knowledge and religion, one of the premises of which is that “science is light and all light leads us to God.”[^20] To this he adds the desire that all human progress “should be matured by the sun of faith.”[^21] The dialogue between science and religion was a central concern of the government of Casanova, the main manifestation of which was the foundation, in 1888, of the Universidad Católica de Chile (Catholic University). This harmony between human and divine knowledge was expressed in the iconographic program of the chapel of the archbishop’s palace, whose works were under the direct supervision of Casanova. The paintings, created during the last decade of the nineteenth century, depict, among other themes, the figures of Science, Literature, Art, Religion, and Faith.[^22]
+For the sculptures of Religion and Wisdom, the instructions state: “In the center, the archbishop in a praying attitude is accompanied by his virtues: on the left, religion, and on the right, human knowledge.”[^18] The aim was to represent the virtues that those who commissioned the monument wanted to emphasize as belonging to the deceased. Casanova, in his first pastoral letter, published in 1887, highlights the legacy of Archbishop Valdivieso. He refers to “his firm and wise hand,” as well as his authority, exercised from “the ascendancy of character and the superiority of knowledge.”[^19] But, as well as highlighting the attributes of the late archbishop, the completed sculptures seem to embody one of Monsignor Casanova’s policies. In the same document he outlines a program to articulate human knowledge and religion, one of the premises of which is that “science is light and all light leads us to God.”[^20] To this he adds the desire that all human progress “should be matured by the sun of faith.”[^21] The dialogue between science and religion was a central concern of the government of Casanova, the main manifestation of which was the foundation, in 1888, of the Universidad Católica de Chile (Catholic University). This harmony between human and divine knowledge was expressed in the iconographic program of the chapel of the archbishop’s palace, whose works were under the direct supervision of Casanova. The paintings, created during the last decade of the nineteenth century, depict, among other themes, the figures of Science, Literature, Art, Religion, and Faith.[^22]
 
 ## Input from a Chilean Painter and Diplomat via Paris
 
@@ -99,7 +99,7 @@ The sketch for the stained glass of the tomb monument of Valdivieso is preserved
 
 {% figure 'the-global-system-of-the-arts-fig-10' 'rights-restricted-size-half pdf-float-top screen-grow pdf-grow-more' %}
 
-The stained-glass window made in Munich contains a central depiction of Christ in Majesty surrounded by angels ([fig. 11](#the-global-system-of-the-arts-fig-11)). He is giving a blessing with his right hand; in the other, he is holding a book in which alpha and omega, the first and last letters of the Greek alphabet, are inscribed. Above his head is the figure of the Holy Spirit in the form of a dove. At the foot of the theophany are Saint Peter’s Basilica and Bernini’s Colonnade in stained glass. This monumental, translucent image is meant to be read in relation to the recumbent figure of the archbishop below it (see [fig. 8](#the-global-system-of-the-arts-fig-8)). The ecclesiological message is clear: The vertical axis links Valdivieso to the pope, and the pope to Christ. The image alludes to Valdivieso's time as archbishop, during which historical circumstances and his own convictions led him to emphasise the link with Rome.[^71] At the same time, this iconography is in harmony with the views of Casanova expressed in the pastoral letter that he published on the day of his consecration.[^72]
+The stained-glass window made in Munich contains a central depiction of Christ in Majesty surrounded by angels ([fig. 11](#the-global-system-of-the-arts-fig-11)). He is giving a blessing with his right hand; in the other, he is holding a book in which alpha and omega, the first and last letters of the Greek alphabet, are inscribed. Above his head is the figure of the Holy Spirit in the form of a dove. At the foot of the theophany are Saint Peter’s Basilica and Bernini’s Colonnade in stained glass. This monumental, translucent image is meant to be read in relation to the recumbent figure of the archbishop below it (see [fig. 8](#the-global-system-of-the-arts-fig-8)). The ecclesiological message is clear: The vertical axis links Valdivieso to the pope, and the pope to Christ. The image alludes to Valdivieso's time as archbishop, during which historical circumstances and his own convictions led him to emphasize the link with Rome.[^71] At the same time, this iconography is in harmony with the views of Casanova expressed in the pastoral letter that he published on the day of his consecration.[^72]
 
 
 {% figure 'the-global-system-of-the-arts-fig-11' 'rights-restricted-size-half pdf-50-percent-width screen-grow' %}
@@ -144,15 +144,15 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^8]: Enrique Laval, [“El cólera en Chile (1886–1888),” *Revista chilena de infectología*]{lang=es} 20 (2003): 86–88.
 
-[^9]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 5.
+[^9]: Casanova, [*Circular sobre la necesidad de erijir* [.&nbsp;.&nbsp;.] *un monumento sepulcral,*]{lang=es} 5.
 
 [^10]: Casanova had seen the tombs during a trip to Europe when he was a priest in his early thirties. Julio Retamal Avila, [*Monseñor Mariano Casanova Casanova 1886–1908, tercer arzobispo de Santiago*]{lang=es} (Editorial Salesiana, 1981), 12.
 
-[^11]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 6.
+[^11]: Casanova, [*Circular sobre la necesidad de erijir* [.&nbsp;.&nbsp;.] *un monumento sepulcral,*]{lang=es} 6.
 
-[^12]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 4.
+[^12]: Casanova, [*Circular sobre la necesidad de erijir* [.&nbsp;.&nbsp;.] *un monumento sepulcral,*]{lang=es} 4.
 
-[^13]: Casanova, [*Circular sobre la necesidad de erijir [.&nbsp;.&nbsp;.] un monumento sepulcral,*]{lang=es} 7.
+[^13]: Casanova, [*Circular sobre la necesidad de erijir* [.&nbsp;.&nbsp;.] *un monumento sepulcral,*]{lang=es} 7.
 
 [^14]: Ignacio Ducasse, [*Servidores del Evangelio: Los obispos de Chile 1561–2007*]{lang=es} (Conferencia Episcopal de Chile, 2008), 90–91.
 
@@ -160,15 +160,15 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^16]: Santiago, Chile, [Archivo Histórico Arzobispado de Santiago (AHAS), Monseñor Valdivieso, Monumento sepulcral, 1887–1899, legajo 59, expediente 28.]{lang=es} Hereafter [Monumento sepulcral.]{lang=es} All AHAS documents cited below are part of this archival file; most of the documents are numbered.
 
-[^17]: [“Instructions pour la demande d’adjudication du monument, Santiago du Chili, Août 1893,”]{lang=fr} 7–12, AHAS, [Monumento sepulcral.]{lang=es} See also Carlos Silva Vildósola, [*Retratos y recuerdos*]{lang=es}(Editorial Zig-Zag, 1936), 108.
+[^17]: [“Instructions pour la demande d’adjudication du monument, Santiago du Chili, Août 1893,”]{lang=fr} 7–12, AHAS, [Monumento sepulcral.]{lang=es} See also Carlos Silva Vildósola, [*Retratos y recuerdos*]{lang=es} (Editorial Zig-Zag, 1936), 108.
 
 [^18]: [“Instructions pour la demande,”]{lang=fr} 11.
 
 [^19]: Mariano Casanova, [*Pastoral del Illmo. Y Rvmo. Señor arzobispo don Mariano Casanova en el día de su consagración episcopal*]{lang=es} (Santiago, 1887) 4, 5.
 
-[^20]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 10.
+[^20]: Casanova, [*Pastoral* [.&nbsp;.&nbsp;.] *en el día de su consagración episcopal,*]{lang=es} 10.
 
-[^21]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 11.
+[^21]: Casanova, [*Pastoral* [.&nbsp;.&nbsp;.] *en el día de su consagración episcopal,*]{lang=es} 11.
 
 [^22]: Macarena Ibarra, [“Palacio arzobispal: El edificio, el conjunto y la ciudad,”]{lang=es} in [*Ofrenda y gracia: Proyecto de conservación y restauración capilla sede arzobispal*,]{lang=es} ed. Cecilia Beas and Elena Losón (Arzobispado de Santiago, 2013), 43; and Daniela Lara, [“Análisis iconográfico de las imágenes,”]{lang=es} in Beas and Losón, [*Ofrenda y gracia*,]{lang=es} 73–84.
 
@@ -234,7 +234,7 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^53]: [“Contrato de construcción,”]{lang=es} 70v.
 
-[^54]: Cristina Casero, [“Viggiù terra di scultori: Enrico Butti e altre personalità di rilievo nella seconda metà dell'Ottocento,” in *Storia dell'arte a Varese e nel suo territorio*,]{lang=it} ed. Maria Luisa Gatti Perer, vol. 2 (Insubria University Press, 2011), 375–93, 387. The later marble version, dated 1910, is in the tomb of Juan Nicola in the Cementerio Central (Central Cemetery) of Montevideo. A bronze copy is kept in the Galleria d’Arte Moderna di Milano. The original plaster model is kept in the Musei Civici Viggiutesi in Viggiù, Italy.
+[^54]: Cristina Casero, [“Viggiù terra di scultori: Enrico Butti e altre personalità di rilievo nella seconda metà dell'Ottocento,” in *Storia dell'arte a Varese e nel suo territorio*,]{lang=it} ed. Maria Luisa Gatti Perer, vol. 2 (Insubria University Press, 2011), 387. The later marble version, dated 1910, is in the tomb of Juan Nicola in the Cementerio Central (Central Cemetery) of Montevideo. A bronze copy is kept in the Galleria d’Arte Moderna di Milano. The original plaster model is kept in the Musei Civici Viggiutesi in Viggiù, Italy.
 
 [^55]: Ceppi de Lecco Lazo, [*Cuatro constructores suizos en Chile*,]{lang=es} 68.
 
@@ -262,7 +262,7 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^67]: Allen, *Stained Glassworlds,* 75.
 
-[^68]: Andrea Nilo and Elizabeth Stephens, [“Puesta en valor del Monumento Sepulcral Monseñor Rafael Valentín Valdivieso,”]{lang=es} in [*XX Encuentro Iberoamericano de Valorización y Gestión de Cementerios Patrimoniales*,]{lang=es} ed. Francisco José Rodríguez Marín (Universidad de Málaga, 2019), 19. Much of the historical documentation of the Mayer’sche Hofkunstanstalt in Munich was destroyed during the Second World War. This particular sketch is preserved in Skizzenbuch II within the institution’s archival collection, [give collection/location number?].
+[^68]: Andrea Nilo and Elizabeth Stephens, [“Puesta en valor del Monumento Sepulcral Monseñor Rafael Valentín Valdivieso,”]{lang=es} in [*XX Encuentro Iberoamericano de Valorización y Gestión de Cementerios Patrimoniales*,]{lang=es} ed. Francisco José Rodríguez Marín (Universidad de Málaga, 2019), 19. Much of the historical documentation of the Mayer’sche Hofkunstanstalt in Munich was destroyed during the Second World War. This particular sketch is preserved in Skizzenbuch II within the institution’s archival collection.
 
 [^69]: Shirley Ann Brown, “The Influence of German Religious Stained Glass in Canada 1880–1941,” *RACAR* 21, nos. 1–2 (1994): 23.
 
@@ -270,7 +270,7 @@ This work is a result of the Agencia Nacional del Investigación y Desarollo (AN
 
 [^71]: Sol Serrano, [*¿Qué hacer con Dios en la República? Política y secularización en Chile (1845–1885)*]{lang=es} (Fondo de Cultura Económica, 2008), 192–99.
 
-[^72]: Casanova, [*Pastoral [.&nbsp;.&nbsp;.] en el día de su consagración episcopal,*]{lang=es} 9.
+[^72]: Casanova, [*Pastoral* [.&nbsp;.&nbsp;.] *en el día de su consagración episcopal,*]{lang=es} 9.
 
 [^73]: [“Traslación de los restos del señor arzobispo Valdivieso,” *Boletín Eclesiástico*,]{lang=es} no. 13 (1895–97): 771.
 
