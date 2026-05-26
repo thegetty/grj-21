@@ -63,7 +63,7 @@ Number {{ publication.series_issue_number }} • {{ publication.pub_date | date:
 
 ## Information for Scholars
 
-The manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. “‘This Show Is So Metal’: The Curators of *Lumen: The Art and Science of Light* in Conversation” received editorial review.
+The manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. “The Getty Peacock Fresco: Unraveling Its History Through Technical and Historical Investigations” by Kenneth Lapatin, Marie Svoboda, Sierra Schiano, Monica Ganio, and Karen Trentelman and “Becoming Simone Forti: California, 1970–72” by Megan Metcalf received single-anonymous review. “‘This Show Is So Metal’: The Curators of *Lumen: The Art and Science of Light* in Conversation” received editorial review.
 
 To submit a manuscript, please visit
 [grj.scholasticahq.com](https://grj.scholasticahq.com).
