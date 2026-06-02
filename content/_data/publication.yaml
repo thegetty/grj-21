@@ -104,12 +104,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (10 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-21.pdf
   - type: other-format
-    name: EPUB (## MB)
+    name: EPUB (74 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-21.epub
@@ -117,7 +117,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu
+    url: https://shop.getty.edu/products/getty-research-journal-no-21-979-8887120539
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
