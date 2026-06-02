@@ -166,7 +166,7 @@ So you have something like that just steps from the Celmins, and then steps away
 
 **NT:** The exhibition checklist was constantly iterative. We started with a very positive response from Lucy Blaxland and other colleagues at the Oxford History of Science Museum, and likewise a motivating and generous response from Poul Grinder-Hansen at the National Museum of Denmark for the Ølst Golden Altar (1200–1225). Lisa Woop and her colleagues at the Optical Museum in Jena, Germany, kindly lent us an anatomical model of an eye ([fig. 9](#lumen-fig-9)). So there were just certain things that fell into place fairly early on and then other things that took longer for us to get to.
 
-**KC:** We were traveling for the show, as Nancy said, and writing long-loan request letters from a speeding train. I remember receiving our second *yes,* for the eyeball [Eye model, France, before 1700] when we were in Florence, after we’d already received a *yes* on the Golden Altar. And Nancy said, “Well, we’ve got a golden altar and an eyeball. We have a show” ([fig. 10](#lumen-fig-9)). *[group laughter]*
+**KC:** We were traveling for the show, as Nancy said, and writing long-loan request letters from a speeding train. I remember receiving our second *yes,* for the eyeball [Eye model, France, before 1700] when we were in Florence, after we’d already received a *yes* on the Golden Altar. And Nancy said, “Well, we’ve got a golden altar and an eyeball. We have a show” ([fig. 10](#lumen-fig-10)). *[group laughter]*
 
 {% figure 'lumen-fig-9' %}
 

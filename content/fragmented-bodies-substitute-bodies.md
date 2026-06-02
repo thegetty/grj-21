@@ -241,7 +241,7 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^38]: Wang Kaihao, “Chinese Zodiac Statue Heads Home,” *China Daily*, 14 November 2019, www.chinadaily.com.cn/global/2019-11/14/content_37522787.htm.
 
-[^39]: The Paper [澎湃新闻, “160年终回故里<span class="english-font">!</span> 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
+[^39]: The Paper [澎湃新闻, “<span class="english-font">160</span>年终回故里<span class="english-font">!</span> 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
 
 [^40]: The zodiac heads also serve as case studies in larger discussions of national cultural heritage and repatriation. See Derek Gillman, “The Old Summer Palace and the Rhetoric of National Treasures,” *Santander Art and Culture Law Review* 5, no. 2 (2019): 233–44; and Patty Gerstenblith, *Cultural Objects and Repatriative Justice* (Oxford University Press, 2023), 85–95.
 
