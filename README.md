@@ -74,16 +74,16 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 
     ```
     <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
-    <meta name="schema:accessMode" content="textual" />
-    <meta name="schema:accessMode" content="visual" />
-    <meta name="schema:accessModeSufficient" content="textual" />
-    <meta name="schema:accessModeSufficient" content="visual" />
-    <meta name="schema:accessibilityFeature" content="alternativeText" />
-    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
-    <meta name="schema:accessibilityFeature" content="tableOfContents" />
-    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
-    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
-    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
     ```
 
 5. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
@@ -154,6 +154,9 @@ Added caption and class parameters that can be fed in from shortcode; and simpli
 
 **content/_computed/eleventyComputed.js**
 Changed pagination so next/prev pages can be overridden on individual pages; and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
+
+**content/_assets/styles/epub.scss**
+Added completely new CSS for the EPUB output
 
 **content/_assets/fonts/index.scss**
 **content/_assets/styles/variables.scss**
