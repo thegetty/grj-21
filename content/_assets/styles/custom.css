@@ -26,14 +26,14 @@
 }
 
 :root {
-  --accent-color: #bb6317;
+  --accent-color: #d46300;
   /* Also add this same color to:
       - $accent-color in variables.scss; 
       - background-image icon of .accordion-section__controls--arrow::after in custom.css (below)
     */
 
-  --accent-color-dark: #a35714;
-  --accent-color-highlight: #f4c9a4;
+  --accent-color-dark: #bd5800;
+  --accent-color-highlight: #ffc900;
 
   --page-sidebar-light: #f1f0ee;
   --page-sidebar-midtone: #e3e1dd;
@@ -1098,6 +1098,17 @@ summary::-webkit-details-marker {
   display: inline;
   background-color: transparent;
 }
+.quire__secondary {
+  background-color: var(--accent-color-dark);
+}
+.quire__secondary a, 
+.quire__secondary button, 
+.quire__secondary .button,
+.quire-menu__header a:hover, 
+.quire-menu__list a:hover, 
+.quire-menu__formats a:hover {
+  background-color: transparent;
+}
 .quire__secondary .quire-menu a:hover {
   color: var(--accent-color-highlight) !important;
 }
@@ -1130,6 +1141,10 @@ summary::-webkit-details-marker {
 .quire-menu .section-item a.active * {
   color: #fff !important;
   font-weight: 600;
+}
+.quire-menu .page-item a.active:hover, 
+.quire-menu .section-item a.active:hover {
+  border-left-width: 0;
 }
 .quire-menu__header a:hover, 
 .quire-menu__list a:hover,
@@ -1210,6 +1225,19 @@ summary::-webkit-details-marker {
     display: none !important;
   }
 }
+/* Match menu color */
+.quire-navbar-controls__left a:hover, 
+.quire-navbar-controls__left button:hover, 
+.quire-navbar-controls__left .button:hover, 
+.quire-navbar-controls__right a:hover, 
+.quire-navbar-controls__right button:hover, 
+.quire-navbar-controls__right .button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+  background-color: var(--accent-color-dark);
+}
+
 
 /* MASTHEAD, COPYRIGHT, and ABOUT PAGES
 ============================================================================= */
