@@ -1538,3 +1538,20 @@ summary::-webkit-details-marker {
     margin-bottom: 6rem !important;
   }
 }
+
+/* Adjust copyright page to two columns to keep from going to second page */
+@media print {
+  .quire-page.copyright {
+    column-count: 2;
+    width: 6.375in;
+    column-gap: .375in;
+    column-fill: auto;
+  }
+  .quire-page.copyright .identifitiers {
+    column-break-before: always;
+    padding-top: 15px;
+  }
+  .quire-page.copyright .identifitiers p {
+    margin-bottom: 1rem;
+  }
+}
