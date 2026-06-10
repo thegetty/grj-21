@@ -94,6 +94,9 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 
 #### Implemented for GRJ 21
 
+**.eleventy.js**
+Remove duplicate id check in IdAttributePlugin
+
 **_plugins/markdown/index.js**
 Added subscript and superscript plugins 
 

@@ -81,9 +81,19 @@ Although Attiret was not originally part of the entourage that left Beijing, whi
 
 {% figure 'adding-works-to-words-fig-9' 'rights-restricted-size-half pdf-float-top' %}
 
+<div data-outputs-include="pdf" class="pdf-float-top">
+
+{% figure 'adding-works-to-words-fig-10' 'rights-restricted-size-half' %}
+
+</div>
+
 Qianlong’s satisfaction with this portrait led to an order to depict him practicing archery at the Retreat, which Attiret painted in oil on Korean paper ([fig. 10](#adding-works-to-words-fig-10)).[^61] The emperor stands flanked by servants and officials while preparing to release an arrow toward a suspended target. Large rockeries, a stream, and a pavilion wall measure the significant distance between the emperor and the target, while colorful foliage in a mountainous setting identify the space as the Mountain Retreat. On the back of the painting, an imperial yellow slip reading “As-You-Like-It Island, Double-Pine Study” (*Ruyizhou Shuangsong shuju* [如意洲雙松書屋]{lang=zh}) identifies where in the Mountain Retreat it originally hung.[^62] Attiret reported that Qianlong assessed his work as “very good,” pairing a transliteration of the emperor’s “hen hao” ([很好]{lang=zh}) with its French translation [“très bien”]{lang=fr} in a rare use of the Chinese language, with which Attiret struggled. Depicting the emperor in action meant representing both his imperial visage and skill in an activity essential to his Manchu cultural and ethnic heritage. Attiret retained the blue sky, atmospheric perspective, figural modeling with highlights, and oil paints of his French training. Yet the uptilted ground plane, landscape texture strokes, and complete lack of cast shadows reflect his successful absorption of Qianlong’s preference for blended European and Chinese techniques.
 
-{% figure 'adding-works-to-words-fig-10' 'rights-restricted-size-half pdf-float-top' %}
+<div data-outputs-include="html,epub">
+
+{% figure 'adding-works-to-words-fig-10' 'rights-restricted-size-half' %}
+
+</div>
 
 Amiot only briefly mentions the events and characters that led to Qianlong’s 1755–59 military campaigns in Xinjiang but describes in detail the triumphal procession into Beijing in 1760 that he observed.[^63] That same year, Jesuits Attiret, Castiglione, and Sichelbarth, together with the Augustinian Qing court painter Giovanni Damasceno Salusti (1727–81, Ch. An Deyi [安德意]{lang=zh}), produced monumental paintings of the battles and the victory celebrations; these were installed in the Pavilion of Purple Splendor (*Ziguangge* [紫光閣]{lang=zh}), west of the Forbidden City.[^64] Only fragments of the paintings survive today, but the images are better known through [*Les* *conquêtes de l’empereur de la Chine*]{lang=fr} (The conquests of the emperor of China), a series engraved and printed in France in 1774 based on designs by European artists. Attiret contributed three designs: [*Le combat d’Arcul*]{lang=fr} (The battle of Arcul)*,* [*La victoire de Khorgos*]{lang=fr} (The victory of Khorgos) ([fig. 11](#adding-works-to-words-fig-11)), and [*On offre les prisoners de la pacification des tribus musulmanes*]{lang=fr} (Presenting the prisoners of the pacification of the Muslim tribes).[^65] Researcher Niklas Leverenz argues that a group of draft sketches held in the Tenri Central Library of Tenri University in Japan are the preparatory images for these lost paintings, one depicting the Qing victory at Khorgos with an imperial yellow paper label identifying it as Castiglione’s work, and another depicting the battle at Arcul that has lost its yellow labels.[^66] Attiret is named as the designer for both of these images in the engraved series, an incongruity that leads Leverenz to suggest that Castiglione may have designed the original painting while Attiret prepared the drawing sent for engraving. Amiot does not mention Attiret’s designs for the prints in his necrology; the sketches were only sent abroad the year before his death and returned a decade later, so Amiot could not have predicted the profound impact they would have on both Paris and Beijing in the later eighteenth century.
 

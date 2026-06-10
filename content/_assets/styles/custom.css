@@ -616,6 +616,9 @@ strong {
     -prince-float: top;
     margin-top: 0 !important;
   }
+  div.pdf-float-top .q-figure {
+    margin-top: 0 !important;
+  }
   .pdf-float-bottom {
     float: none;
     -prince-float: bottom;
