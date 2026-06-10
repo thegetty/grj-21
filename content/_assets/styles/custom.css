@@ -480,7 +480,7 @@ strong {
   }
 }
 .quire-page__content .container .content hr::after {
-  color: var(--accent-color);
+  color: black;
 }
 
 /* BLOCKQUOTES
