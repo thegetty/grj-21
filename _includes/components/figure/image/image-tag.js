@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add longdesc support
+//
 import escape from 'html-escape'
 import { html } from '#lib/common-tags/index.js'
 import path from 'node:path'
@@ -15,7 +19,7 @@ export default function (eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
   const { pathname } = eleventyConfig.globalData.publication
 
-  return function ({ alt = '', src = '', isStatic = false, lazyLoading = 'lazy', lightbox = false }) {
+  return function ({ alt = '', id='', longdesc='', src = '', isStatic = false, lazyLoading = 'lazy', lightbox = false }) {
     // Lightbox loads in-browser so urls must have pathname, rest are prepended by 11ty
     const extOrIiifRegex = /^(https?:\/\/|\/iiif\/|\\iiif\\)/
     const assetRoot = lightbox && pathname !== '/' ? path.posix.join(pathname, imageDir) : imageDir
@@ -26,6 +30,8 @@ export default function (eleventyConfig) {
       imageSrc = imageSrc.replaceAll(path.sep, '/')
     }
 
+    const longDescLink = longdesc ? `longdesc="#${id}-longdesc"` : ''
+
     return html`
       <img
         alt="${escape(alt)}"
@@ -33,6 +39,7 @@ export default function (eleventyConfig) {
         decoding="async"
         loading="${lazyLoading}"
         src="${imageSrc}"
+        ${longDescLink}
       />
     `
   }
