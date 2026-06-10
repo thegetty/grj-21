@@ -181,7 +181,7 @@ Many thanks to the generous peer reviewers as well as Faye Raquel Gleisser, Elea
 
 [^32]: Moutoussamy-Ashe, “A History of Black Alumni at Cooper Union.”
 
-[^33]: See Candice Jansen, “Black Coloured Memory,” in *Jeanne Moutoussamy-Ashe: South Africa, 1977/1978*, ed. Michal Raz-Russo (Steidl: Gordon Parks Foundation, 2025).
+[^33]: See Candice Jansen, “Black Colored Memory,” in *Jeanne Moutoussamy-Ashe: South Africa, 1977/1978*, ed. Michal Raz-Russo (Steidl; Gordon Parks Foundation, 2025), 200–211.
 
 [^34]: Trouillot, *Silencing the Past,* 20.
 

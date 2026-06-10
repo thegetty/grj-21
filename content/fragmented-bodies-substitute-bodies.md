@@ -169,7 +169,7 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^2]: Young-tsu Wong, *A Paradise Lost: The Imperial Garden Yuanming Yuan* (University of Hawai’i Press, 2001), 4–5.
 
-[^3]: Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Garden Near Pekin* [. . .], trans. Sir Harry Beaumont [Joseph Spence] (London, 1752). For the history of the letter’s publication and translations, see George R. Loehr, [“L’artiste Jean-Denis Attiret et l’influence exercée par sa description des jardins impériaux,”]{lang=fr} in [*La mission française de Pékin aux XVIIe et XVIIIe siècles*]{lang=fr} (Centre de recherches interdisciplinaire de Chantilly, 1976), 69–83.
+[^3]: Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Garden Near Pekin* [. . .]*, *trans. Sir Harry Beaumont [Joseph Spence] (London, 1752). For the history of the letter’s publication and translations, see George R. Loehr, [“L’artiste Jean-Denis Attiret et l’influence exercée par sa description des jardins impériaux,”]{lang=fr} in [*La mission française de Pékin aux XVIIe et XVIIIe siècles*]{lang=fr} (Centre de recherches interdisciplinaire de Chantilly, 1976), 69–83.
 
 [^4]: Greg M. Thomas, “Yuanming Yuan/Versailles: Intercultural Interactions Between Chinese and European Palace Cultures,” *Art History* 32, no. 1 (February 2009): 115–43.
 
@@ -241,7 +241,7 @@ The Pinyin system for romanizing Chinese characters is used here, except for per
 
 [^38]: Wang Kaihao, “Chinese Zodiac Statue Heads Home,” *China Daily*, 14 November 2019, www.chinadaily.com.cn/global/2019-11/14/content_37522787.htm.
 
-[^39]: The Paper [澎湃新闻, “<span class="english-font">160</span>年终回故里<span class="english-font">!</span> 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
+[^39]: The Paper [澎湃新闻<span class="english-font">, “160</span>年终回故里<span class="english-font">!</span> 马首铜像回归圆明园首度展出]{lang=zh} Repatriated bronze horse head exhibited in Yuanmingyuan,” YouTube video, 30 November 2020, https://youtu.be/N4VTKOHB2l4.
 
 [^40]: The zodiac heads also serve as case studies in larger discussions of national cultural heritage and repatriation. See Derek Gillman, “The Old Summer Palace and the Rhetoric of National Treasures,” *Santander Art and Culture Law Review* 5, no. 2 (2019): 233–44; and Patty Gerstenblith, *Cultural Objects and Repatriative Justice* (Oxford University Press, 2023), 85–95.
 

@@ -151,7 +151,7 @@ Note on the artwork titles: Apart from a few exceptions, Hodler did not assign t
 
 [^15]: Artur Weese, [*Aus der Welt Ferdinand Hodlers*]{lang=de} (Francke, 1918), 24.
 
-[^16]: See the comments by Franz Müller on the two versions of Amiet’s portrait of Hodler in Franz Müller and Viola Radlach, [*Cuno Amiet: Die Gemälde 1883–1919*]{lang=de} (SIK-ISEA; Scheidegger & Spiess, 2014), vol. 1, 166–169, cat. nos. 1898.04, 1898.05.
+[^16]: See the comments by Franz Müller on the two versions of Amiet’s portrait of Hodler in Franz Müller and Viola Radlach, [*Cuno Amiet: Die Gemälde 1883–1919*]{lang=de} (SIK-ISEA; Scheidegger & Spiess, 2014), vol. 1, 166–69, cat. nos. 1898.04, 1898.05.
 
 [^17]: See Oskar Bätschmann, [*Ferdinand Hodler: Bilder der Alpen*]{lang=de} (Schweizerische Akademie der Geistes- und Sozialwissenschaften, 2006), 3–4.
 
@@ -191,7 +191,7 @@ Note on the artwork titles: Apart from a few exceptions, Hodler did not assign t
 
 [^35]: Ferdinand Hodler, [“Über mein Kunstprinzip und über Klimt. 1904,”]{lang=de} in [*Écrits esthétiques,*]{lang=fr} 359.
 
-[^36]: Unpublished diary by Daniel Baud-Bovy, 30 May 1905, 31, archives of the Institut Ferdinand Hodler, Geneva, BB-2010-0004. On Hodler and Giotto, see Niklaus Manuel Güdel, [“Réception moderne de Giotto: L’artiste et l’exégèse, d’Ingres à Rothko,”]{lang=fr}, [*Sociétés et représentations*]{lang=fr}, no. 51 (2021): 27–28.
+[^36]: Unpublished diary by Daniel Baud-Bovy, 30 May 1905, 31, archives of the Institut Ferdinand Hodler, Geneva, BB-2010-0004. On Hodler and Giotto, see Niklaus Manuel Güdel, [“Réception moderne de Giotto: L’artiste et l’exégèse, d’Ingres à Rothko,”]{lang=fr} [*Sociétés et représentations*]{lang=fr}, no. 51 (2021): 27–28.
 
 [^37]: Widmann, [*Erinnerungen an Ferdinand Hodler,*]{lang=de} 62–63.
 

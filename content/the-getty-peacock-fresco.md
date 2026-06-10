@@ -26,7 +26,7 @@ contributor:
     sort_as: "5"
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 5–24 </span>© J. Paul Getty Trust and Sierra Schiano"
 abstract: "Acquired by J. Paul Getty himself in 1968, the Getty Museum’s fragment of a fresco depicting a peacock (68.AG.13) has long been a favorite among visitors. Hitherto considered to be an ancient Roman work produced in Campania circa 70 CE, it has been reproduced as museum merchandise, textbook illustrations, and gift-shop decor. Recent technical examination and analyses combined with historical research, however, reveal that the popular peacock is not in fact ancient; nor does it seem to be a forgery. Rather, it appears to be a reproduction of a now-lost fresco from a Pompeian house that was fashioned to decorate an early twentieth-century “free Greek-style” bungalow designed by architect Robert Alexander Briggs in the English countryside."
-keywords: "Roman wall painting, Getty Peacock fresco, Pompeii, House of Siricus, Robert Alexander Briggs, MA-XRF, pigment identification, technical study"
+keywords: "Roman wall painting, Getty Peacock, fresco, Pompeii, House of Siricus, Robert Alexander Briggs, MA-XRF, pigment identification, technical study"
 peer_review: "Single anonymous, external"
 doi: https://doi.org/10.59491/BTBV8023
 page_pdf_output: true
@@ -226,9 +226,9 @@ The authors of this study are grateful to Mark Abbe, M. Arnold, Will Austin, Jud
 
 [^38]: Photograph, taken in flight 11 April 1947, Historic England Archive, Aerial Photo Explorer, Aerial Photo - RAF_CPE_UK_1982_FP_1145, https://historicengland.org.uk/images-books/archive/collections/aerial-photos/record/raf_cpe_uk_1982_fp_1145.
 
-[^39]: Title Register for 3 Doric Drive, Tadworth (KT20 6HH) (Freehold) title number SY453808, HM Land Registry, https://www.gov.uk/government/organisations/land-registry. Epsom Rural District Council Building Plan application no. 909, submitted 31 May 1911 and approved 7 June 1911, Woking, England, Surrey History Centre Archives. All Census & Electoral Rolls, "Surrey, England, Electoral Registers, 1832–1962," Surrey Electoral Register, Polling District of Banstead, 1913, s.v. “Bellingham, Lester,” accessed on ancestry.co.uk.
+[^39]: Title Register for 3 Doric Drive, Tadworth (KT20 6HH) (Freehold), title number SY453808, HM Land Registry, https://www.gov.uk/government/organisations/land-registry. Epsom Rural District Council Building Plan application no. 909, submitted 31 May 1911 and approved 7 June 1911, Woking, England, Surrey History Centre Archives. All Census & Electoral Rolls, "Surrey, England, Electoral Registers, 1832–1962," Surrey Electoral Register, Polling District of Banstead, 1913, s.v. “Bellingham, Lester,” accessed on ancestry.co.uk.
 
-[^40]: England & Wales, Civil Registration Marriage Index, 1837–1915, Marriages Registered in July, August, and September 1912, s.v. “Bellingham, Lester,” ancestry.co.uk. and All UK and Ireland, Outward Passenger Lists, 1890–1960, s.v. "Gladys Bellingham," departure date 1 July 1913, ancestry.co.uk.
+[^40]: England & Wales, Civil Registration Marriage Index, 1837–1915, Marriages Registered in July, August, and September 1912, s.v. “Bellingham, Lester,” ancestry.co.uk; and All UK and Ireland, Outward Passenger Lists, 1890–1960, s.v. "Gladys Bellingham," departure date 1 July 1913, ancestry.co.uk.
 
 [^41]: Register of Electors, Autumn 1919, Reigate Parliamentary Division of the County of Surrey, Polling District of Mickleham, s.vv. “22 Bellingham, Lester” and “23 Bellingham, Gladys Muriel”; and Register of Electors, Autumn 1919, Reigate Parliamentary Division of the County of Surrey, Polling District of Banstead (Tadworth Only), s.v. “511 Parker, William,” accessed on ancestry.co.uk. 
 
