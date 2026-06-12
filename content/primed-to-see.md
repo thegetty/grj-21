@@ -7,7 +7,7 @@ contributor:
   - first_name: Emilie Chesnutt
     last_name: Boone
     bio: "**Emilie Chesnutt Boone,** associate professor of art history at New York University, writes about photography and the African diaspora."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 134–155 </span>© Emilie Chesnutt Boone"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 21 (2026): 134–55 </span>© Emilie Chesnutt Boone"
 abstract: "A manila folder opens in an archive, and its photographic content delights its viewer and serves as a discovery that reinforces the need to narrate the long-standing history of Black women in photography. When photographer Jeanne Moutoussamy-Ashe encounters a compelling body of photographs by Eslanda Goode Robeson in the archive, the finding galvanizes Moutoussamy-Ashe to publish her book *Viewfinders: Black Women Photographers* in 1986. Although the development of *Viewfinders* gains momentum in the archive, this essay augments its origin story by considering how the author arrives at this moment of readiness and focus, a moment in which being grounded in Black photographic life affords her, and her readers, the possibility of rewriting history."
 keywords: "Black, African American, women, female, photographer, photography, archive, 1980s, historiography"
 peer_review: "Double anonymous, external"
