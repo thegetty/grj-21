@@ -163,13 +163,13 @@ Copies are never neutral, and neither are the spaces that they inhabit. The copy
 
 An earlier version of this paper was presented as a talk at the Getty Research Institute, where I was a predoctoral fellow in the Getty Scholars Program in 2017–18, when its theme was Iconoclasm and Vandalism. I thank all my mentors and colleagues who have heard and read variations of this paper and offered their feedback. Further thanks go to Taliesin Thomas, director of AW Asia, for providing images and permissions. And finally, I would like to thank this journal’s reviewers and editors for their insightful comments and queries.{.backmatter}
 
-The Pinyin system for romanizing Chinese characters is used here, except for personal names where the individual uses a different system. Translations from the Chinese are by the author, unless otherwise noted.{.backmatter}
+The pinyin system for romanizing Chinese characters is used here, except for personal names where the individual uses a different system. Translations from the Chinese are by the author, unless otherwise noted.{.backmatter}
 
 [^1]: “Taiwan Statues Donated by Jackie Chan Defaced with Anti-China Graffiti,” *The Guardian*, 31 December 2015, http://www.theguardian.com/world/2015/dec/31/taiwan-statues-donated-by-jackie-chan-defaced-with-anti-china-graffiti; and Stacy Hsu, “Two Charged After Museum Protest, *Taipei Times,* 1 January 2016, https://www.taipeitimes.com/News/front/archives/2016/01/01/2003636150.
 
 [^2]: Young-tsu Wong, *A Paradise Lost: The Imperial Garden Yuanming Yuan* (University of Hawai’i Press, 2001), 4–5.
 
-[^3]: Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Garden Near Pekin* [. . .]*, *trans. Sir Harry Beaumont [Joseph Spence] (London, 1752). For the history of the letter’s publication and translations, see George R. Loehr, [“L’artiste Jean-Denis Attiret et l’influence exercée par sa description des jardins impériaux,”]{lang=fr} in [*La mission française de Pékin aux XVIIe et XVIIIe siècles*]{lang=fr} (Centre de recherches interdisciplinaire de Chantilly, 1976), 69–83.
+[^3]: Jean-Denis Attiret, *A Particular Account of the Emperor of China’s Garden Near Pekin* [. . .], trans. Sir Harry Beaumont [Joseph Spence] (London, 1752). For the history of the letter’s publication and translations, see George R. Loehr, [“L’artiste Jean-Denis Attiret et l’influence exercée par sa description des jardins impériaux,”]{lang=fr} in [*La mission française de Pékin aux XVIIe et XVIIIe siècles*]{lang=fr} (Centre de recherches interdisciplinaire de Chantilly, 1976), 69–83.
 
 [^4]: Greg M. Thomas, “Yuanming Yuan/Versailles: Intercultural Interactions Between Chinese and European Palace Cultures,” *Art History* 32, no. 1 (February 2009): 115–43.
 

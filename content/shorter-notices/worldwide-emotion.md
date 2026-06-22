@@ -47,7 +47,7 @@ The importance of alternative viewpoints is also emphasized by both formal and t
 
 As Zamora points out, these figures are particularly interesting because they were the first to be whitewashed.[^34] The censorship of [*América tropical*]{lang=es} was not immediate but took place gradually, over a period of six years. In March 1934, Arthur Millier, the art critic for the *Los Angeles Times,* reported that fifteen feet of the mural’s right side—precisely the part visible to pedestrians walking down Olvera Street—had been whitewashed ([fig. 6](#worldwide-emotion-fig-6)).[^35] The rest of the mural would be obscured sometime before 1938. This suggests that the most disturbing aspect for its eventual censors were, rather than the crucified figure, which never would have been visible to most of the mural’s viewers, the revolutionary gunmen.
 
-{% figure 'worldwide-emotion-fig-6' %}
+{% figure 'worldwide-emotion-fig-6' 'pdf-float-top' %}
 
 In 1933, after Siqueiros’s deportation from the United States, his former pupils Reuben Kadish, Harold Lehman, and Philip Guston (then Goldstein) mailed him a photograph of a portable cement mural that they had painted in support of the Scottsboro Boys, nine Black teenagers falsely accused of raping two white women in Alabama in 1931 and sentenced to death.[^36] They quoted the opening lines from *The* *Communist Manifesto* (1848) by Karl Marx and Friedrich Engels: “A specter is haunting Europe—the specter of communism.”[^37] I would argue that the revolutionary specter summoned by [*América tropical*]{lang=es} was not of European provenance but instead emblematized a radical pan-American political consciousness, of which Mariátegui was a key proponent.
 

@@ -92,7 +92,7 @@ GRJ@getty.edu.
 
 **Cover**
 
-**David Alfaro Siqueiros (Mexican, 1896–1974)**. *América tropical oprimida y destrozada por los imperialismos* (Tropical America oppressed and destroyed by imperialism), 1932, fresco applied with Arium on cement, 5.5 × 25 m. Los Angeles, Italian Hall, El Pueblo de Los Angeles Historic Monument. Art © 2026 Artists Rights Society (ARS), New York / SOMAAP, Mexico City. Photograph courtesy Thomas Hartman, IQ Magic; photo composite: James Jackson.
+**David Alfaro Siqueiros (Mexican, 1896–1974)**. *América tropical oprimida y destrozada por los imperialismos* (Tropical America oppressed and destroyed by imperialism) (detail), 1932, fresco applied with Arium on cement, 5.5 × 25 m. Los Angeles, Italian Hall, El Pueblo de Los Angeles Historic Monument. Art © 2026 Artists Rights Society (ARS), New York / SOMAAP, Mexico City. Photograph courtesy Thomas Hartman, IQ Magic; photo composite: James Jackson.
 
 </div>
 <div class="identifiers">
