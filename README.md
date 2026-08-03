@@ -74,16 +74,16 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 
     ```
     <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
-    <meta name="schema:accessMode" content="textual" />
-    <meta name="schema:accessMode" content="visual" />
-    <meta name="schema:accessModeSufficient" content="textual" />
-    <meta name="schema:accessModeSufficient" content="visual" />
-    <meta name="schema:accessibilityFeature" content="alternativeText" />
-    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
-    <meta name="schema:accessibilityFeature" content="tableOfContents" />
-    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
-    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
-    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
     ```
 
 5. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
@@ -94,12 +94,36 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 
 #### Implemented for GRJ 21
 
+**.eleventy.js**
+Remove duplicate id check in IdAttributePlugin
+
+**_plugins/markdown/index.js**
+Added subscript and superscript plugins 
+
 **_includes/components/analytics.js**
 **_layouts/base.11ty.js**
 Update for Getty's google tag manager implementation of GA4
 
+**_includes/components/copyright/licensing.js**
+Updated the image exclusions language and moved print/pdf statement to new location
+
+**_includes/components/figure/image/element.js**
+**_includes/components/figure/image/html.js**
+**_includes/components/figure/image/image-tag.js**
+**_includes/components/figure/caption.js**
+Add `longdesc` support
+
+**_includes/components/head.js**
+**_includes/components/head-tags/dublin-core.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/icons.js**
 Replace default `fullscreen-icon` with a 600 weight version to match caption styles
+
+**_includes/components/license-icons.js**
+Remove SVG icons from EPUB output as they cause validation issues
 
 **_includes/components/menu/header.js**
 Add series number and year to menu header, as well as download links
@@ -131,48 +155,21 @@ Add page-tools include to display PDF download, DOI, abstract, and Cite
 **_layouts/cover.liquid**
 Add journal issue info and publisher, remove contributor
 
+**_plugins/markdown/index.js**
+Add Markdown plugins for super and subscript; add lang as an allowedAttributes for markdown
+
 **_plugins/shortcodes/figureGroup.js**
 Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
 
 **content/_computed/eleventyComputed.js**
 Changed pagination so next/prev pages can be overridden on individual pages; and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
 
+**content/_assets/styles/epub.scss**
+Added completely new CSS for the EPUB output
+
 **content/_assets/fonts/index.scss**
 **content/_assets/styles/variables.scss**
 Add @import call for Typekit fonts; and update variables for GRJ
-
-#### From Previous Issues, Not Yet Implemented for GRJ 21
-
-**_includes/components/figure/image/element.js**
-**_includes/components/figure/image/html.js**
-**_includes/components/figure/image/image-tag.js**
-**_includes/components/figure/caption.js**
-Added `longdesc` support
-
-**_includes/components/head.js**
-**_includes/components/head-tags/dublin-core.js**
-**_includes/components/head-tags/opengraph.js**
-**_includes/components/head-tags/twitter-card.js**
-Update and clean-up handling for social sharing
-
-**_includes/components/copyright/licensing.js**
-Updated the image exclusions language and moved print/pdf statement to new location
-
-**_includes/components/license-icons.js**
-Removed SVG icons from EPUB output as they were causing validation issues
-
-**_layouts/pdf.liquid**
-Update to fix accessibility issues and add cc icons
-
-**_plugins/markdown/index.js**
-**_plugins/transforms/outputs/pdf/write.js**
-Changed `allowedAttributes` on elements to allow any attribute
-
-**_plugins/shortcodes/contributors.js**
-Refactored logic to handle oxford commas correctly
-
-**_plugins/transforms/outputs/pdf/transform.js**
-Fixed transform that was converting external links to slugified anchor links
 
 ## License 
 

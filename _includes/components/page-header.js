@@ -116,8 +116,14 @@ export default function (eleventyConfig) {
 
     const sectionElement = sectionName ? `<span class="section-name" data-outputs-exclude="epub,pdf">${sectionName}</span>` : ''
 
-    const lastNames = contributor && contributor.length == 1 ? `${contributor[0].last_name}`
-      : contributor && contributor.length == 2 ? `${contributor[0].last_name} and ${contributor[1].last_name}`
+    const lastNames = contributor && contributor.length == 1 
+      ? `${contributor[0].last_name}`
+      : contributor && contributor.length == 2 
+      ? `${contributor[0].last_name} and ${contributor[1].last_name}`
+      : contributor && contributor.length == 3
+      ? `${contributor[0].last_name}, ${contributor[1].last_name}, and ${contributor[2].last_name}`
+      : contributor && contributor.length > 3
+      ? `${contributor[0].last_name} et al.`  
       : ''
 
     return html`

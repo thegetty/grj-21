@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add longdesc support
+//
 import { html } from '#lib/common-tags/index.js'
 
 /**
@@ -22,7 +26,8 @@ export default function (eleventyConfig) {
       credit,
       id,
       isSequence,
-      label
+      label,
+      longdesc
     } = figure
 
     const labelElement = figureLabel({ id, label, isSequence })
@@ -38,7 +43,7 @@ export default function (eleventyConfig) {
     let imageElement = figureImageElement(figure, { interactive })
     imageElement = figureModalLink({ content: imageElement, id })
 
-    const captionElement = figureCaption({ caption, content: labelElement, credit })
+    const captionElement = figureCaption({ caption, content: labelElement, credit, id, longdesc })
     const annotationsUIElement = !isSequence ? annotationsUI({ figure, lightbox: true }) : ''
 
     return html`

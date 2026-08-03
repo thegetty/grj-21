@@ -1,27 +1,113 @@
 ---
-title: About
+title: "About This Issue"
 layout: page
-order: 503
+classes: 
+  - masthead
+order: 500
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }} {style="color: var(--accent-color);"}
 
-{% accordion '***Learn more ...***' %}
+{{ publication.description.full }}
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+<div class="masthead_info remove-paragraph-indent">
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+{% for editor in publication.series_editors %}
+- {{ editor | markdownify }}
+{% endfor %}
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+**Getty Research Journal Editorial Advisory Committee**
+{{ publication.series_advisory_committee | markdownify }}
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+</div>
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+{% backmatter %}
 
-{% endaccordion %}
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
+
+<div class="other-formats">
+
+## Other Formats
+
+{% for link in publication.resource_link %}
+{% if link.type == "other-format" %}
+- [{{ link.name }}]({{ link.url }})
+{% endif %}
+{% endfor %}
+
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
+
+</div>
+<div class="revision-history">
+
+## Revision History
+
+{{ publication.revision_statement | markdownify }}
+
+{% for revision in publication.revision_history %}
+
+### {{ revision.date }} {.small-caps}
+
+{% for item in revision.summary %}
+- {{ item | markdownify }}
+{% endfor %}
+
+{% endfor %}
+
+</div>
+<div class="scolars-info">
+
+## Information for Scholars
+
+The manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. “The Getty Peacock Fresco: Unraveling Its History Through Technical and Historical Investigations” by Kenneth Lapatin, Marie Svoboda, Sierra Schiano, Monica Ganio, and Karen Trentelman, and “Becoming Simone Forti: California, 1970–72” by Megan Metcalf received single-anonymous review. “‘This Show Is So Metal’: The Curators of *Lumen: The Art and Science of Light* in Conversation” received editorial review.
+
+To submit a manuscript, please visit
+[grj.scholasticahq.com](https://grj.scholasticahq.com).
+General inquiries may be sent to 
+GRJ@getty.edu.
+
+</div>
+<div class="copyright">
+
+## Copyright
+
+{{ config.quire_credit_line | markdownify }}
+
+{% copyright %}
+
+</div>
+<div class="publisher">
+
+{% for press in publication.publisher %}
+**Published by the {{ press.name }}, {{ press.location }}**
+{{ press.address | markdownify }}
+{% endfor %}
+
+</div>
+<div class="cover-image-credits">
+
+**Cover**
+
+**David Alfaro Siqueiros (Mexican, 1896–1974)**. *América tropical oprimida y destrozada por los imperialismos* (Tropical America oppressed and destroyed by imperialism) (detail), 1932, fresco applied with Arium on cement, 5.5 × 25 m. Los Angeles, Italian Hall, El Pueblo de Los Angeles Historic Monument. Art © 2026 Artists Rights Society (ARS), New York / SOMAAP, Mexico City. Photograph courtesy Thomas Hartman, IQ Magic; photo composite: James Jackson.
+
+</div>
+<div class="identifiers">
+
+## {{ publication.title }}
+
+{% for link in publication.resource_link %}
+{% if link.type == "masthead" %}
+- [{{ link.name }}]({{ link.url }}) {.highlight-link}
+{% endif %}
+{% endfor %}
+
+ISSN: {{ publication.identifier.issn }}
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
+
+</div>
+
+{% endbackmatter %}

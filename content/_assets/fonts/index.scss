@@ -14,6 +14,14 @@ $assets-dir: "/_assets/" !default;
 
 @import url("https://use.typekit.net/dlp6kgq.css");
 
+// Noto Sans Simplified Chinese Light
+@font-face {
+  font-family: "Noto Sans SC Light";
+  src: font("noto-sans-sc/NotoSansSC-Light.eot");
+  src: font("noto-sans-sc/NotoSansSC-Light.woff2") format("woff2"),
+       font("noto-sans-sc/NotoSansSC-Light.woff") format("woff");
+}
+
 ////
 // IBM Plex Sans Condensed
 // https://github.com/IBM/plex

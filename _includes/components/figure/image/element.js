@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add longdesc support
+//
 /**
  * Renders an image
  *
@@ -13,7 +17,7 @@ export default function (eleventyConfig) {
   const imageTag = eleventyConfig.getFilter('imageTag')
 
   return function (figure, options) {
-    const { alt, isCanvas, isImageService, isSequence, staticInlineFigureImage, lazyLoading } = figure
+    const { alt, id, longdesc, isCanvas, isImageService, isSequence, staticInlineFigureImage, lazyLoading } = figure
     const { interactive, preset, lightbox } = options
     if (preset) {
       figure.preset = preset
@@ -22,19 +26,19 @@ export default function (eleventyConfig) {
     switch (true) {
       case isSequence:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
         } else {
           return imageSequence(figure, options)
         }
       case isCanvas:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
         } else {
           return canvasPanel(figure)
         }
       case isImageService:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive, lazyLoading, lightbox })
         } else {
           return imageService(figure)
         }

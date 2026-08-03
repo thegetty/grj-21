@@ -1,3 +1,8 @@
+// 
+// CUSTOMIZED FILE
+// Add Markdown plugins for super and subscript, lines 15–16, 54–55
+// Allow all attributes markdown, line 42
+
 import { footnoteRef, footnoteTail } from './footnotes.js'
 import MarkdownIt from 'markdown-it'
 import anchorsPlugin from 'markdown-it-anchor'
@@ -7,6 +12,8 @@ import defaults from './defaults.js'
 import deflistPlugin from 'markdown-it-deflist'
 import footnotePlugin from 'markdown-it-footnote'
 import removeMarkdown from 'remove-markdown'
+import superscriptPlugin from 'markdown-it-sup'
+import subscriptPlugin from 'markdown-it-sub'
 
 /**
  * An Eleventy plugin to configure the markdown library
@@ -33,7 +40,7 @@ export default function (eleventyConfig, options) {
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
   const attributesOptions = {
-    allowedAttributes: ['class', 'id', 'target'],
+    allowedAttributes: [],
     leftDelimiter: '{',
     rightDelimiter: '}'
   }
@@ -44,6 +51,8 @@ export default function (eleventyConfig, options) {
     .use(bracketedSpansPlugin)
     .use(deflistPlugin)
     .use(footnotePlugin)
+    .use(superscriptPlugin)
+    .use(subscriptPlugin)
 
   /**
    * Set recognition options for links without a schema
@@ -59,14 +68,32 @@ export default function (eleventyConfig, options) {
       return self.renderToken(tokens, idx, options)
     }
 
-  /**
-   * Render external links so that they open in a new tab
-   */
   markdownLibrary.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+    /**
+     * Render external links so that they open in a new tab
+     */
     const href = tokens[idx].attrGet('href')
     if (href.startsWith('http')) {
       tokens[idx].attrSet('target', '_blank')
     }
+
+    /**
+     * Insert zero-width space with punctuation for better line breaks in URLs
+     * per Chicago Manual of Style
+     */
+    const linkTextIndex = idx + 1
+    const breakAfter = /([[\/]{2}|:])/g // double-slash and colon
+    const breakBefore = /([(?<!\/)\/(?!\/)|~|\.|,|_|?|#|%|=|+|&|-])/g // single-slash and others
+    const breakCharacter = '​' // zero-width space  
+
+    const linkText = tokens[linkTextIndex].content.includes('http') 
+      ? tokens[linkTextIndex].content
+        .replace(breakAfter, '$1' + breakCharacter)
+        .replace(breakBefore, breakCharacter + '$1')
+      : tokens[linkTextIndex].content
+    
+    tokens[linkTextIndex].content = linkText
+
     return defaultRender(tokens, idx, options, env, self)
   }
 

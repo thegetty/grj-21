@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Remove duplicate id check in IdAttributePlugin
+//
 import fs from 'fs-extra'
 import path from 'node:path'
 
@@ -187,7 +191,9 @@ export default async function (eleventyConfig) {
   /**
    * @see https://www.11ty.dev/docs/plugins/id-attribute/
    */
-  eleventyConfig.addPlugin(IdAttributePlugin)
+  eleventyConfig.addPlugin(IdAttributePlugin, {
+    checkDuplicates: false, 
+  })
 
   /**
    * @see https://www.11ty.dev/docs/plugins/inputpath-to-url/

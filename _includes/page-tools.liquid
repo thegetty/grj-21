@@ -1,15 +1,60 @@
 {%- if contributor.length == 1 -%}
-{%- capture chicagoContributor %}{{ contributor[0].first_name }} {{ contributor[0].last_name }}{%- endcapture -%}
-{%- capture mlaContributor %}{{ contributor[0].last_name }}, {{ contributor[0].first_name }}{% endcapture -%}
-{%- assign lastCharacter = contributor[0].first_name | slice: -1,1 -%}
+
+  {%- capture chicagoContributor -%}
+    {{ contributor[0].first_name }} {{ contributor[0].last_name }}
+  {%- endcapture -%}
+
+  {%- capture mlaContributor -%}
+    {{ contributor[0].last_name }}, {{ contributor[0].first_name }}
+  {%- endcapture -%}
+
+  {%- assign lastCharacter = contributor[0].first_name | slice: -1,1 -%}
+
 {%- elsif contributor.length == 2 -%}
-{%- capture chicagoContributor %}{{ contributor[0].first_name }} {{ contributor[0].last_name }} and {{ contributor[1].first_name }} {{ contributor[1].last_name }}{% endcapture -%}
-{%- capture mlaContributor %}{{ contributor[0].last_name }}, {{ contributor[0].first_name }}, and {{ contributor[1].first_name }} {{ contributor[1].last_name }}{% endcapture -%}
-{%- assign lastCharacter = contributor[1].first_name | slice: -1,1 -%}
+
+  {%- capture chicagoContributor -%}
+    {{ contributor[0].first_name }} {{ contributor[0].last_name }} and {{ contributor[1].first_name }} {{ contributor[1].last_name }}
+  {%- endcapture -%}
+
+  {%- capture mlaContributor -%}
+    {{ contributor[0].last_name }}, {{ contributor[0].first_name }}, and {{ contributor[1].first_name }} {{ contributor[1].last_name }}
+  {%- endcapture -%}
+
+  {%- assign lastCharacter = contributor[1].first_name | slice: -1,1 -%}
+
 {%- else -%}
+
+  {%- if contributor.length <= 6 -%}
+    
+    {%- capture chicagoContributor -%}
+      {%- for person in contributor -%}
+        {%- if forloop.first -%}
+          {{ person.first_name }} {{ person.last_name }}, {% elsif forloop.last -%}
+          and {{ person.first_name }} {{ person.last_name }}{%- else -%}
+          {{ person.first_name }} {{ person.last_name }}, {% endif -%}
+      {%- endfor -%}
+    {%- endcapture -%}
+
+    {%- assign lastCharacter = contributor[contributor.length-1].first_name | slice: -1,1 -%}
+
+  {%- else -%}
+
+    {%- capture chicagoContributor -%}
+      {{ contributor[0].first_name }} {{ contributor[0].last_name }}, {{ contributor[1].first_name }} {{ contributor[1].last_name }}, and {{ contributor[2].first_name }} {{ contributor[2].last_name }} et al.
+    {%- endcapture -%}
+
+    {%- assign lastCharacter = contributor[2].first_name | slice: -1,1 -%}
+
+  {%- endif -%}
+
+  {%- capture mlaContributor -%}
+    {{ contributor[0].last_name }}, {{ contributor[0].first_name }}, et al
+  {%- endcapture -%}
+
 {%- endif -%}
+
 {%- if lastCharacter == "." -%}
-  {% assign mlaContributorBreak = "" -%}
+  {%- assign mlaContributorBreak = "" -%}
 {%- else -%}
   {%- assign mlaContributorBreak = "." -%}
 {%- endif -%}
@@ -28,25 +73,26 @@
       {{ keywords | markdownify }}
 
       {% endif %}
-
+      {% endaccordion %}
+      {% endif %}
       {% if peer_review %}
-
-      Peer Review {.page-tools__heading}
+      {% accordion 'Peer Review' %}
 
       {{  peer_review  | markdownify }}
-
-      {% endif %}
-
+      
       {% endaccordion %}
       {% endif %}
       {% if doi %}
       {% accordion 'Cite' %}
+
+      {%- assign citationTitle = title | replace: '“', '‘' | replace: '”', '’' -%}
+      {%- assign citationSubtitle = subtitle | replace: '“', '‘' | replace: '”', '’' -%}
     
       **Chicago**
-      {{ chicagoContributor }}, “{% pageTitle title=title subtitle=subtitle %},” *{{ publication.title }}*, no. {{ publication.series_issue_number }} ({{ publication.pub_date | date: "%Y" }}), {{ doi }}.
+      {{ chicagoContributor }}, “{% pageTitle title=citationTitle subtitle=citationSubtitle %},” *{{ publication.title }}*, no. {{ publication.series_issue_number }} ({{ publication.pub_date | date: "%Y" }}), {{ doi }}.
       
       **MLA**
-      {{ mlaContributor }}{{ mlaContributorBreak }} “{% pageTitle title=title subtitle=subtitle %}.” *{{ publication.title }}*, no. {{ publication.series_issue_number }}, {{ publication.pub_date | date: "%Y" }}, {{ doi }}.
+      {{ mlaContributor }}{{ mlaContributorBreak }} “{% pageTitle title=citationTitle subtitle=citationSubtitle %}.” *{{ publication.title }}*, no. {{ publication.series_issue_number }}, {{ publication.pub_date | date: "%Y" }}, {{ doi }}.
       
       {{ copyright | markdownify }}
       {% endaccordion %}
