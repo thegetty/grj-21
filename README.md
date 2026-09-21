@@ -73,7 +73,7 @@ git clone --recursive https://github.com/thegetty/grj-21.git
 4. Use a tool like , to unzip the resulting EPUB file, and in `getty-research-journal-21/ops/package.opf` add the following metadata items
 
     ```
-    <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+    <meta property="schema:accessibilitySummary">We take accessibility seriously and have done our best to conform to industry standards. Please let us know if you find anything inaccessible within our book as we continue improving our process.</meta>
     <meta property="schema:accessMode">textual</meta>
     <meta property="schema:accessMode">visual</meta>
     <meta property="schema:accessModeSufficient">textual</meta>
@@ -81,9 +81,12 @@ git clone --recursive https://github.com/thegetty/grj-21.git
     <meta property="schema:accessibilityFeature">alternativeText</meta>
     <meta property="schema:accessibilityFeature">structuralNavigation</meta>
     <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">Single logical reading order</meta>
+    <meta property="schema:accessibilityFeature">WCAG level A</meta>
     <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
     <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
     <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    
     ```
 
 5. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
