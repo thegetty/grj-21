@@ -118,7 +118,7 @@
     "rollup-plugin-scss": "^3.0.0",
     "sass": "^1.70.0",
     "sharp": "^0.33.2",
-    "toml": "^3.0.0"
+    "toml": "^4.2.0"
   },
   "engines": {
     "node": ">=22"
