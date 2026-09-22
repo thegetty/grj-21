@@ -63,7 +63,7 @@
   "devDependencies": {
     "@11ty/eleventy": "<=3.1.2",
     "@11ty/eleventy-fetch": "^5.1.0",
-    "@11ty/eleventy-img": "^6.0.1",
+    "@11ty/eleventy-img": "^7.0.0",
     "@11ty/eleventy-navigation": "^1.0.1",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
@@ -117,7 +117,7 @@
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-scss": "^3.0.0",
     "sass": "^1.70.0",
-    "sharp": "^0.33.2",
+    "sharp": "^0.35.4",
     "toml": "^3.0.0"
   },
   "engines": {
